@@ -1,0 +1,603 @@
+id,title,selftext,subreddit,author,score,upvote_ratio,num_comments,created_utc,url,permalink,link_flair_text,is_self,over_18,spoiler,stickied,locked,distinguished,retrieved_at
+1n9syis,"Showoff Saturday (September 06, 2025)","Did you find or create something cool this week in javascript?       
+
+Show us here!",javascript,AutoModerator,8,0.85,7,1757142032.0,https://www.reddit.com/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/,https://reddit.com/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/,Showoff Saturday,True,False,False,True,False,,2025-09-10T22:29:45.297714+00:00
+1nbiroz,"Your /r/javascript recap for the week of September 01 - September 07, 2025","**Monday, September 01 - Sunday, September 07, 2025**
+
+###Top Posts
+
+| score | comments | title & link |
+|--|--|--|
+| 92  | [126 comments](/r/javascript/comments/1n6bnrl/askjs_whats_a_small_coding_tip_that_saved_you/)  | `[AskJS]` &#91;AskJS&#93; What’s a small coding tip that saved you HOURS?|
+| 15  | [7 comments](/r/javascript/comments/1n83l78/i_built_usaljs_a_9kb_scroll_animation_library/)  | [I built USAL.js - a 9KB scroll animation library with text effects and framework support for React, Vue, Svelte, Angular + Web Components](https://github.com/italoalmeida0/usal)|
+| 14  | [2 comments](/r/javascript/comments/1n6sgli/open_source_rule_engine/)  | [Open Source Rule Engine](https://github.com/ali-master/rule-engine)|
+| 11  | [16 comments](/r/javascript/comments/1n9o2c7/askjs_is_adding_methods_to_elements_a_good_idea/)  | `[AskJS]` &#91;AskJS&#93; Is adding methods to elements a good idea?|
+| 9  | [3 comments](/r/javascript/comments/1n8dmd7/i_built_nocojs_a_built_time_library_to_create/)  | [I built nocojs - a built time library to create inline placeholder for images](https://github.com/akzhy/nocojs)|
+| 8  | [0 comments](/r/javascript/comments/1navf6o/github_beep8beep8sdk_sdk_for_developing_games_and/)  | [GitHub - beep8/beep8-sdk: SDK for developing games and tools for the BEEP-8 fantasy console.](https://github.com/beep8/beep8-sdk)|
+| 7  | [2 comments](/r/javascript/comments/1n8ukb3/mermaid_editorrenderer/)  | [Mermaid Editor/Renderer](https://mermaid-editor.online)|
+| 6  | [42 comments](/r/javascript/comments/1n85kdg/askjs_node_vs_deno_vs_bun_what_are_you_actually/)  | `[AskJS]` &#91;AskJS&#93; Node vs Deno vs Bun , what are you actually using in 2025?|
+| 5  | [3 comments](/r/javascript/comments/1nah91d/askjs_connecting_backend_with_primavera_p6/)  | `[AskJS]` &#91;AskJS&#93; connecting backend with Primavera P6|
+| 5  | [0 comments](/r/javascript/comments/1n96ofx/made_a_vscode_extension_to_clean_up_messy_fetch/)  | [Made a VSCode extension to clean up messy fetch requests from DevTools](https://www.reddit.com/r/webdev/comments/1n953ze/made_a_vscode_extension_to_clean_up_messy_fetch/)|
+
+
+&nbsp;
+
+###Most Commented Posts
+
+| score | comments | title & link |
+|--|--|--|
+| 2  | [49 comments](/r/javascript/comments/1n6fn3v/askjs_can_i_learn_oop_with_javascript/)  | `[AskJS]` &#91;AskJS&#93; Can I learn OOP with JavaScript?|
+| 0  | [17 comments](/r/javascript/comments/1n6j0fx/finally_added_service_workers_to_my_app_it_loads/)  | [Finally added service workers to my app, it loads instantly!](https://qching.ai/)|
+| 0  | [14 comments](/r/javascript/comments/1n92pxn/askjs_is_webstorm_still_the_better_ide_for_modern/)  | `[AskJS]` &#91;AskJS&#93; Is WebStorm still the better IDE for modern JavaScript/TypeScript dev vs VS Code?|
+| 0  | [13 comments](/r/javascript/comments/1n7btmm/is_javascripts_bigint_broken/)  | [Is JavaScript's BigInt broken?](https://waspdev.com/articles/2025-08-16/is-js-bigint-broken)|
+| 2  | [9 comments](/r/javascript/comments/1n6shqq/github_alimasterpingu_a_modern_ping_utility_with/)  | [GitHub - ali-master/pingu: A modern ping utility with beautiful CLI output](https://github.com/ali-master/pingu)|
+
+
+&nbsp;
+
+###Top Ask JS
+
+| score | comments | title & link |
+|--|--|--|
+| 1  | [5 comments](/r/javascript/comments/1n928po/askjs_multiple_videos_managed_in_electron_will_it/)  | `[AskJS]` &#91;AskJS&#93; Multiple videos managed in electron, will it work?|
+| 0  | [0 comments](/r/javascript/comments/1n86px0/askjs_planning_to_build_a_backend_framework_for/)  | `[AskJS]` &#91;AskJS&#93; Planning to build a Backend Framework for Node-JS|
+| 0  | [2 comments](/r/javascript/comments/1n7y2vq/askjs_is_it_possible_to_deobfuscate_jsc_bytenode/)  | `[AskJS]` &#91;AskJS&#93;  is it possible to deobfuscate .jsc bytenode code|
+
+
+&nbsp;
+
+###Top Showoffs
+
+| score  |  comment  |
+|--|--|
+| 3  |  /u/bigsido said [I made a huge update of my personal website in PixiJS :   &#91;https://www.sido.fr/&#93;&#40;https://www.sido.fr/&#41;](/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/ncqp6n2/?context=5) |
+| 1  |  /u/ratudev said [10 years, countless Node.js scripts - shortcuts, tips, and practical lessons packed into one juicy article:     \-  &#91;https://ratu.dev/blog/mastering-nodejs-scripting&#93;&#40;https://ratu.dev/blog...](/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/ncwxns1/?context=5) |
+| 1  |  /u/MagnussenXD said [This subreddit itself is cool!     anyway if you are into building static websites, check this cors proxy &#91;https://github.com/corsfix/corsfix&#93;&#40;https://github.com/corsfix/corsfix&#41;](/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/ncqwplo/?context=5) |
+
+
+&nbsp;
+
+###Top Comments
+
+| score  |  comment  |
+|--|--|
+| 137  |  /u/mediumdeviation said [For front end only, &#96;setTimeout&#40;&#40;&#41; => { debugger }, 1000&#41;&#96; is an easy way to freeze the UI in a specific state when you need to inspect elements / styles. You have one second t...](/r/javascript/comments/1n6bnrl/askjs_whats_a_small_coding_tip_that_saved_you/nbz0lkf/?context=5) |
+| 67  |  /u/kmarple1 said [Other programmers are terrible. Putting branch protections on your main branch and enforcing that linting, unit tests, a build, etc. must pass before merging PRs will save you hours fixing their shitt...](/r/javascript/comments/1n6bnrl/askjs_whats_a_small_coding_tip_that_saved_you/nbz2qln/?context=5) |
+| 66  |  /u/stathis21098 said [Node](/r/javascript/comments/1n85kdg/askjs_node_vs_deno_vs_bun_what_are_you_actually/nccevq0/?context=5) |
+| 66  |  /u/manniL said [Learn your IDE shortcuts, srsly!](/r/javascript/comments/1n6bnrl/askjs_whats_a_small_coding_tip_that_saved_you/nbyxxn5/?context=5) |
+| 39  |  /u/Budget-Emergency-508 said [To debug css layouts just do *{outline:1px sold red}.](/r/javascript/comments/1n6bnrl/askjs_whats_a_small_coding_tip_that_saved_you/nbz72ln/?context=5) |
+
+
+&nbsp;",javascript,subredditsummarybot,21,0.97,3,1757322364.0,https://www.reddit.com/r/javascript/comments/1nbiroz/your_rjavascript_recap_for_the_week_of_september/,https://reddit.com/r/javascript/comments/1nbiroz/your_rjavascript_recap_for_the_week_of_september/,Subreddit Stats,True,False,False,True,False,,2025-09-10T22:29:46.302768+00:00
+1nd9rsf,[AskJS] What is a good blogging CMS js-based?,"Im learning js, but I've been blogging on WP, which is PHP based.
+
+I think it would be more beneficial for me to use a Javascript cms so that I can use what im continuing to learn.
+
+Does anyone know of a good CMS?",javascript,OnceUponAHeart,4,0.7,15,1757497501.0,https://www.reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/,AskJS,True,False,False,False,False,,2025-09-10T22:29:47.307806+00:00
+1ndkxr9,How To Set Up Express 5 In 2025,"Hi everyone 👋
+
+I just published an article with an accompanying video about setting up Express 5 for production. Hope it helps some of y’all!",javascript,jancodes,2,0.58,1,1757525958.0,https://www.reactsquad.io/blog/how-to-set-up-express-5-in-2025,https://reddit.com/r/javascript/comments/1ndkxr9/how_to_set_up_express_5_in_2025/,,False,False,False,False,False,,2025-09-10T22:29:48.311955+00:00
+1ndjvwr,Open Source Multi-Chat for Twitch + YouTube + TikTok (Node.js Project),"Hey everyone! 👋
+
+I’ve been working on an open-source project that unifies live chat from Twitch, YouTube, and TikTok into a single interface. Perfect for streamers or devs who want to experiment with multi-platform integration.  
+
+✨ Features:
+- 🎮 Twitch | ▶️ YouTube | 🎵 TikTok support
+- ✅ Light/Dark mode
+- ✅ Clean log and message backgrounds for better readability
+- ✅ Automatic quota management for YouTube API (10,000 calls/day)
+
+⚙️ Built with:
+- Node.js (ES6 Modules, no extra config needed)
+- Express
+- Socket.io
+- tmi.js
+- Google APIs
+- TikTok Live Connector
+
+🔗 GitHub Repo (full code + installation guide):
+👉 https://github.com/BuchercheCoder/multi-chat-live
+
+Would love feedback from the community! 🙌",javascript,Bucherche,0,0.33,0,1757523656.0,https://github.com/BuchercheCoder/multi-chat-live,https://reddit.com/r/javascript/comments/1ndjvwr/open_source_multichat_for_twitch_youtube_tiktok/,,False,False,False,False,False,,2025-09-10T22:29:49.316001+00:00
+1ndg83w,Make Your Website Talk with The JavaScript Web Speech API,"Adding a ""listen"" button with the Web Speech API is a simple way to make my blog more inclusive and engaging. It helps make my content more flexible for everyone, not just the visually impaired. ",javascript,AndyMagill,0,0.4,1,1757515643.0,https://magill.dev/post/make-your-website-talk-with-the-javascript-web-speech-api,https://reddit.com/r/javascript/comments/1ndg83w/make_your_website_talk_with_the_javascript_web/,,False,False,False,False,False,,2025-09-10T22:29:50.320721+00:00
+1ncklq1,color npm package compromised,,javascript,Kabra___kiiiiiiiid,27,0.82,12,1757428486.0,https://fasterthanli.me/articles/color-npm-package-compromised,https://reddit.com/r/javascript/comments/1ncklq1/color_npm_package_compromised/,,False,False,False,False,False,,2025-09-10T22:29:51.325735+00:00
+1ncnfwu,Lessons from npm's Security Failures,,javascript,OuPeaNut,3,0.67,2,1757434918.0,https://oneuptime.com/blog/post/2025-09-09-lessons-from-npm-security-failures/view,https://reddit.com/r/javascript/comments/1ncnfwu/lessons_from_npms_security_failures/,,False,False,False,False,False,,2025-09-10T22:29:52.330756+00:00
+1nci9sw,"htms-js: Stream Async HTML, Stay SEO-Friendly","Hey everyone, I’ve been playing with web streams lately and ended up building [htms-js](https://github.com/skarab42/htms-js), an experimental toolkit for streaming HTML in Node.js.
+
+Instead of rendering the whole HTML at once, it processes it as a stream: tokenize → annotate → serialize. The idea is to keep the server response SEO and accessibility friendly from the start, since it already contains all the data (even async parts) in the initial stream, while still letting you enrich chunks dynamically as they flow.
+
+There’s a small [live demo](https://htms.skarab42.dev) powered by a tiny zero-install server (`htms-server`), and more examples in the repo if you want to try it yourself.
+
+It’s very early, so I’d love feedback: break it, test weird cases, suggest improvements… anything goes.
+
+# Packages
+
+This project contains multiple packages:
+
+* [**htms-js**](https://github.com/skarab42/htms-js/tree/main/packages/htms-js) – Core library to tokenize, resolve, and stream HTML.
+* [**fastify-htms**](https://github.com/skarab42/htms-js/tree/main/packages/fastify-htms) – Fastify plugin that wires `htms-js` into Fastify routes.
+* [**htms-server**](https://github.com/skarab42/htms-js/tree/main/packages/htms-server) – CLI to quickly spin up a server and test streaming HTML.
+
+# 🚀 Quick start
+
+# 1. Install
+
+Use your preferred package manager to install the plugin:
+
+    pnpm add htms-js
+
+# 2. HTML with placeholders
+
+    <!-- home-page.html -->
+    <!doctype html>
+    <html lang=""en"">
+      <body>
+        <h1>News feed</h1>
+        <div data-htms=""loadNews"">Loading news…</div>
+    
+        <h1>User profile</h1>
+        <div data-htms=""loadProfile"">Loading profile…</div>
+      </body>
+    </html>
+
+# 3. Async tasks
+
+    // home-page.js
+    export async function loadNews() {
+      await new Promise((r) => setTimeout(r, 100));
+      return `<ul><li>Breaking story</li><li>Another headline</li></ul>`;
+    }
+    
+    export async function loadProfile() {
+      await new Promise((r) => setTimeout(r, 200));
+      return `<div class=""profile"">Hello, user!</div>`;
+    }
+
+# 4. Stream it (Express)
+
+    import { Writable } from 'node:stream';
+    import Express from 'express';
+    import { createHtmsFileModulePipeline } from 'htms-js';
+    
+    const app = Express();
+    
+    app.get('/', async (_req, res) => {
+      res.setHeader('Content-Type', 'text/html; charset=utf-8');
+      await createHtmsFileModulePipeline('./home-page.html').pipeTo(Writable.toWeb(res));
+    });
+    
+    app.listen(3000);
+
+Visit `http://localhost:3000`: content renders immediately, then fills itself in.
+
+>**Note:** By default, `createHtmsFileModulePipeline('./home-page.html')` resolves `./home-page.js`. To use a different file or your own [resolver](https://github.com/skarab42/htms-js/tree/main/packages/htms-js#custom-resolvers), see [API](https://github.com/skarab42/htms-js/tree/main/packages/htms-js#api).
+
+# Examples
+
+* [Express](https://github.com/skarab42/htms-js/tree/main/examples/express/index.ts), [Fastify](https://github.com/skarab42/htms-js/tree/main/examples/fastify/index.ts), [Hono](https://github.com/skarab42/htms-js/tree/main/examples/hono/index.ts)
+* [Raw streaming](https://github.com/skarab42/htms-js/tree/main/examples/stdout/index.ts) (stdout)
+* [htms server](https://github.com/skarab42/htms-js/tree/main/examples/server) (cli)
+
+&#8203;
+
+    git clone https://github.com/skarab42/htms-js.git
+    cd htms-js
+    pnpm i && pnpm build
+    
+    pnpm --filter (express|fastify|hono|stdout|server)-example start
+
+# How it works
+
+1. **Tokenizer:** scans HTML for `data-htms`.
+2. **Resolver:** maps names to async functions.
+3. **Serializer:** streams HTML and emits chunks as tasks finish.
+4. **Client runtime:** swaps placeholders and cleans up markers.
+
+Result: **SEO-friendly streaming HTML** with minimal overhead.",javascript,skarab42-dev,5,0.86,3,1757422838.0,https://github.com/skarab42/htms-js,https://reddit.com/r/javascript/comments/1nci9sw/htmsjs_stream_async_html_stay_seofriendly/,,False,False,False,False,False,,2025-09-10T22:29:53.335732+00:00
+1ncjl9t,Common FP - A New JS Utility Lib,,javascript,waphilmmm,3,0.64,3,1757426120.0,https://common-fp.org/,https://reddit.com/r/javascript/comments/1ncjl9t/common_fp_a_new_js_utility_lib/,,False,False,False,False,False,,2025-09-10T22:29:54.340746+00:00
+1ncgcli,"Oh no, not again... a meditation on NPM supply chain attacks",,javascript,tanepiper,2,0.6,0,1757417457.0,https://tane.dev/2025/09/oh-no-not-again...-a-meditation-on-npm-supply-chain-attacks/,https://reddit.com/r/javascript/comments/1ncgcli/oh_no_not_again_a_meditation_on_npm_supply_chain/,,False,False,False,False,False,,2025-09-10T22:29:55.340809+00:00
+1nbp3c4,"NPM package ""error-ex"" just got published with malware (47m downloads)",,javascript,pace-runner,83,0.98,15,1757341386.0,https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the,https://reddit.com/r/javascript/comments/1nbp3c4/npm_package_errorex_just_got_published_with/,,False,False,False,False,False,,2025-09-10T22:29:56.342513+00:00
+1ncs67b,[AskJS] Why aren't there HtmlEncode-Decode methods in pure JS,"I am really shocked to learn this, JS doesnt have these methods. I am relying on a few answers in Stackoverflow, but you know, there are always some missing points and using an actual method from a package or from the actual language is much more reliable.  
+
+Why are these methods missing? I think it is really needed",javascript,sahinbey52,0,0.33,8,1757445371.0,https://www.reddit.com/r/javascript/comments/1ncs67b/askjs_why_arent_there_htmlencodedecode_methods_in/,https://reddit.com/r/javascript/comments/1ncs67b/askjs_why_arent_there_htmlencodedecode_methods_in/,AskJS,True,False,False,False,False,,2025-09-10T22:29:57.347624+00:00
+1nce8rz,[AskJS] Learning JavaScript: Beyond Tutorials,"I am currently working through the FreeCodeCamp JavaScript steps and will finish them soon. I see it as a very good start for diving deeper into JS.
+
+However, while working through the steps, I don't feel like I'm benefiting much, even though I have a feeling that I'm getting more and more used to the JS syntax. But I have a feeling that I'm still missing a lot afterwards.
+
+I don't think I'll be able to solve my own problems in JS after this, the way I do when following the interactive JS course from FreeCodeCamp.
+
+Has anyone gone through this experience? How long do you think I need to master JS well?",javascript,Excell2178,0,0.5,6,1757410070.0,https://www.reddit.com/r/javascript/comments/1nce8rz/askjs_learning_javascript_beyond_tutorials/,https://reddit.com/r/javascript/comments/1nce8rz/askjs_learning_javascript_beyond_tutorials/,AskJS,True,False,False,False,False,,2025-09-10T22:29:58.349851+00:00
+1nch8to,javascript + ai backends: 16 reproducible failure modes (and the fixes you can apply from the client),"ever shipped a clean frontend, got a 200 ok, and the answer still pointed to the wrong doc? most “frontend bugs” in ai apps are actually backend reasoning failures that are *reproducible* and *fixable* with the right guardrails.
+
+i compiled a Problem Map of 16 failure modes with minimal fixes. it’s vendor-agnostic, zero-SDK. you can enforce the acceptance contract from your js client and stop the whack-a-mole.
+
+### before vs after (why this works)
+
+* before: patch *after* output. add rerankers, regex, retries, one-off tool calls. the same bug returns somewhere else.
+
+* after: check the semantic state before output. if unstable, loop/reset or refuse. once a mode is mapped, it *stays* fixed.
+
+### quick triage for js devs
+
+* wrong page or random citation → No.1 (hallucination & chunk drift) + No.8 (traceability)
+
+* “nearest neighbors” are semantically wrong → No.5 (semantic ≠ embedding)
+
+* long prompts go off the rails mid-chain → No.3 (long reasoning chains)
+
+* confident nonsense → No.4 (bluffing / overconfidence)
+
+* deploy hits cold indexes / wrong secrets → No.14–16 (bootstrap / deploy deadlocks)
+
+### the acceptance contract (client-side)
+
+target three numbers for every answer:
+
+* ΔS ≤ 0.45  (semantic tension between question and draft answer)
+
+* coverage ≥ 0.70  (evidence actually supports the claim)
+
+* λ convergent  (no escalating hazard across steps)
+
+if your backend can emit these, you can hard-gate on the client. minimal sketch:
+
+```
+
+async function ask(q) {
+  const res = await fetch('/api/answer', {
+    method: 'POST',
+    headers: {'content-type': 'application/json'},
+    body: JSON.stringify({q, accept: {deltaS: 0.45, coverage: 0.70}})
+  }).then(r => r.json());
+
+  const { text, metrics } = res; // { deltaS, coverage, lambda_state, trace }
+  if (metrics.deltaS > 0.45 || metrics.coverage < 0.70 || metrics.lambda_state !== 'convergent') {
+    // request a re-grounded attempt or show a transparent fallback
+    return { text: 'regrounding…', retry: true, trace: metrics.trace };
+  }
+  return { text, trace: metrics.trace };
+}
+
+```
+
+### trace headers you should insist on
+
+* chunk ids + offsets (so you can jump back to the exact source)
+
+* embedding model + metric (cosine vs dot, normalized?)
+
+* index build id (detect stale or fragmented stores)
+
+* acceptance metrics (ΔS, coverage, λ_state)
+
+### when things break, map to a number (then fix it once)
+
+* multi-language answers jump scripts → Language / LanguageLocale pages (tokenizer mismatch, analyzer skew)
+
+* hybrid search returns “close but wrong” → RAG_VectorDB: metric mismatch
+
+* html/pdf tables become prose and lose truth values → No.11 symbolic collapse
+
+* multi-agent flows wait on each other forever → No.13 multi-agent chaos
+
+bookmark this so you don’t have to remember which knob lives where:
+
+if you try it, reply with the No. you hit and your stack (pgvector/faiss/elasticsearch, langchain/llamaindex/autogen, etc.). i can point you to the exact page for that mode and the smallest viable repair.
+
+Thanks for reading my work 
+",javascript,onestardao,0,0.36,0,1757420092.0,https://github.com/onestardao/WFGY/tree/main/ProblemMap/README.md,https://reddit.com/r/javascript/comments/1nch8to/javascript_ai_backends_16_reproducible_failure/,,False,False,False,False,False,,2025-09-10T22:29:59.350842+00:00
+1nbt6ef,Higher-Order Transform Streams: Sequentially Injecting Streams Within Streams,,javascript,tmetler,7,0.82,6,1757350589.0,https://www.timetler.com/2025/08/23/parallel-recursive-streaming-ai-swarms/,https://reddit.com/r/javascript/comments/1nbt6ef/higherorder_transform_streams_sequentially/,,False,False,False,False,False,,2025-09-10T22:30:00.355913+00:00
+1ncfeic,[AskJS] Most frontend frameworks are overkill for 80% of web apps,"Hear me out.. I love React, Vue, Svelte, etc. But the more I build, the more I realise that for most internal tools, dashboards, marketing sites, and CRUD apps.. a basic setup with vanilla JavaScript or even server-rendered HTML (like HTMX or Alpine.js) often gets the job done faster, with less complexity.
+
+Frameworks introduce a lot of overhead:
+
+* Routing, state management, hydration, bundling
+* Dev tooling, build pipelines, dependency hell
+* Constant updates and breaking changes
+
+For small teams or solo devs, this can be a productivity killer.
+
+I am not saying frameworks are bad, they shine in large-scale apps, SPAs, and highly interactive UIs. But I think we have normalized using them for everything, even when simpler solutions would suffice.
+
+Curious what others think.. Are we overengineering the frontend? Or is the tradeoff worth it?",javascript,itsbrendanvogt,0,0.45,33,1757414345.0,https://www.reddit.com/r/javascript/comments/1ncfeic/askjs_most_frontend_frameworks_are_overkill_for/,https://reddit.com/r/javascript/comments/1ncfeic/askjs_most_frontend_frameworks_are_overkill_for/,AskJS,True,False,False,False,False,,2025-09-10T22:30:01.360889+00:00
+1nc4tq9,[AskJS] Looking for a JS app for showing off photos from S3 Bucket,"I'm an amateur photographer have have hundreds of photos in albums that I'd like to serve up using a Javascript app running in AWS.  The photos will be stored in an S3 bucket.  Does anyone have anything or know of a project that I could use?  
+
+I know enough to be dangerous with Javascript (little JQuery, MUI, React) but that's about it.  
+
+If anyone doesn't know of a project, could you recommend some packages that may help me to write my own app.  Thanks in advance.",javascript,elihusmails,0,0.5,8,1757378118.0,https://www.reddit.com/r/javascript/comments/1nc4tq9/askjs_looking_for_a_js_app_for_showing_off_photos/,https://reddit.com/r/javascript/comments/1nc4tq9/askjs_looking_for_a_js_app_for_showing_off_photos/,AskJS,True,False,False,False,False,,2025-09-10T22:30:02.365503+00:00
+1ncc099,Migrate JavaScript to TypeScript Without Losing Your Mind,,javascript,Mindless_Shape_6387,0,0.38,13,1757401083.0,https://toolstac.com/howto/migrate-javascript-project-typescript/complete-migration-guide,https://reddit.com/r/javascript/comments/1ncc099/migrate_javascript_to_typescript_without_losing/,,False,False,False,False,False,,2025-09-10T22:30:03.370538+00:00
+1nbtxfg,[AskJS] Count lines for a contenteditable div?,"Hey guys, is there a technique you guys have for getting a code editor style line number count, on a contenteditable DIV?
+
+I've been having a TON of trouble, getting it to cut correctly with ""visual"" lines. (word wrap lines)
+
+I've been trying to find a ways to count both wrapped lines, and cut up lines, divided by <div><br></div> and <div> some text </div> -- when I paste content in my text editor it gets really wonky, even after nearly perfecting it.  Pasted content from the web for example, will often have bit of HTML in there, that'll interfere.
+
+How can it be done cleanly and sensibly?
+
+Isn't there any easier way to go about this? Or do I just have to cover every possible situation in the code?
+
+EDIT: Can't switch to textarea, I need the text to remain highlighted when I click away, and I cant wrap span w/ a background highlight on textarea text.",javascript,Jattoe,3,1.0,2,1757352213.0,https://www.reddit.com/r/javascript/comments/1nbtxfg/askjs_count_lines_for_a_contenteditable_div/,https://reddit.com/r/javascript/comments/1nbtxfg/askjs_count_lines_for_a_contenteditable_div/,AskJS,True,False,False,False,False,,2025-09-10T22:30:04.375549+00:00
+1nbnl5w,True End-to-End Type Safety Across Your Entire TypeScript Stack,,javascript,FrequentBid2476,5,0.73,1,1757337688.0,https://rowsana.substack.com/p/end-to-end-type-safety-in-typescript,https://reddit.com/r/javascript/comments/1nbnl5w/true_endtoend_type_safety_across_your_entire/,,False,False,False,False,False,,2025-09-10T22:30:05.380584+00:00
+1ncc9zu,"[AskJS] Why isn't it more common to create cross-platform and portable applications and software using web technologies like JS, HTML and CSS ?","I try to get rid of my reliance on proprietary ~~(Microsoft)~~ software with open source projects as much as I can. And regardless of the type of open-source software I'm looking for, I realized I have the following criteria that often come up :
+
+* OS compatibility : with Windows, Linux and MacOS
+* Device compatibility : with PC, smartphone and tablet
+* Out-of-the-box : No installation required, must be ready for use as is
+* Portability : can be used from a USB
+* No telemetry and no requirement to be connected to the internet
+* Self-contained dependencies to avoid complicated set-ups
+* Noob-friendly to download, execute and use by a tech-illiterate grandma
+
+Optional criteria :
+
+* Syncing available across devices
+* Easy to change its source code to customize the software / web-app
+
+I realize that pretty much all of these requirements are fulfilled with what would essentially be portable web-apps.
+
+TiddlyWiki is one such example, it's a portable notebook that fits in one single HTML file (but I don't intend to do an implementation that extreme) and it works as intended.
+
+Keep in mind that the alternatives for the type of software I'm looking for are not resource-intensive apps and are often light-weight :
+
+* Notes-taking markdown app (like Obsidian) / or text editor
+* E-book and manga reader that supports different file formats (PDF, EPUB, CBZ, etc.) and annotation
+* Very simple raster graphics editor like Paint
+* File converters
+* Meme maker
+
+All of this being said, it cirlces back to my initial question :
+
+Why isn't it more commonplace to use basic web technologies to create open-source projects for light-weight applications ? They seem to offer so much apparent advantages in addition to the fact that every OS and every device has a browser where these ""apps"" can run seamlessly.
+
+So what gives?",javascript,-Yandjin-,0,0.38,18,1757402131.0,https://www.reddit.com/r/javascript/comments/1ncc9zu/askjs_why_isnt_it_more_common_to_create/,https://reddit.com/r/javascript/comments/1ncc9zu/askjs_why_isnt_it_more_common_to_create/,AskJS,True,False,False,False,False,,2025-09-10T22:30:06.382314+00:00
+1nbzlxt,[AskJS] Handling Full-Balance Ethereum Transfers with ethers.js,"I’ve been experimenting with writing a `sendEthereum(privateKey, toAddress, amountEth)` function in JavaScript using `ethers.js`.
+
+The function mostly works, but when `amountEth` equals the wallet’s balance, the transaction fails or leaves a small leftover balance (like $0.10) because gas isn’t properly accounted for.
+
+I’m curious how others in the JS/Ethereum community approach this problem:
+
+* Do you pre-calculate `maxSendable = balance - estimatedGasFee`?
+* Or do you query `provider.estimateGas` each time and adjust dynamically?
+* Are there common patterns/best practices for sending the **entire balance** safely in ethers.js?
+
+Would love to hear what solutions people have used in production.",javascript,Unfair-Bluejay-5340,0,0.27,3,1757364937.0,https://www.reddit.com/r/javascript/comments/1nbzlxt/askjs_handling_fullbalance_ethereum_transfers/,https://reddit.com/r/javascript/comments/1nbzlxt/askjs_handling_fullbalance_ethereum_transfers/,AskJS,True,False,False,False,False,,2025-09-10T22:30:07.387271+00:00
+1nbhzvn,[AskJS] Is Remix or Astro better than NextJS for non-vercel production?,"I have heard many times that Vercel have made Next.js in such a way that you have to choose vercel for ease of production. Although I haven't dug deep on this topic, is it really true that Remix or other frameworks give you freedom for production unlike Next.js?  
+Please enlighten me.",javascript,techie_abeer,0,0.44,12,1757319320.0,https://www.reddit.com/r/javascript/comments/1nbhzvn/askjs_is_remix_or_astro_better_than_nextjs_for/,https://reddit.com/r/javascript/comments/1nbhzvn/askjs_is_remix_or_astro_better_than_nextjs_for/,AskJS,True,False,False,False,False,,2025-09-10T22:30:08.390808+00:00
+1nbupnu,React AI Agent Chat SDK,"Hey, I've wrote an open source library over the past two weekends for creating agentic chats. It's a full-stack library - it provides React UI components for the chat, tools, and a backend endpoint implementation based on Vercel AI SDK.
+
+The reason I've written that library is because I saw that Vercel created Chat SDK, but when I wanted to try it, I realized that it's not an SDK; it's just a website template, which is also deeply tied to Next.js. The library I've created can be used everywhere. (I hope)
+
+Want to quickly try it out? Install it with SourceWizard:
+npx sourcewizard@latest install react-ai-agent-chat-sdk
+
+Let me know if you have any questions!",javascript,heraldev,0,0.11,0,1757353915.0,https://github.com/sourcewizard-ai/react-ai-agent-chat-sdk,https://reddit.com/r/javascript/comments/1nbupnu/react_ai_agent_chat_sdk/,,False,False,False,False,False,,2025-09-10T22:30:09.395799+00:00
+1navf6o,GitHub - beep8/beep8-sdk: SDK for developing games and tools for the BEEP-8 fantasy console.,"Hey everyone,
+
+I’ve been working on **BEEP-8**, a Fantasy Console that runs entirely in JavaScript.  
+It’s built on:
+
+* an **ARM v4a emulator** in JS (cycle-accurate, 4 MHz),
+* a Namco C30–style **APU emulation** (JavaScript),
+* and a **WebGL-based PPU** for rendering sprites, BG layers, and polygons.
+
+What makes it interesting:
+
+* 100% browser-based, works on both desktop & mobile
+* Free & open-source SDK on GitHub
+* Designed around **hardware-like constraints** (1 MB RAM, 1 MB ROM, 60 fps)
+
+👉 SDK: [https://github.com/beep8/beep8-sdk](https://github.com/beep8/beep8-sdk)  
+👉 Live demo: [https://beep8.org]()
+
+
+
+I’d love to hear the JavaScript community’s thoughts:
+
+* Is pushing JS this way (CPU emulation + WebGL rendering) useful beyond retro projects?
+* Any ideas on optimization or patterns that could make this more efficient?",javascript,Positive_Board_8086,12,0.93,0,1757257213.0,https://github.com/beep8/beep8-sdk,https://reddit.com/r/javascript/comments/1navf6o/github_beep8beep8sdk_sdk_for_developing_games_and/,,False,False,False,False,False,,2025-09-10T22:30:10.400880+00:00
+1nbg1l7,The problem with JavaScript Dates,,javascript,FrequentBid2476,0,0.36,5,1757311828.0,https://rowsana.substack.com/p/the-problem-with-javascript-dates,https://reddit.com/r/javascript/comments/1nbg1l7/the_problem_with_javascript_dates/,,False,False,False,False,False,,2025-09-10T22:30:11.402231+00:00
+1nah91d,[AskJS] connecting backend with Primavera P6,"Hello everyone, I've been working on connecting the Primavera P6 API with my website for the past few weeks, but I'm stuck and could really use some help. Here's what I've done so far: I created a CLI-based user to generate the key and secret key required for configuration. I successfully connected to the Primavera API and obtained the token. I've tested this setup on both Windows and WSL environments, but for some reason, I can't get it to function properly.
+
+  
+From my browser and Postman on Windows (with VPN on), Primavera API responds correctly. But from my Node.js backend running inside WSL2 Ubuntu, I get `EHOSTUNREACH`.  
+This suggests either:
+
+* WSL’s virtual network doesn’t inherit VPN routes,
+* Or the Primavera server/firewall only accepts traffic from the Windows IP, not WSL’s internal IP. Can you confirm whether Primavera is reachable from Linux/WSL, or if it only allows traffic from specific networks or subnets?
+
+Does anyone have experience with this or know what might be causing the issue? Any tips or guidance would be greatly appreciated! Thanks in advance!
+
+I will update the post if you guys need more details, I am just typing what comes to mind at the moment.",javascript,enes-sertkan,7,0.89,4,1757210643.0,https://www.reddit.com/r/javascript/comments/1nah91d/askjs_connecting_backend_with_primavera_p6/,https://reddit.com/r/javascript/comments/1nah91d/askjs_connecting_backend_with_primavera_p6/,AskJS,True,False,False,False,False,,2025-09-10T22:30:12.404348+00:00
+1n9wq1z,"GitHub - mxxii/peberminta: Simple, transparent parser combinators toolkit that supports any tokens","I updated my parser combinator toolkit yesterday, including some documentation additions. Would love to hear some feedback - I'm wondering what I can improve further, what I might be overlooking due to close familiarity.
+
+I have sustained attention of a squirrel when it comes to reading other libraries documentation, so I prefer not writing a textbook that I wouldn't be able to read anyway.
+
+I guess my goal is to identify actual needs/confusion sources so I could decide what's the right place and form to address them.  
+I have some thoughts, but I prefer to withhold them here to not steer the feedback.
+
+Share your thoughts. TIA",javascript,KillyMXI,3,0.8,2,1757156483.0,https://github.com/mxxii/peberminta,https://reddit.com/r/javascript/comments/1n9wq1z/github_mxxiipeberminta_simple_transparent_parser/,,False,False,False,False,False,,2025-09-10T22:30:13.409399+00:00
+1na2njb,Corsfix - open source and secure CORS proxy,"I built this CORS proxy because I was getting CORS errors when building my static websites. There are several existing proxies already, but I wasn't satisfied with the features (or lack of).
+
+What is this solving?  
+If you try to access APIs directly from the client JavaScript, you most likely get a CORS error. This solves it by relaying your request and returning it with the proper CORS headers.
+
+How is this secure?  
+I covered this in the repo FAQ, but the gist is: no logging, secure against SSRF and LFI, support handling API keys, and no leaking cookies (credentials).
+
+Code: [https://github.com/corsfix/corsfix](https://github.com/corsfix/corsfix)  
+Website: [https://corsfix.com](https://corsfix.com)",javascript,MagnussenXD,0,0.36,6,1757173093.0,https://github.com/corsfix/corsfix,https://reddit.com/r/javascript/comments/1na2njb/corsfix_open_source_and_secure_cors_proxy/,,False,False,False,False,False,,2025-09-10T22:30:14.414346+00:00
+1na2gpe,ffetch 2.0 released - Enhanced fetch() wrapper with proper AbortSignal handling,"Just released v2.0 of ffetch, my fetch wrapper that adds timeouts, retries, and circuit breaking without changing fetch semantics.
+
+Major improvements in 2.0:
+
+* Fixed AbortSignal.any fallback that was ignoring user signals
+* Manual timeout implementation removes AbortSignal.timeout dependency
+* Proper signal composition for complex abort scenarios
+* transformRequest hook now preserves signals correctly
+* Revamped documentation
+
+The signal handling was surprisingly tricky - combining user AbortSignals with timeout signals while maintaining compatibility across environments. Had to implement manual fallbacks for AbortSignal.any since it's not available everywhere.
+
+Example of the signal composition in action:
+
+    const controller = new AbortController()
+    const client = createClient({ timeout: 5000 })
+    
+    // Both user signal AND timeout signal work together
+    client('/api/data', { signal: controller.signal })
+
+Still zero deps, \~2KB, drop-in fetch replacement. The goal was to make fetch() reliable without changing its behavior.
+
+GitHub: [https://github.com/gkoos/ffetch](https://github.com/gkoos/ffetch)",javascript,OtherwisePush6424,0,0.37,6,1757172636.0,https://www.npmjs.com/package/@gkoos/ffetch,https://reddit.com/r/javascript/comments/1na2gpe/ffetch_20_released_enhanced_fetch_wrapper_with/,,False,False,False,False,False,,2025-09-10T22:30:15.414564+00:00
+1n9dmk5,Just hit my first 2 stars on GitHub + 100 npm downloads,"I recently published my first open-source package for managing chat history in AI assistants (built for JS/TS).
+
+It’s not a big number, but seeing those first 2 stars and 100 downloads gave me a huge boost. I’ve got lots of ideas to improve it, but for now I want to see how others use it.",javascript,ialijr,4,0.57,4,1757098242.0,https://github.com/agentailor/slimcontext,https://reddit.com/r/javascript/comments/1n9dmk5/just_hit_my_first_2_stars_on_github_100_npm/,,False,False,False,False,False,,2025-09-10T22:30:16.418515+00:00
+1n96ofx,Made a VSCode extension to clean up messy fetch requests from DevTools,,javascript,rxliuli,4,0.75,0,1757082255.0,https://www.reddit.com/r/webdev/comments/1n953ze/made_a_vscode_extension_to_clean_up_messy_fetch/,https://reddit.com/r/javascript/comments/1n96ofx/made_a_vscode_extension_to_clean_up_messy_fetch/,,False,False,False,False,False,,2025-09-10T22:30:17.423360+00:00
+1n8ukb3,Mermaid Editor/Renderer,"Hey,
+
+I write a tech blog and I need to create lots of diagrams for it. I like using Mermaid, but I quickly ran into the same frustrating pattern with most of the existing editors and renderers: the free options were either too limited or came with barriers that slowed me down. I wanted something simple: just open the page, paste/type in Mermaid code, preview the diagram, and export it without worrying about limits or accounts.
+
+Here are some concrete problems I ran into with other tools:
+
+\- Mermaid Live Editor (the official one): Great for quick editing, but exporting diagrams is capped by a rate limit on their free tier. After a handful of exports, I’d get the dreaded “free tier limit exceeded” message.
+
+Kroki.io: Supports rendering, but running it online requires trusting a shared service with my diagrams. Hosting it myself means extra setup, Docker, and server resources — not ideal if I just want to save a few diagrams.
+
+\- Excalidraw & Lucidchart: Both have nice UIs, but they’re general diagramming tools, not native Mermaid editors. Lucidchart especially locks useful features (like unlimited diagrams or high-quality export) behind a paid plan.
+
+\- Other browser-based tools Almost all I tried had some kind of paywall, signup requirement, or watermark on exports. For something as text-based and simple as Mermaid, that felt unnecessary.
+
+So I built my own tool with a few core principles:
+
+\- No limits: you can create, edit, and export as many diagrams as you want.
+
+\- No signup: the tool works straight from the browser, nothing to install.
+
+\- No tracking: privacy-friendly, just you and your diagrams.
+
+\- Open source: [https://github.com/gkoos/mermaid-editor](https://github.com/gkoos/mermaid-editor)
+
+Now this is a very simple v0.0.1 and needs a lot of refinement, but hopefully it can be useful to some even in its current state.",javascript,OtherwisePush6424,14,0.9,4,1757042605.0,https://mermaid-editor.online,https://reddit.com/r/javascript/comments/1n8ukb3/mermaid_editorrenderer/,,False,False,False,False,False,,2025-09-10T22:30:18.428348+00:00
+1n928po,"[AskJS] Multiple videos managed in electron, will it work?","I am building an offline electron app for an event that needs to queue and play 16 videos one after another with some interactive elements on another screen.
+
+  
+I've built it in electron but the video transitions aren't perfect and sometimes there are background flashes. What can I do to ensure smooth transitions, should I use a video jockey like resolume plogged in via OSC, or are there better ways to queue electron?
+
+  
+Thoughts and suggestions welcome",javascript,Pure-Researcher-8229,3,0.71,5,1757070327.0,https://www.reddit.com/r/javascript/comments/1n928po/askjs_multiple_videos_managed_in_electron_will_it/,https://reddit.com/r/javascript/comments/1n928po/askjs_multiple_videos_managed_in_electron_will_it/,AskJS,True,False,False,False,False,,2025-09-10T22:30:19.431126+00:00
+1n8dmd7,I built nocojs - a built time library to create inline placeholder for images,"nocojs is a built time library that can integrate with Vite / Rollup / Webpack / Parcel / Rspack to generate image previews.
+
+So you can write something like
+
+    const imagePreview = preview('https://example.com/image.jpg');
+    
+    // or
+    
+    const Image = (
+      <img
+        src={preview('https://example.com/image.jpg')}
+        data-src=""https://example.com/image.jpg""
+      />
+    )
+
+And it gets converted to
+
+    const imagePreview = 'data:image/png;base64,iVBORw0KGgoA...'
+    
+    // or
+    
+    const Image = (
+      <img
+        src={'data:image/png;base64,iVBORw0KGgoA...'}
+        data-src=""https://example.com/image.jpg""
+      />
+    )
+
+Pair it with a lazy loading library to avoid layout shifts as your images load.
+
+On server side (Astro / NextJS, etc.) you won't need the bundler integration and can directly generate previews by calling the `getPlaceholder` function.
+
+Would love your feedbacks and suggestions.",javascript,akzhy,16,0.86,5,1757000394.0,https://github.com/akzhy/nocojs,https://reddit.com/r/javascript/comments/1n8dmd7/i_built_nocojs_a_built_time_library_to_create/,,False,False,False,False,False,,2025-09-10T22:30:20.435730+00:00
+1n92pxn,[AskJS] Is WebStorm still the better IDE for modern JavaScript/TypeScript dev vs VS Code?,"I’ve used both WebStorm and VS Code over the years and I’m trying to decide what to standardize on for day-to-day JavaScript/TypeScript development
+
+Lately I keep seeing people bounce between editors — VS Code → Cursor, then back, sometimes WebStorm → VS Code, and so on. My concern is that all this switching costs a lot of time that could just go into building stuff
+
+For me, WebStorm has always been the simple out-of-the-box solution: strong refactoring, smooth navigation, everything working without endless tweaking. VS Code is great too, but it often feels like you need to build your own IDE from extensions
+
+For those of you coding daily in JS/TS frameworks (React, Vue, Next.js, etc.), how do you see it? Is VS Code + extensions really the better long-term setup, or does WebStorm still give the most complete experience out of the box?",javascript,Ecstatic-Ad9446,0,0.35,14,1757071821.0,https://www.reddit.com/r/javascript/comments/1n92pxn/askjs_is_webstorm_still_the_better_ide_for_modern/,https://reddit.com/r/javascript/comments/1n92pxn/askjs_is_webstorm_still_the_better_ide_for_modern/,AskJS,True,False,False,False,False,,2025-09-10T22:30:21.441197+00:00
+1n83l78,"I built USAL.js - a 9KB scroll animation library with text effects and framework support for React, Vue, Svelte, Angular + Web Components","I just released USAL.js - a scroll animation library I built because I was frustrated with existing options for text animations.
+
+# The Problem
+
+I needed word-by-word and letter-by-letter animations for a client project. AOS.js and SAL.js are great, but they don't handle text splitting well, and most libraries don't support web components.
+
+# What I Built
+
+* **9KB minified** (smaller than most images) (5KB Gzipped)
+* **40+ animations** (fade, zoom, flip with all directions)
+* **Text animations** (split by word/letter, shimmer effects, counters)
+* **Framework packages** for React, Vue, Svelte, Angular, Lit
+* **Web Components support** (rare in animation libs)
+* **Zero dependencies**
+
+# Quick Examples
+
+**Basic usage:**
+
+    <script src=""https://cdn.usal.dev/latest""></script>
+    <div data-usal=""fade-u duration-800"">Fades up smoothly</div>
+
+**Text animations:**
+
+    <p data-usal=""split-word split-fade-r split-delay-200"">
+      Each word appears from right
+    </p>
+
+**Number counters:**
+
+    <span data-usal=""count-[1234] duration-2000"">1234</span>
+
+**React integration:**
+
+    npm install /react
+    
+    import { USALProvider } from '@usal/react';
+    
+    <USALProvider>
+      <h1 data-usal=""fade-u"">Animated in React</h1>
+    </USALProvider>
+
+# Why Another Animation Library?
+
+* **Tailwind-inspired syntax** (duration-800, delay-200)
+* **Text-first approach** (word/letter splitting built-in)
+* **True framework agnostic** (even supports Web Components)
+* **Performance focused** (60fps with hundreds of elements)
+
+I started with SAL.js as inspiration but ended up rewriting everything from scratch to get the text animations and framework support I wanted.
+
+**Links:**
+
+* [Live Demo](https://usal.dev/)
+* [GitHub](https://github.com/italoalmeida0/usal)
+* [NPM](https://www.npmjs.com/package/usal)
+
+What do you think? Any features you'd want to see? I'm actively working on it and would love feedback from the community!",javascript,Ordinary-Fix705,25,0.86,8,1756970653.0,https://github.com/italoalmeida0/usal,https://reddit.com/r/javascript/comments/1n83l78/i_built_usaljs_a_9kb_scroll_animation_library/,,False,False,False,False,False,,2025-09-10T22:30:22.445929+00:00
+1n85kdg,"[AskJS] Node vs Deno vs Bun , what are you actually using in 2025?","Node is the classic, Deno is picking up steam, and Bun keeps making noise with speed claims.   
+For your real-world projects, which one are you actually using today???????",javascript,EmbarrassedTask479,7,0.61,50,1756978396.0,https://www.reddit.com/r/javascript/comments/1n85kdg/askjs_node_vs_deno_vs_bun_what_are_you_actually/,https://reddit.com/r/javascript/comments/1n85kdg/askjs_node_vs_deno_vs_bun_what_are_you_actually/,AskJS,True,False,False,False,False,,2025-09-10T22:30:23.450868+00:00
+1n7rfqo,Creating a JavaScript Debugging Utility to Guard Noisy Production Consoles,"I want everyone to know how clever this code is, so I shared it here. ",javascript,AndyMagill,0,0.47,3,1756934618.0,https://magill.dev/post/javascript-debugging-utility-to-guard-noisy-production-consoles,https://reddit.com/r/javascript/comments/1n7rfqo/creating_a_javascript_debugging_utility_to_guard/,,False,False,False,False,False,,2025-09-10T22:30:24.455907+00:00
+1n7vl04,Integrate Trigger.dev and Anchor Browser for Automatic Browser Automation,Learn how to create scheduled agentic browser automation jobs using Trigger.dev and Anchor Browser.  Follow along step-by-step for an example that demonstrates a Trigger.dev task calling on the Anchor Browser APIs to automatically check the TDF website for last minute Broadway tickets. Anchor Browser provides browser sessions for your AI agents. By the end you'll have a better sense on how to make use of scheduling tools and agentic browser APIs to automate anything on the web.,javascript,jmarbach,0,0.33,1,1756945149.0,https://anchorbrowser.io/blog/integrate-trigger-dev-and-anchor-browser,https://reddit.com/r/javascript/comments/1n7vl04/integrate_triggerdev_and_anchor_browser_for/,,False,False,False,False,False,,2025-09-10T22:30:25.460986+00:00
+1n77itj,Accurate text lengths with Intl.Segmenter API,,javascript,BlueEzio,6,0.75,3,1756881324.0,https://automagic.blog/posts/accurate-text-lengths-with-intl-segmenter-api/,https://reddit.com/r/javascript/comments/1n77itj/accurate_text_lengths_with_intlsegmenter_api/,,False,False,False,False,False,,2025-09-10T22:30:26.466072+00:00
+1n7y2vq,[AskJS]  is it possible to deobfuscate .jsc bytenode code,"i got a project that my freind give me he died now i have outdated versions its an electron based project by changing names to .js ending i was able to understand a bit better cause i make tools similar but not fully readable to update other then just
+
+",javascript,Warm_Description8133,0,0.18,2,1756952197.0,https://www.reddit.com/r/javascript/comments/1n7y2vq/askjs_is_it_possible_to_deobfuscate_jsc_bytenode/,https://reddit.com/r/javascript/comments/1n7y2vq/askjs_is_it_possible_to_deobfuscate_jsc_bytenode/,AskJS,True,False,False,False,False,,2025-09-10T22:30:27.470994+00:00
+1n6sgli,Open Source Rule Engine,"The ultimate JSON-based rule engine that turns complex business logic into declarative configurations. Built for developers who believe code should be expressive, not repetitive.",javascript,alimaster24,24,0.86,6,1756839984.0,https://github.com/ali-master/rule-engine,https://reddit.com/r/javascript/comments/1n6sgli/open_source_rule_engine/,,False,False,False,False,False,,2025-09-10T22:30:28.476005+00:00
+1n6bnrl,[AskJS] What’s a small coding tip that saved you HOURS?,"One of my favorites:  
+"" console.log(JSON.stringify(obj, null, 2)) "" in JavaScript makes debugging way clearer.",javascript,EmbarrassedTask479,141,0.91,172,1756792637.0,https://www.reddit.com/r/javascript/comments/1n6bnrl/askjs_whats_a_small_coding_tip_that_saved_you/,https://reddit.com/r/javascript/comments/1n6bnrl/askjs_whats_a_small_coding_tip_that_saved_you/,AskJS,True,False,False,False,False,,2025-09-10T22:30:29.477702+00:00
+1n7pcch,"Turning an entire book into a few paragraphs in minutes? Yes, it’s possible…","I think we are living in an exciting time for devs. Have you ever thought about summarizing an entire blog, book, or any other very long text? These days, we have AI for that. But as always, when it comes to scale, we need to take extra steps… How can we process a whole text with an LLM and still keep the process fast? How do we overcome context window limitations?Thankfully, we have a rich inheritance of software development patterns and algorithms. Let’s take a look at one of them—the Map-Reduce pattern—and see how it helps with large-text summarization.",javascript,NeitherElderberry617,0,0.14,2,1756929812.0,https://www.aboutjs.dev/en/posts/turning-entire-blogs-into-short-summaries-map-reduce-for-llms,https://reddit.com/r/javascript/comments/1n7pcch/turning_an_entire_book_into_a_few_paragraphs_in/,,False,False,False,False,False,,2025-09-10T22:30:30.482816+00:00
+1n7btmm,Is JavaScript's BigInt broken?,,javascript,senfiaj,0,0.33,13,1756897618.0,https://waspdev.com/articles/2025-08-16/is-js-bigint-broken,https://reddit.com/r/javascript/comments/1n7btmm/is_javascripts_bigint_broken/,,False,False,False,False,False,,2025-09-10T22:30:31.486148+00:00
+1n6n174,Lean for JavaScript Developers,,javascript,gaearon,3,0.67,0,1756827905.0,https://overreacted.io/lean-for-javascript-developers/,https://reddit.com/r/javascript/comments/1n6n174/lean_for_javascript_developers/,,False,False,False,False,False,,2025-09-10T22:30:32.489719+00:00
+1n6icdw,Dependency Hell: The Hidden Costs of Dependency Bloat in Software Development,,javascript,OuPeaNut,4,0.75,0,1756816749.0,https://oneuptime.com/blog/post/2025-09-02-the-hidden-costs-of-dependency-bloat-in-software-development/view,https://reddit.com/r/javascript/comments/1n6icdw/dependency_hell_the_hidden_costs_of_dependency/,,False,False,False,False,False,,2025-09-10T22:30:33.494753+00:00
+1n6shqq,GitHub - ali-master/pingu: A modern ping utility with beautiful CLI output,"A modern ping utility with beautiful CLI output, real-time network analysis, and comprehensive performance metrics using Bun and Ink UI.
+
+",javascript,alimaster24,0,0.5,12,1756840057.0,https://github.com/ali-master/pingu,https://reddit.com/r/javascript/comments/1n6shqq/github_alimasterpingu_a_modern_ping_utility_with/,,False,False,False,False,False,,2025-09-10T22:30:34.497507+00:00

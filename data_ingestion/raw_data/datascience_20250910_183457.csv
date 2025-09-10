@@ -1,0 +1,740 @@
+id,title,selftext,subreddit,author,score,upvote_ratio,num_comments,created_utc,url,permalink,link_flair_text,is_self,over_18,spoiler,stickied,locked,distinguished,retrieved_at
+1nbdtct,"Weekly Entering & Transitioning - Thread 08 Sep, 2025 - 15 Sep, 2025"," 
+
+Welcome to this week's entering & transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include:
+
+* Learning resources (e.g. books, tutorials, videos)
+* Traditional education (e.g. schools, degrees, electives)
+* Alternative education (e.g. online courses, bootcamps)
+* Job search questions (e.g. resumes, applying, career prospects)
+* Elementary questions (e.g. where to start, what next)
+
+While you wait for answers from the community, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and Resources pages on our wiki. You can also search for answers in [past weekly threads](https://www.reddit.com/r/datascience/search?q=weekly%20thread&restrict_sr=1&sort=new).",datascience,AutoModerator,11,1.0,16,1757304098.0,https://www.reddit.com/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/,https://reddit.com/r/datascience/comments/1nbdtct/weekly_entering_transitioning_thread_08_sep_2025/,,True,False,False,True,False,,2025-09-10T22:34:06.367174+00:00
+1ncmcgf,Pytorch lightning vs pytorch,"Today at work, i was criticized by a colleague for implementing my training script in pytorch instead of pytorch lightning. His rationale was that the same thing could've been done in less code using lightning, and more code means more documentation and explaining to do. I havent familiarized myself with pytorch lightning yet so im not sure if this is fair criticism, or something i should take with a grain of salt. I do intend to read the lightning docs soon but im just thinking about this for my own learning. Any thoughts?",datascience,Factitious_Character,60,0.94,17,1757432468.0,https://www.reddit.com/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/,https://reddit.com/r/datascience/comments/1ncmcgf/pytorch_lightning_vs_pytorch/,Discussion,True,False,False,False,False,,2025-09-10T22:34:07.372163+00:00
+1nd94cy,(: Smile! It’s my first open source project,,datascience,ThomasAger,2,0.58,0,1757494955.0,/r/opensource/comments/1nd946a/smile_its_my_first_open_source_project/,https://reddit.com/r/datascience/comments/1nd94cy/smile_its_my_first_open_source_project/,Projects,False,False,False,False,False,,2025-09-10T22:34:08.377194+00:00
+1nc93qq,I built a card recommender for EDH decks,"Hi guys! I built a simple card recommender system for the EDH format of Magic the Gathering. Unlike EDHREC which suggests cards based on overall popularity, this analyzes your full decklist and recommends cards based on similar decks.
+
+Deck similarity is computed as the sum of idf weights of shared cards. It then shows the top 100 cards from similar decks that aren't already in your decklist. It's simple but will usually give more relevant suggestions for your deck.
+
+Try it [here](https://huggingface.co/spaces/bingbong-sempai/edhrec-at-home): (Archidekt links only)
+
+Would love to hear feedback!",datascience,bingbong_sempai,18,0.91,13,1757390645.0,https://www.reddit.com/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/,https://reddit.com/r/datascience/comments/1nc93qq/i_built_a_card_recommender_for_edh_decks/,Projects,True,False,False,False,False,,2025-09-10T22:34:09.382142+00:00
+1nbxzs0,Analysing Priority zones in my Area with unprecise home adresses,"hello, My project analyzes whether given addresses fall inside ""Quartiers Prioritaires de la Politique de la Ville ""(QPV). It uses a GeoJSON file of QPV boundaries(available on the gorvernment website) and a geocoding service (Nominatim/OSM) to convert addresses into geographic coordinates. Each address is then checked with GeoPandas + Shapely to determine if its coordinates lie within any QPV polygon. The program can process one or multiple addresses, returning results that indicate whether each is located inside or outside a QPV, along with the corresponding zone name when available. This tool can be extended to handle CSV databases, produce visualizations on maps, or integrate into larger urban policy analysis workflows. "" 
+
+BUUUT . 
+
+here is the ultimate problem of this project , Home addresses in my area (Martinique) are notoriously unreliable if you dont know the way and google maps or Nominatim cant pinpoint most of the places in order to be converted to coordinates to say whether or not the person who gave the adress is in a QPV or not.  when i use my python script on adresses of the main land like paris and the like it works just fine but our little island isnt as well defined in terms of urban planning. 
+
+can someone please help me to find a way to get all the streets data into coordinates and make them match with the polygon of the QPV areas ? thank you in advance",datascience,samushusband,11,0.84,8,1757361243.0,https://www.reddit.com/r/datascience/comments/1nbxzs0/analysing_priority_zones_in_my_area_with/,https://reddit.com/r/datascience/comments/1nbxzs0/analysing_priority_zones_in_my_area_with/,Analysis,True,False,False,False,False,,2025-09-10T22:34:10.387138+00:00
+1n9yrfy,Europe Salary Thread 2025 - What's your role and salary?,"The yearly Europe-centric salary thread. You can find the last one here:
+
+https://old.reddit.com/r/datascience/comments/1fxrmzl/europe_salary_thread_2024_whats_your_role_and/
+
+I think it's worthwhile to learn from one another and see what different flavours of data scientists, analysts and engineers are out there in the wild. In my opinion, this is especially useful for the beginners and transitioners among us. So, do feel free to talk a bit about your work if you can and want to. 🙂
+
+While not the focus, non-Europeans are of course welcome, too. Happy to hear from you!
+
+**Data Science Flavour:** .
+
+**Location:** .
+
+**Title:** .
+
+**Compensation (gross):** .
+
+**Education level:** .
+
+**Experience:** .
+
+**Industry/vertical:** .
+
+**Company size:** .
+
+**Majority of time spent using (tools):** .
+
+**Majority of time spent doing (role):** .",datascience,Massive_Arm_706,174,0.95,109,1757163059.0,https://www.reddit.com/r/datascience/comments/1n9yrfy/europe_salary_thread_2025_whats_your_role_and/,https://reddit.com/r/datascience/comments/1n9yrfy/europe_salary_thread_2025_whats_your_role_and/,Career | Europe,True,False,False,False,False,,2025-09-10T22:34:11.392186+00:00
+1naptuq,🚀 Perpetual ML Suite: Now Live on the Snowflake Marketplace!,,datascience,mutlu_simsek,1,0.6,2,1757241077.0,/r/snowflake/comments/1n84pfn/perpetual_ml_suite_now_live_on_the_snowflake/,https://reddit.com/r/datascience/comments/1naptuq/perpetual_ml_suite_now_live_on_the_snowflake/,Tools,False,False,False,False,False,,2025-09-10T22:34:12.395901+00:00
+1na6x3q,Help me evaluate a new job offer - Stay or go?,"Hi all, 
+
+I'm having a really hard time deciding whether or not to take an offer I've recently received, would really appreciate some advice and a sense check. For context I generally feel my current role is comfortable but i'm starting to plateau after the first year, i'm also in the process of buying my dream house just to complicate things.
+
+### **Current Role**
+
+##### The Good
+
+- I am early 30's and have 4 years of experience as a full stack DS but am currently employed as an ML Eng for the last year. 
+- My current role is effectively a senior/lead MLE in a small team (me + 3 DS) and I have loads of autonomy in how we do things and I get to lead my own  Gen AI projects with small squads as I'm the only one with experience in this domain. 
+- I also get to straddle DS and MLE as much or as little as I want to in other projects, which suits my interests and background. 
+- We have some interesting projects including one I'm leading. I think I have around 6 months of cool work to do where I can personally make an impact. 
+- My work life balance is amazing, I'm not stressed at work at all and I can learn at my own pace. 
+- Effectively remote, go into the office 1 or 2 times per month for meetings. It's 1.5 hours away but work pay for my travel. 
+- Can push for a senior or principal title and will likely get it in the next ~6 months. 
+
+##### The Bad
+
+- The main drawbacks here are that I don't have senior technical mentors, my direct boss has good soft skills but I have nothing to learn from him technically. He's also quite chaotic, so we are always shifting priorities etc. 
+- It's a brand new team so we are constantly hitting blockers in terms of processes, integration of our projects and office politics. 
+- Being a legacy insurer, innovation is really hard and momentum needed to shift opinions is huge. 
+- Fundamentally data quality is very poor and this won't change in my tenure. 
+- Essentially in an echo chamber, I'm bringing most of the ideas and solutions to the table in the team which potentially isn't great at this stage in my career.
+- It's not perfect and I'd have to leave at some point anyway. 
+
+
+##### Comp
+- Total comp including bonus and generous pension is £84K
+
+
+### **New Job** AI Engineer
+
+##### The Good
+- Very cool AI consultancy startup, 2 years old, ~80 technical staff and growing rapidly, already profitable with a revenue of £1mill per month and partnership with Open AI.
+- Lots of interesting projects with cool clients. The founders' mantra is ""cool projects, in production"" and they have some genuinely interesting case studies. 
+- Some projects are genuinely cutting edge and they claim to have a nice balance between R&D and delivery. 
+- Lots of technical staff to learn from, should be good for my growth. 
+- Opportunity to work internationally in the future, the are opening offices in Australia now and eventually the US. 
+
+
+##### The Bad
+
+- Pigeon holing myself into AI/Agents/LLMs. No trad ML, may lose some of my very rounded skill set.
+- Although it's customer facing, it sounds like the role is very delivery heavy and I'd essentially be smashing out code or researching all day with less soft skill development.
+- Slightly worried about work culture and work life balance, this could end up being a meat grinder. 
+- I have no experience of start ups or start up culture at all.
+- Less job security as its a startup. 
+- It's mostly based in London (5 hours round trip!) and I would need to travel down relatively frequently (expenses paid) for onboarding and establishing myself in the first few months, with that requirement tapering off slowly. 
+
+
+##### Comp
+
+- Total offer all in is £90K, I could try and negotiate for up to £95K based on their bandings. 
+- 36000 stock units, worthless until they sell though
+   
+
+
+Would love to know your thoughts!
+
+
+",datascience,Rockingtits,10,0.69,31,1757183259.0,https://www.reddit.com/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/,https://reddit.com/r/datascience/comments/1na6x3q/help_me_evaluate_a_new_job_offer_stay_or_go/,Career | Europe,True,False,False,False,False,,2025-09-10T22:34:13.400896+00:00
+1nac35j,How to evaluate data transformations?,"There are several well-established benchmarks for text-to-SQL tasks like BIRD, Spider, and WikiSQL. However, I'm working on a data transformation system that handles per-row transformations with contextual understanding of the input data.
+
+The challenge is that most existing benchmarks focus on either:
+
+* Pure SQL generation (BIRD, Spider)
+* Simple data cleaning tasks
+* Basic ETL operations
+
+But what I'm looking for are benchmarks that test:
+
+* Complex multi-step data transformations
+* Context-aware operations (where the same instruction means different things based on data context)
+* Cross-column reasoning and relationships
+* Domain-specific transformations that require understanding the semantic meaning of data
+
+  
+Has anyone come across benchmarks or datasets that test these more sophisticated data transformation capabilities?
+
+",datascience,metalvendetta,1,0.6,12,1757196044.0,https://www.reddit.com/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/,https://reddit.com/r/datascience/comments/1nac35j/how_to_evaluate_data_transformations/,Discussion,True,False,False,False,False,,2025-09-10T22:34:14.401539+00:00
+1n8z37l,Just got rejected from meta,"Thought everything went well. Completed all questions for all interviews. Felt strong about all my SQL, A/B testing, metric/goal selection questions. No red flags during behavioral. Interviews provided 0 feedback about the rejection. I was talking through all my answers and reasoning, considering alternatives and explaining why I chose my approach over others. I led the discussions and was very proactive and always thinking 2 steps ahead and about guardrail metrics and stating my assumptions. The only ways I could think of improving was to answer more confidently and structure my thoughts more. Is it just that competitive right now? Even if I don’t make IC5 I thought for sure I’d get IC4. Anyone else interview with Meta recently? 
+
+edit:
+MS degree
+3.5yoe DS
+4.5yoe ChemE
+
+edit2:
+I had 2 meta referrals but didn't use them. Should I tell the recruiter or does it not matter at this point?
+Meta recruiter reached out to me on LinkedIn.
+
+edit3:
+I remember now there was 1 moment I missed a beat, but recovered during a bernoulli distribution hand-calculation question. Maybe thats all it took...
+
+edit4:
+Thanks everyone for the copium, words of advice, and support.",datascience,vtfresh,285,0.89,145,1757058618.0,https://www.reddit.com/r/datascience/comments/1n8z37l/just_got_rejected_from_meta/,https://reddit.com/r/datascience/comments/1n8z37l/just_got_rejected_from_meta/,Career | US,True,False,False,False,False,,2025-09-10T22:34:15.406559+00:00
+1n8lhdx,MIT says AI isn’t replacing you… it’s just wasting your boss’s money,,datascience,CryoSchema,552,0.93,56,1757018259.0,https://www.interviewquery.com/p/mit-ai-isnt-replacing-workers-just-wasting-money,https://reddit.com/r/datascience/comments/1n8lhdx/mit_says_ai_isnt_replacing_you_its_just_wasting/,Discussion,False,False,False,False,False,,2025-09-10T22:34:16.407745+00:00
+1n88v2y,Almost 2 years into my first job... and already disillusioned and bored with this career,"**TL;DR: I find this industry to be very unengaging, with most use cases and positions being very brainless, sluggish and just uninspiring. I am only 2 years into this job and bored and I feel like I need to shake things up a bit to keep doing this for the rest of my life.** 
+
+
+
+
+Full disclosure: **this is very much a first world problem**. I get paid quite well, I have incredibly lenient work life balance, I work from home 3 days a week, etc etc. Most people would kill to be in my position at my age.
+
+
+Some context: I was originally in academia doing a PhD in math, but pure math, completely unrelated to ML or anything in the real world really. ~2 years in, I was disillusioned with that (sensing a pattern here lol) so I took as many ML courses I could and jumped ship to industry. 
+
+
+Regardless of all the problems I had in academia, it at least *asked* something of me. I had to think, like, *actually think*, about complex, interesting stuff. It felt like I was actually engaging my mind and growing. 
+
+
+My current job is fine, basically applying LLMs for various use cases at a megacorp. On paper, I'm playing with the latest, greatest, tech, but in practice, I'm just really calling APIs on products that smarter people are building. 
+
+
+I feel like I haven't actually flexed my brain muscles in years now, I'm forgetting all the stuff I've learnt at college, and the work itself is incredibly boring to me. Many many days I can barely bring myself to work as the work is so uninteresting, and the bare minimum I put in still somehow impresses my colleagues so there's no real incentive to work hard. 
+
+
+I realize how privileged that sounds, I really do, but I do feel kind of unfulfilled and spiritually empty. I feel like if I keep doing this for the rest of my life I will look back with regret. 
+
+
+**What I'm trying to do to fix this:** I would like to shift towards more cutting edge and harder data science. Problem here is a lack of qualifications and experience. I have a MS and a BS in Math (from T10 colleges) but no PhD and the math I studied was mostly pure/theoretical, very little to do with ML. 
+
+I'm trying to do projects in my own time, but it's slow going on my own. I would love to aim for ML/AI research roles, but it feels like an impossible ask without a PhD, without papers, etc etc. I'm not sure that's a feasible goal. 
+
+
+
+Another thing I've been considering is playing a DS/ML role as support in research that's *not* ML. For instance, bioinformatics or biotech, etc. This is also fairly appealing to me. The main issue is here is a complete lack of knowledge about these fields (since there can be so many fields here) and a lack of domain knowledge which I presume is required. I'm still trying, I've been applying for some bioinformatics roles, but yeah, also hard. 
+
+
+
+**Has anyone else felt this way? What did they do about it, and what would you recommend?**",datascience,ShittyLogician,275,0.9,106,1756989168.0,https://www.reddit.com/r/datascience/comments/1n88v2y/almost_2_years_into_my_first_job_and_already/,https://reddit.com/r/datascience/comments/1n88v2y/almost_2_years_into_my_first_job_and_already/,Discussion,True,False,False,False,False,,2025-09-10T22:34:17.412654+00:00
+1n8a1do,"A portfolio project for Data Scientists looking to add AI Engineering skills (Pytest, Security, Docker).","Hey guys,
+
+Like many of us, I'm comfortable in a Jupyter Notebook, but I found there's a huge gap when it comes to building and deploying a real, full-stack AI application. I created a project specifically to bridge that gap.
+
+You build a ""GitHub Repo Analyst"" agent, but the real learning is in the production-level engineering skills that often aren't part of a data science workflow:
+
+- Automated Testing: Writing Pytest integration tests to verify your agent's security.
+- Building UIs: Creating an interactive web app with Chainlit.
+- Deployment: Packaging your entire application with Docker for easy, reproducible deployment.
+
+I've turned this into a 10-lesson guide and am looking for 10-15 beta testers. If you're a data scientist who wants to add a serious AI engineering project to your portfolio, I'll give you the complete course for free in exchange for your feedback.
+
+Just comment below if you're interested, and I'll send you a DM.",datascience,petburiraja,68,0.89,105,1756992274.0,https://www.reddit.com/r/datascience/comments/1n8a1do/a_portfolio_project_for_data_scientists_looking/,https://reddit.com/r/datascience/comments/1n8a1do/a_portfolio_project_for_data_scientists_looking/,Education,True,False,False,False,False,,2025-09-10T22:34:18.417621+00:00
+1n81chu,"What's up with LinkedIn posts saying ""Excel is dead"", ""dashboards are dead"", ""data science is dead"", ""PPTs are dead"" and so on?","Is this a trend now? I also read somewhere ""SQL is dead"" too. Ffs. What isn't dead anyway for these Linkfluencers? Only LLMs? And then you hear mangers and leadership parrtoting the same LinkedIn bullshit in team meetings... where is all this going? ",datascience,OverratedDataScience,135,0.87,91,1756962325.0,https://www.reddit.com/r/datascience/comments/1n81chu/whats_up_with_linkedin_posts_saying_excel_is_dead/,https://reddit.com/r/datascience/comments/1n81chu/whats_up_with_linkedin_posts_saying_excel_is_dead/,Discussion,True,False,False,False,False,,2025-09-10T22:34:19.422629+00:00
+1n81hrr,How are you liking Positron?,"I’m an undergraduate student double majoring in Data Analytics and Data Engineering and have used VSCode, Jupyter Notebook, Google Colab, and PyCharm Community Edition during my different Python courses. I haven’t used Positron yet, but it looks really appealing since I enjoy the VSCode layout and notebook style programming. Anyone with experience using Position, I’d greatly appreciate any information on how you’ve liked (or not liked) it. Thanks!",datascience,LilParkButt,23,0.76,20,1756962850.0,https://www.reddit.com/r/datascience/comments/1n81hrr/how_are_you_liking_positron/,https://reddit.com/r/datascience/comments/1n81hrr/how_are_you_liking_positron/,Discussion,True,False,False,False,False,,2025-09-10T22:34:20.427592+00:00
+1n83iok,Would you volunteer to join the team building AI tooling? If you have what has been your experience?,"I just learned a colleague that was part of the AI tooling team is leaving and I am considering whether to ask to be added to their old project team. 
+
+I am a data scientist and while I have not had too many ML projects recently, I have some lined up for next quarter. 
+
+Their team was building the tooling to build agents for use internally and customer facing. That team has obviously gotten a lot of shout out from the CEO. Their early products are well received. 
+
+I prefer ML over AI tooling but also feel there is a new reality for my next job in that I should be above average in AI usage and development. And thus I feel that being part of the AI team would be beneficial for my career. 
+
+So my question is. Should I ask to join the AI team? Have others done this - what has been experienced? Anything to look out for/any ways to shape the my potential journey in that team? ",datascience,Final_Alps,0,0.25,6,1756970387.0,https://www.reddit.com/r/datascience/comments/1n83iok/would_you_volunteer_to_join_the_team_building_ai/,https://reddit.com/r/datascience/comments/1n83iok/would_you_volunteer_to_join_the_team_building_ai/,Career | Europe,True,False,False,False,False,,2025-09-10T22:34:21.429205+00:00
+1n7ops6,Freelance search,Any website to work as freelancer besides upwork ?,datascience,Gold-Artichoke-9288,4,0.67,11,1756928385.0,https://www.reddit.com/r/datascience/comments/1n7ops6/freelance_search/,https://reddit.com/r/datascience/comments/1n7ops6/freelance_search/,Discussion,True,False,False,False,False,,2025-09-10T22:34:22.430871+00:00
+1n6so7m,I built a simulation tool for students to learn causal inference!,"\- Building a good intuition for causal inference methods requires you to play around with assumptions and data, but getting data from a paper and replicating the results takes time.   
+\- **I made a simulation tool to help students quickly build an intuition for these methods (currently only difference-in-difference is available).** This tool is great for the undergraduate level (as I am still a student so the content covered isn't super advanced)
+
+This is still a proof-of-concept, but would love your feedback and what other methods you would like to see!
+
+Link: [https://causal-buddy.streamlit.app/](https://causal-buddy.streamlit.app/)",datascience,Technical-Note-4660,160,0.98,23,1756840467.0,https://www.reddit.com/r/datascience/comments/1n6so7m/i_built_a_simulation_tool_for_students_to_learn/,https://reddit.com/r/datascience/comments/1n6so7m/i_built_a_simulation_tool_for_students_to_learn/,Projects,True,False,False,False,False,,2025-09-10T22:34:23.435952+00:00
+1n70lcz,A/B Testing Overview,"Sharing this as a guide on A/B Testing. I hope that it can help those preparing for interviews and those unfamiliar with the wide field of experimentation.
+
+Any feedback would be appreciated as we're always on a learning journey.",datascience,joshamayo7,36,0.87,7,1756859736.0,https://medium.com/@joshamayo7/continuous-improvement-through-online-experimentation-a72406b0ee3d,https://reddit.com/r/datascience/comments/1n70lcz/ab_testing_overview/,Analysis,False,False,False,False,False,,2025-09-10T22:34:24.437615+00:00
+1n7zgzy,"Per row context understanding is hard for SQL and RAG databases, here's how we solved it with LLMs","Traditional databases rely on RAG and vector databases or SQL-based transformations/analytics. But will they be able to preserve per-row contextual understanding?
+
+We’ve released Agents as part of Datatune:
+
+[https://github.com/vitalops/datatune](https://github.com/vitalops/datatune)
+
+In a single prompt, you can define multiple tasks for data transformations, and Datatune performs the transformations on your data at a per-row level, with contextual understanding.
+
+Example prompt:
+
+""Extract categories from the product description and name. Keep only electronics products. Add a column called ProfitMargin = (Total Profit / Revenue) \* 100""
+
+Datatune interprets the prompt and applies the right operation (map, filter, or an LLM-powered agent pipeline) on your data using OpenAI, Azure, Ollama, or other LLMs via LiteLLM.
+
+Key Features
+
+\- Row-level map() and filter() operations using natural language
+
+\- Agent interface for auto-generating multi-step transformations
+
+\- Built-in support for Dask DataFrames (for scalability)
+
+\- Works with multiple LLM backends (OpenAI, Azure, Ollama, etc.)
+
+\- Compatible with LiteLLM for flexibility across providers
+
+\- Auto-token batching, metadata tracking, and smart pipeline composition
+
+Token & Cost Optimization
+
+\- Datatune gives you explicit control over which columns are sent to the LLM, reducing token usage and API cost:
+
+\- Use input\_fields to send only relevant columns
+
+\- Automatically handles batching and metadata internally
+
+\- Supports setting tokens-per-minute and requests-per-minute limits
+
+\- Defaults to known model limits (e.g., GPT-3.5) if not specified
+
+\- This makes it possible to run LLM-based transformations over large datasets without incurring runaway costs.",datascience,metalvendetta,0,0.23,3,1756956245.0,https://www.reddit.com/r/datascience/comments/1n7zgzy/per_row_context_understanding_is_hard_for_sql_and/,https://reddit.com/r/datascience/comments/1n7zgzy/per_row_context_understanding_is_hard_for_sql_and/,Projects,True,False,False,False,False,,2025-09-10T22:34:25.442607+00:00
+1n6ez8o,Is it wrong to be specialized in specific DS niche?,"Hello fellows Data Scientists!
+I’m coming with question/discussion about specialization in specific part of Data Science. For a long time my main duty is time series and predictive projects, mainly around finance but in retail domain. As an example, project where I predict sales per hour for month up front, later I place matrix with amount of staff needed on specific station to minimize number of employees present in the location (lot of savings in labor costs). Lately I attended few interviews, that didn’t go flawlessly from my side - most of questions were around classification problems, where most of my knowledge is in regression problems, of course I’m blaming myself on every attempt where I didn’t receive an offer because of technical interview and there is no discussion that I could prepare myself in more broad knowledge. But here comes my question, is it possible to know deeply every kind of niche knowledge when your main work spins around specific problems? I’m sure there are lot of DS which work for past 10 years or so and because of number of projects they’re familiar with a lot of specific problems, but for someone with 3 yoe is it doable? I feel like I’m very good in tackling time series problems, but as an example, my knowledge in image recognition is very limited, did you face problem like that? What are your thoughts? How did you overcome this in your career?",datascience,jesteartyste,33,0.75,50,1756805639.0,https://www.reddit.com/r/datascience/comments/1n6ez8o/is_it_wrong_to_be_specialized_in_specific_ds_niche/,https://reddit.com/r/datascience/comments/1n6ez8o/is_it_wrong_to_be_specialized_in_specific_ds_niche/,Discussion,True,False,False,False,False,,2025-09-10T22:34:26.447650+00:00
+1n70y9a,Diffusion models,"What position do Diffusion models take in the spectrum of architectures to AGI like compared to jepa, auto-regressive modelling and others ? are they RL-able ?",datascience,FreakedoutNeurotic98,0,0.5,5,1756860734.0,https://www.reddit.com/r/datascience/comments/1n70y9a/diffusion_models/,https://reddit.com/r/datascience/comments/1n70y9a/diffusion_models/,Discussion,True,False,False,False,False,,2025-09-10T22:34:27.451483+00:00
+1n6cug7,The Hidden Costs of Naive Retrieval,"We often treat Retrieval-Augmented Generation (RAG) as the default solution for knowledge-intensive tasks, but the naive 'retrieve-then-read' paradigm has significant hidden costs that can hurt, rather than help, performance. So, when is it better not to retrieve?
+
+This series on **Adaptive RAG** starts by exploring the hidden costs of our default RAG implementations by looking at three key areas:
+
+* **The Practical Problems:** These are the obvious unnecessary latency and compute overhead for simple or popular queries where the LLM's parametric memory would have been enough.
+* **The Hidden Dangers:** There are more subtle risks to quality. Noisy or misleading context can lead to ""External Hallucinations,"" where the retriever itself induces factual errors in an otherwise correct model.
+* **The Foundational Flaws:** Finally, the ""retrieval advantage"" can shrink as models scale.",datascience,SirCasms,0,0.5,0,1756797162.0,https://blog.reachsumit.com/posts/2025/09/problems-with-naive-rag/,https://reddit.com/r/datascience/comments/1n6cug7/the_hidden_costs_of_naive_retrieval/,ML,False,False,False,False,False,,2025-09-10T22:34:28.456516+00:00
+1n5eqdj,"Weekly Entering & Transitioning - Thread 01 Sep, 2025 - 08 Sep, 2025"," 
+
+Welcome to this week's entering & transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include:
+
+* Learning resources (e.g. books, tutorials, videos)
+* Traditional education (e.g. schools, degrees, electives)
+* Alternative education (e.g. online courses, bootcamps)
+* Job search questions (e.g. resumes, applying, career prospects)
+* Elementary questions (e.g. where to start, what next)
+
+While you wait for answers from the community, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and Resources pages on our wiki. You can also search for answers in [past weekly threads](https://www.reddit.com/r/datascience/search?q=weekly%20thread&restrict_sr=1&sort=new).",datascience,AutoModerator,10,0.76,29,1756699306.0,https://www.reddit.com/r/datascience/comments/1n5eqdj/weekly_entering_transitioning_thread_01_sep_2025/,https://reddit.com/r/datascience/comments/1n5eqdj/weekly_entering_transitioning_thread_01_sep_2025/,,True,False,False,False,False,,2025-09-10T22:34:29.461455+00:00
+1n4n1qz,How do I prepare for my data science job as a new grad?,"I just graduated from my bachelors in May. Recently, I’ve been fortunate enough to receive an offer as a data scientist I at a unicorn where most of the people on the ds team have PhDs. My job starts in a month and I’m having massive imposter syndrome, especially since my coding skills are kinda shit. I can barely do leetcode mediums. The job description is also super vague, only mentioning ML models and data analysis, so idk what specific things I should brush up on. What can I do in this month to make sure I do a good job?",datascience,ExcitingCommission5,99,0.89,35,1756619820.0,https://www.reddit.com/r/datascience/comments/1n4n1qz/how_do_i_prepare_for_my_data_science_job_as_a_new/,https://reddit.com/r/datascience/comments/1n4n1qz/how_do_i_prepare_for_my_data_science_job_as_a_new/,Discussion,True,False,False,False,False,,2025-09-10T22:34:30.462360+00:00
+1n4rufc,Let’s Build Something Together,"Hey everyone,
+
+After my last post about my struggles in finding a remote job, I was honestly blown away. I got over 50 messages not with job offers, but with stories, frustrations, and suggestions. The common theme? Many of us are stuck. Some are trying to break into the market, others are trying to move within it, and many just want to *make something meaningful*.
+
+That really got me thinking: since this subreddit is literally about connecting data scientists, engineers, PMs, MLOps folks, researchers, and builders of all kinds why don’t we **actually build something together**?
+
+It doesn’t have to be one massive project; it could be multiple smaller ones. The goal wouldn’t just be to pad CVs, but to collaborate, learn, and create something that matters. Think hackathon energy, but async and community-driven with no time limits and frustration.
+
+I am personally interested to get involved with things i haven't been yet. Mlops,Deployment,Cloud,Azure,pytorch,Apache for example. Everyone can find their opening and what they want to improve and try and work with other experience people on this that could help them.
+
+This would literally need
+
+* Data scientists / analysts
+* Software engineers
+* MLOps / infra people
+* Project managers
+* Researchers / scientists
+* Anyone who wants to contribute
+
+Build something real with others (portfolio > buzzwords)
+
+* Show initiative and collaboration on your CV/LinkedIn
+* Make connections that could lead to opportunities
+* Turn frustration into creation
+
+I’d love to hear your thoughts:
+
+* Would you be interested in joining something like this?
+* What kind of projects would excite you (open-source tools, research collabs, data-for-good, etc.)?
+* Should we organize a first call/Discord/Slack group to test the waters? I am waiting for connecting with you on Linkedin and here.
+
+PS1: Yeah I am not talkig about creating a product or building the new chatgpt. Just communication and brainstorming . Working on some ideas or just simply get to know some people. ",datascience,Fantastic-Trouble295,34,0.73,48,1756638152.0,https://www.reddit.com/r/datascience/comments/1n4rufc/lets_build_something_together/,https://reddit.com/r/datascience/comments/1n4rufc/lets_build_something_together/,Discussion,True,False,False,False,False,,2025-09-10T22:34:31.467388+00:00
+1n4bamu,Advice for DS/AS/MLE interviews,"I am looking for data scientist (ML heavy), applied scientist or ML engineer roles in product based companies. For my interview preperation, I am unsure about which book or resources to pick so that I can cover the rigor of ML rounds in these interviews. I have background in CS and have fair knowledge of ML. Anyone who cracked such roles or have any experience that can help me? 
+
+PS: I was considering reading Kevin Murphy's ML book but it is too heavy on math so I am not sure if that much of rigor is required for these kind of interviews. I am not looking for research roles. ",datascience,alpha_centauri9889,41,0.9,19,1756584615.0,https://www.reddit.com/r/datascience/comments/1n4bamu/advice_for_dsasmle_interviews/,https://reddit.com/r/datascience/comments/1n4bamu/advice_for_dsasmle_interviews/,Discussion,True,False,False,False,False,,2025-09-10T22:34:32.472399+00:00
+1n4ecoo,Career Dilemma,,datascience,NervousVictory1792,0,0.4,0,1756592609.0,/r/cscareerquestionsuk/comments/1n4ec3k/career_dilemma/,https://reddit.com/r/datascience/comments/1n4ecoo/career_dilemma/,Discussion,False,False,False,False,False,,2025-09-10T22:34:33.477394+00:00
+1n3jnpw,How do you design a test to compare two audience targeting methods?,"So we have two audiences we want to test against each other. The first is one we're currently using and the second is a new audience. We want to know if a campaign using the new audience targeting method can match or exceed an otherwise identical campaign using our current targeting.
+
+We're conducting the test on Amazon DSP and the Amazon representative recommended basically intersecting each audience with a randomized set of holdout groups. So for audience A the test cell will be all users in audience A and also in one group of randomized holdouts and similarly for audience B (with a different set of randomized holdouts)
+
+Our team's concern is that if each campaign is getting a different set of holdout groups then we wouldn't have the same baseline. My boss is recommending we use the same set of holdout groups for both. 
+
+My personal concern for that is if we'd have a proper isolation (e.g. if one user sees an ad from the campaign using audience A and also an ad from the campaign using audience B, then which audience targeting method gets credit). I think my boss' approach is probably the better design, but the overlap issue stands out to me as a complication.  
+
+I'll be honest that I've never designed an A/B test before, much less on audiences, so any help at all is appreciated. I've been trying to understand how other platforms do this because Amazon does seem a bit different - as in, how (in an ideal universe) would you test two audiences against each other?",datascience,PathalogicalObject,22,0.91,12,1756502552.0,https://www.reddit.com/r/datascience/comments/1n3jnpw/how_do_you_design_a_test_to_compare_two_audience/,https://reddit.com/r/datascience/comments/1n3jnpw/how_do_you_design_a_test_to_compare_two_audience/,Statistics,True,False,False,False,False,,2025-09-10T22:34:34.482437+00:00
+1n3c1ks,Choice of AI tool for personal projects and learning,"Hello,
+
+I am DS with \~4 YoE and now looking to upskill and start my job hunt. Due to the nature of my work, which is primarily model maintenance and automation, I don't have a wealth of development and deployment projects on my resume. I do, but very sparsely. 
+
+One of my major problems is a form of ""**I don't know what I don't know**"". Basically, I keep doing the same stuff with public datasets and I don't know what new stuff to do. So, as a trial I used ChatGPT to suggest projects after giving it a sample dataset and I got overwhelmed with its suggestions. I have so many questions that I know I will run out of tokens.
+
+So, I was thinking of getting the premium version of ChatGPT or Claude or Perplexity to help me in this endeavor. I want to execute personal projects with its help and learn concepts that I can deep-dive on my own.
+
+So, if you can suggest which one would be best for the 20$ everyone is charging, it would be very helpful!
+
+Thanks a lot!!",datascience,JayBong2k,4,0.59,11,1756484777.0,https://www.reddit.com/r/datascience/comments/1n3c1ks/choice_of_ai_tool_for_personal_projects_and/,https://reddit.com/r/datascience/comments/1n3c1ks/choice_of_ai_tool_for_personal_projects_and/,Tools,True,False,False,False,False,,2025-09-10T22:34:35.487433+00:00
+1n2fmqs,Stanford study finds that AI has already started wiping out new grad jobs,,datascience,nullstillstands,263,0.94,54,1756395468.0,https://www.interviewquery.com/p/ai-killing-entry-level-jobs,https://reddit.com/r/datascience/comments/1n2fmqs/stanford_study_finds_that_ai_has_already_started/,Discussion,False,False,False,False,False,,2025-09-10T22:34:36.492437+00:00
+1n2s1v1,Shopify Applied Machine Learning Engineer Pair Programming Interview,"Has anyone done the pair programming interview with Shopify? 
+
+Currently interviewing for a Machine Learning Engineer position and the description is really vague.  
+All I know is that I can use AI tools and that they don't like Leetcode.  
+It will be pair programming and bring your own IDE, but beyond this I really have no idea what to expect and how to prepare.
+
+  
+My interview is in a week - I'd really appreciate any guidance and help, thank you!
+
+(also based in Canada, flair says US only for some reason)",datascience,sg6128,17,0.82,2,1756424691.0,https://www.reddit.com/r/datascience/comments/1n2s1v1/shopify_applied_machine_learning_engineer_pair/,https://reddit.com/r/datascience/comments/1n2s1v1/shopify_applied_machine_learning_engineer_pair/,Career | US,True,False,False,False,False,,2025-09-10T22:34:37.495577+00:00
+1n2s33v,Shopify Applied Machine Learning Engineer Pair Programming Interview,"Has anyone done the pair programming interview with Shopify? 
+
+Currently interviewing for a Machine Learning Engineer position and the description is really vague.  
+All I know is that I can use AI tools and that they don't like Leetcode.  
+It will be pair programming and bring your own IDE, but beyond this I really have no idea what to expect and how to prepare.
+
+  
+My interview is in a week - I'd really appreciate any guidance and help, thank you!
+
+(also based in Canada, flair says US only for some reason)",datascience,sg6128,12,0.84,0,1756424786.0,https://www.reddit.com/r/datascience/comments/1n2s33v/shopify_applied_machine_learning_engineer_pair/,https://reddit.com/r/datascience/comments/1n2s33v/shopify_applied_machine_learning_engineer_pair/,Career | US,True,False,False,False,False,,2025-09-10T22:34:38.496978+00:00
+1n2o7c1,"Free 1,000 CPU + 100 GPU hours for testers","I believe it should be dead simple for data scientists, analysts, and researchers to scale their code in the cloud without relying on DevOps. At my last company, whenever the data team needed to scale workloads, we handed it off to DevOps. They wired it up in Airflow DAGs, managed the infrastructure, and quickly became the bottleneck. When they tried teaching the entire data team how to deploy DAGs, it fell apart and we ended up back to queuing work for DevOps.
+
+That experience pushed me to build cluster compute software that makes scaling dead simple for any Python developer. With a single function you can deploy to massive clusters (10k vCPUs, 1k GPUs). You can bring your own Docker image, define hardware requirements, run jobs as background tasks you can fire and forget, and kick off a million simple functions in seconds.
+
+It’s [open source](https://github.com/Burla-Cloud/burla) and I’m still making install easier, but I also have a few managed versions.
+
+Right now I’m looking for test users running embarrassingly parallel workloads like data prep, hyperparameter tuning, batch inference, or Monte Carlo simulations. If you’re interested, email me at [**joe@burla.dev**]() and I’ll set you up with a managed cluster that includes 1,000 CPU hours and 100 GPU hours.
+
+Here’s an example of it in action: I spun up 4k vCPUs to screenshot 30k arXiv PDFs and push them to GCS in just a couple minutes: [https://x.com/infra\_scale\_5/status/1938024103744835961](https://x.com/infra_scale_5/status/1938024103744835961?utm_source=chatgpt.com)
+
+Would love testers.",datascience,Ok_Post_149,5,0.73,6,1756414984.0,https://www.reddit.com/r/datascience/comments/1n2o7c1/free_1000_cpu_100_gpu_hours_for_testers/,https://reddit.com/r/datascience/comments/1n2o7c1/free_1000_cpu_100_gpu_hours_for_testers/,Projects,True,False,False,False,False,,2025-09-10T22:34:39.500661+00:00
+1n1tk23,Rejected after 3rd round live coding OA round,"As the title says, I made it to the 3rd round interview for a Staff DS role. Thought I was doing well, but I bombed the coding portion, I only managed to outline my approach instead of producing actual code. That’s on me, mostly because I’ve gotten used to relying on GPT to crank out code for me over the last two years. Most of what I do is build POCs, check hypotheses, then have GPT generate small snippets that I review for logic before applying it. I honestly haven’t done “live coding” in a while.
+
+Before the interview, I prepped with DataLemur for the pandas related questions and brushed up on building simple NNs and GNNs from scratch to cover the conceptual/simple DS side. A little bit on the transformer module as well to have my bases cover if they ask for it. I didn’t expect a LeetCode-style live coding question. I ended up pseudo-coding it, then stumbling hard when I tried to actually implement it.
+
+Got the rejection email today. Super heartbreaking to see. Do I go back to live-coding and memorizing syntax and practicing leetcodes for upcoming future DS interview?",datascience,1234okie1234,93,0.83,66,1756329708.0,https://www.reddit.com/r/datascience/comments/1n1tk23/rejected_after_3rd_round_live_coding_oa_round/,https://reddit.com/r/datascience/comments/1n1tk23/rejected_after_3rd_round_live_coding_oa_round/,Career | US,True,False,False,False,False,,2025-09-10T22:34:40.505632+00:00
+1n1zo5y,Why is Typescript starting to gain adoption in AI?,"I've noticed that, increasingly, using TypeScript has become more common for AI tools. For example, Langgraph has Langgraph.js for Typescript developers. Same with OpenAI's Agents SDK.
+
+I've also seen some AI engineer job openings for roles that use both Python and Typescript.
+
+Python still seems to be dominant, but it seems like Typescript is definitely starting to gain traction in the field. So why is this? Why the appeal of building AI apps in Typescript? It wasn't originally like this with more traditional ML / deep learning, where Python was so dominant.
+
+Why is it gaining increasing adoption and what's the appeal?
+
+",datascience,Illustrious-Pound266,20,0.8,38,1756345706.0,https://www.reddit.com/r/datascience/comments/1n1zo5y/why_is_typescript_starting_to_gain_adoption_in_ai/,https://reddit.com/r/datascience/comments/1n1zo5y/why_is_typescript_starting_to_gain_adoption_in_ai/,Discussion,True,False,False,False,False,,2025-09-10T22:34:41.507621+00:00
+1n105of,Airbnb Data,"Hey everyone,
+
+I work on the data team at [AirROI](https://www.airroi.com). For a while, we offered free datasets for about **250** cities, but we always wanted to do more for the community. Recently, we just expanded our free public dataset from \~250 to nearly **1000** global Airbnb markets on **properties** and **pricing data**. As far as we know, this makes it the single **largest free Airbnb dataset** ever released on the internet.
+
+You can browse the collection and download here, no sign-up required: [Airbnb Data](http://www.airroi.com/data-portal)
+
+
+
+**What’s in the data?**
+
+For each market (cities, regions, etc.), the CSV dumps include:
+
+Property Listings: Details like room type, amenities, number of bedrooms/bathrooms, guest capacity, etc.
+
+Pricing Data: This is the cool part. We include historical rates, future calendar rates (for investment modeling), and minimum/maximum stay requirements.
+
+Host Data: Host ID, superhost status, and other host-level metrics.
+
+
+
+**What can you use it for?**
+
+This is a treasure trove for:
+
+Trend Analysis: Track pricing and occupancy trends across the globe.
+
+Investment & Rental Arbitrage Analysis: Model potential ROI for properties in new markets.
+
+Academic Research: Perfect for papers on the sharing economy, urban development, or tourism.
+
+Portfolio Projects: Build a killer dashboard or predictive model for your GitHub.
+
+General Data Wrangling Practice: It's real, messy, world-class data.
+
+
+
+**A quick transparent note**: If you need hyper-specific or real-time data for a region not in the free set, we do have a ridiculously cheap [Airbnb API](https://www.airroi.com/api) to get more customized data. Alternatively, if you are a researcher who wants a larger customized data just reach out to us, we'll try our best to support!
+
+  
+If you require something that's not currently in the free dataset please comment below, we'll try to accommodate within reason.
+
+Happy analyzing and go building something cool!
+
+
+
+[Airbnb Data](https://preview.redd.it/vi9bjqphxflf1.png?width=3038&format=png&auto=webp&s=6953d029e8bc9aa21280b411df543d3b5bbc3d66)
+
+[Download Airbnb Data](https://preview.redd.it/ydtx5oqjxflf1.png?width=1920&format=png&auto=webp&s=bb4f4dfc361d83734a1c088750d8167e1327bdae)
+
+",datascience,jason-airroi,322,0.97,38,1756247804.0,https://www.reddit.com/r/datascience/comments/1n105of/airbnb_data/,https://reddit.com/r/datascience/comments/1n105of/airbnb_data/,Discussion,True,False,False,False,False,,2025-09-10T22:34:42.510660+00:00
+1n28ukj,I built Runcell - an AI agent for Jupyter that actually understands your notebook context,"I've been working on something called Runcell that I think fills a gap I was frustrated with in existing AI coding tools.
+
+**What it is:** Runcell is an AI agent that lives inside JupyterLab (can be used as an extension) and can understand the full context of your notebook - your data, charts, previous code, kernel state, etc. Instead of just generating code, it can actually edit and execute specific cells, read/write files, and take actions on its own.
+
+**Why I built it:** I tried Cursor and Claude Code, but they mostly just generate a bunch of cells at once without really understanding what happened in previous steps. When I'm doing data science work, I usually need to look at the results from one cell before deciding what to write next. That's exactly what Runcell does - it analyzes your previous results and decides what code to run next based on that context.
+
+**How it's different:**
+
+* vs AI IDEs like Cursor: Runcell focuses specifically on building context for Jupyter environments instead of treating notebooks like static files
+* vs Jupyter AI: Runcell is more of an autonomous agent rather than just a chatbot - it has tools to actually work and take actions
+
+You can try it with just `pip install runcell`.
+
+I'm looking for feedback from the community. Has anyone else felt this frustration with existing tools? Does this approach make sense for your workflow?",datascience,Sudden_Beginning_597,0,0.41,3,1756377856.0,https://www.reddit.com/r/datascience/comments/1n28ukj/i_built_runcell_an_ai_agent_for_jupyter_that/,https://reddit.com/r/datascience/comments/1n28ukj/i_built_runcell_an_ai_agent_for_jupyter_that/,Tools,True,False,False,False,False,,2025-09-10T22:34:43.512239+00:00
+1n17500,"What exactly is ""prompt engineering"" in data science?","I keep seeing people talk about prompt engineering, but I'm not sure I understand what that actually means in practice.
+
+Is it just writing one-off prompts to get a model to do something specific? Or is it more like setting up a whole system/workflow (e.g. using LangChain, agents, RAG, etc.) where prompts are just one part of the stack in developing an application?
+
+For those of you working as data scientists:
+- Are you actively building internal end-to-end agents with RAG and tool integrations (either external like MCP or creating your own internal files to serve as tools)?
+
+- Is prompt engineering part of your daily work, or is it more of an experimental/prototyping thing?",datascience,IronManFolgore,66,0.87,56,1756267419.0,https://www.reddit.com/r/datascience/comments/1n17500/what_exactly_is_prompt_engineering_in_data_science/,https://reddit.com/r/datascience/comments/1n17500/what_exactly_is_prompt_engineering_in_data_science/,Discussion,True,False,False,False,False,,2025-09-10T22:34:44.517340+00:00
+1n191lg,NVIDIA AI Released Jet-Nemotron: 53x Faster Hybrid-Architecture Language Model Series,"NVIDIA Jet-Nemotron is a new LLM series which is about 50x faster for inferencing. The model introduces 3 main concept :
+
+* **PostNAS**: a new search method that tweaks only attention blocks on top of pretrained models, cutting massive retraining costs.
+* **JetBlock**: a dynamic linear attention design that filters value tokens smartly, beating older linear methods like Mamba2 and GLA.
+* **Hybrid Attention**: keeps a few full-attention layers for reasoning, replaces the rest with JetBlocks, slashing memory use while boosting throughput.
+
+Video explanation : [https://youtu.be/hu\_JfJSqljo](https://youtu.be/hu_JfJSqljo)
+
+Paper : [https://arxiv.org/html/2508.15884v1](https://arxiv.org/html/2508.15884v1)",datascience,Technical-Love-8479,11,0.8,7,1756274072.0,https://www.reddit.com/r/datascience/comments/1n191lg/nvidia_ai_released_jetnemotron_53x_faster/,https://reddit.com/r/datascience/comments/1n191lg/nvidia_ai_released_jetnemotron_53x_faster/,AI,True,False,False,False,False,,2025-09-10T22:34:45.521417+00:00
+1n035we,Is the market really like this? The reality for a recent graduate looking for opportunities.,"Hello . I’m a recent Master of Science in Analytics graduate from Georgia Tech (GPA 3.91, top 5% of my class). I completed a practicum with Sandia Labs and I’m currently in discussions about further research with GT and SANDIA. I’m originally from Greece and I’ve built a strong portfolio of projects, ranging from classic data analysis and machine learning to a Resume AI chatbot.
+
+I entered the job market feeling confident, but I’ve been surprised and disappointed by how tough things are here. The Greek market is crazy: I’ve seen openings that attract 100 applicants and still offer very low pay while expecting a lot. I’m applying to junior roles and have gone as far as seven interview rounds that tested pandas, PyTorch, Python, LeetCode-style problems, SQL, and a lot of behavioral and technical assessments.
+
+Remote opportunities seem rare on EUROPE or US. I may be missing something, but I can’t find many remote openings.
+
+This isn’t a complaint so much as an expression of frustration. It’s disheartening that a master’s from a top university, solid skills, hands-on projects, and a real practicum can still make landing a junior role so difficult. I’ve also noticed many job listings now list deep learning and PyTorch as mandatory, or rebrand positions as “AI engineer,” even when it doesn’t seem necessary.
+
+On a positive note, I’ve had strong contacts reach out via LinkedIn  though most ask for relocation, which I can’t manage due to family reasons.
+
+I’m staying proactive: building new projects, refining my interviewing skills, and growing my network. I’d welcome any advice, referrals, or remote-friendly opportunities. Thank you!
+
+PS. If you comment your job experience state your country to get a picture of the worldwide problem.
+
+PS2. Started as an attempt for networking and opportunities, came down to an interesting realistic discussion. Still sad to read, what's the future of this job? What will happen next? What recent grads and on university juniors should be doing? 
+
+Ps3. If anyone wants to connect send me a message ",datascience,Fantastic-Trouble295,205,0.92,132,1756157064.0,https://www.reddit.com/r/datascience/comments/1n035we/is_the_market_really_like_this_the_reality_for_a/,https://reddit.com/r/datascience/comments/1n035we/is_the_market_really_like_this_the_reality_for_a/,Discussion,True,False,False,False,False,,2025-09-10T22:34:46.527829+00:00
+1n0ke01,"InternVL 3.5 released : Best MultiModal LLM, ranks 3 overall","InternVL 3.5 has been released, and given the benchmark, the model looks to be the best multi-model LLM, ranking 3 overall just behind Gemini 2.5 Pro and GPT-5.  Multiple variants released ranging from 1B to 241B
+
+*Processing img 5v5hfeg9wclf1...*
+
+The team has introduced a number of new technical inventions, including *Cascade RL, Visual Resolution Router,  Decoupled Vision-Language Deployment.*  
+
+Model weights : [https://huggingface.co/OpenGVLab/InternVL3\_5-8B](https://huggingface.co/OpenGVLab/InternVL3_5-8B)
+
+Tech report : [https://arxiv.org/abs/2508.18265](https://arxiv.org/abs/2508.18265)
+
+Video summary : [https://www.youtube.com/watch?v=hYrdHfLS6e0](https://www.youtube.com/watch?v=hYrdHfLS6e0)",datascience,Technical-Love-8479,12,0.73,6,1756211056.0,https://www.reddit.com/r/datascience/comments/1n0ke01/internvl_35_released_best_multimodal_llm_ranks_3/,https://reddit.com/r/datascience/comments/1n0ke01/internvl_35_released_best_multimodal_llm_ranks_3/,AI,True,False,False,False,False,,2025-09-10T22:34:47.529909+00:00
+1mzzzu7,"We are back with many Data science jobs in Soccer, NFL, NHL, Formula1 and more sports! 2025-08","Hey guys,
+
+I've been silent here lately but many opportunities keep appearing and being posted.
+
+These are a few from the last 10 days or so
+
+* [Quantitative Analyst Associate (Spring/Summer 2026) - Philadelphia Phillies](http://www.sportsjobs.online/jobs/9015-quantitative-analyst-associate-spring-summer-2026?utm_source=sportsjobs-online.beehiiv.com&utm_medium=newsletter&utm_campaign=new-jobs-in-sports-analytics-how-to-learn-analytics-quickly-from-a-youtube-sports-channel&_bhlid=24b4748bef795f9a693e2911693d223c99632356)
+* [Senior Sports Data Scientist - ESPN](http://www.sportsjobs.online/jobs/9018-senior-sports-data-scientist?utm_source=sportsjobs-online.beehiiv.com&utm_medium=newsletter&utm_campaign=new-jobs-in-sports-analytics-how-to-learn-analytics-quickly-from-a-youtube-sports-channel&_bhlid=58166f06c2cb14a5f60c555a80e63eff791ece6a)
+* [Baseball Analyst/Data Scientist - Miami Marlins](http://www.sportsjobs.online/jobs/9014-baseball-analyst-data-scientist?utm_source=sportsjobs-online.beehiiv.com&utm_medium=newsletter&utm_campaign=new-jobs-in-sports-analytics-how-to-learn-analytics-quickly-from-a-youtube-sports-channel&_bhlid=7d5181c9bd523683761c79ffcd23fafab8877728)
+* [Data Engineer, Athletics - University of Pittsburgh](http://www.sportsjobs.online/jobs/8992-data-engineer-athletics?utm_source=sportsjobs-online.beehiiv.com&utm_medium=newsletter&utm_campaign=new-jobs-in-sports-analytics-how-to-learn-analytics-quickly-from-a-youtube-sports-channel&_bhlid=90aede97e283411c5e9a31b34a982299320cc5e6)
+* [Senior Data Scientist - Tottenham Hotspur](http://www.sportsjobs.online/jobs/8997-senior-data-scientist?utm_source=sportsjobs-online.beehiiv.com&utm_medium=newsletter&utm_campaign=new-jobs-in-sports-analytics-how-to-learn-analytics-quickly-from-a-youtube-sports-channel&_bhlid=e35ef1aeb7939cd356689d46e49afdff95535e1a)
+* [Sports Scientist - Human Data Science - McLaren Racing](http://www.sportsjobs.online/jobs/8996-sports-scientist-human-data-science?utm_source=sportsjobs-online.beehiiv.com&utm_medium=newsletter&utm_campaign=new-jobs-in-sports-analytics-how-to-learn-analytics-quickly-from-a-youtube-sports-channel&_bhlid=e40bd45b1f6178064b5c7cf165f65e5821c8ad0d)
+* [Lead Engineer - Phoenix Suns](http://www.sportsjobs.online/jobs/8981-lead-engineer?utm_source=sportsjobs-online.beehiiv.com&utm_medium=newsletter&utm_campaign=new-jobs-in-sports-analytics-how-to-learn-analytics-quickly-from-a-youtube-sports-channel&_bhlid=841248c85b1774cec3812e308b803fbcaa9b570e)
+* [Business Intelligence Intern - Houston Texans](http://www.sportsjobs.online/jobs/8967-business-intelligence-intern?utm_source=sportsjobs-online.beehiiv.com&utm_medium=newsletter&utm_campaign=new-jobs-in-sports-analytics-how-to-learn-analytics-quickly-from-a-youtube-sports-channel&_bhlid=35c476cde3ddf380fbd3d5f4beccd3424bdcb356)
+* [Technical Data Analyst - Portland Timbers](http://www.sportsjobs.online/jobs/8953-technical-staff-data-analyst-mls?utm_source=sportsjobs-online.beehiiv.com&utm_medium=newsletter&utm_campaign=new-jobs-in-sports-analytics-how-to-learn-analytics-quickly-from-a-youtube-sports-channel&_bhlid=14f0d07bcd9a80d670a7cc018bb6d16d6e2e9c2b)
+
+I run www.sportsjobs(.)online, a job board in that niche. In the last month I added around 300 jobs.
+
+For the ones that already saw my posts before, I've added more sources of jobs lately. I'm open to suggestions to prioritize the next batch.
+
+It's a niche, there aren't thousands of jobs as in Software in general but my commitment is to **keep improving a simple metric, jobs per month.** We always need some metric in DS..
+
+I run also a newsletter to receive emails with jobs and interesting content on sports analytics (next edition tomorrow!)  
+[https://sportsjobs-online.beehiiv.com/subscribe](https://sportsjobs-online.beehiiv.com/subscribe)
+
+Finally, I've created also a [reddit community](https://www.reddit.com/r/sports_jobs/) where I post recurrently the openings if that's easier to check for you.
+
+I hope this helps someone!",datascience,fark13,115,0.94,20,1756149836.0,https://www.reddit.com/r/datascience/comments/1mzzzu7/we_are_back_with_many_data_science_jobs_in_soccer/,https://reddit.com/r/datascience/comments/1mzzzu7/we_are_back_with_many_data_science_jobs_in_soccer/,Career | US,True,False,False,False,False,,2025-09-10T22:34:48.532129+00:00
+1n0ep0g,How do I make the most of this opportunity,"Hello everyone, I’m a senior studying data science at a large state school. Recently, through some networking, I got to interview with a small real estate and financial data aggregator company with around \~100 employees.
+
+I met with the CEO for my interview. As far as I know, they haven’t had an engineering or science intern before, mainly marketing and business interns. The firm has been primarily a more traditional real estate company for the last 150 years. Many tasks are done through SQL queries and Excel. Much of the product team at the company has been there for over 20 years and is resistant to change.
+
+The ceo wants to make the company more efficient and modern, and implement some statistical and ML models and automated workflows with their large amounts of data. He has given me some of the ideas that he and others at the company have considered. I will list those at the end. But I am starting to feel that I’m a bit in over my head here as he hinted towards using my work as a proof of concept to show the board that these new technologies and techniques r what the company needs to stay relevant and competitive. As someone who is just wrapping up their undergrad, some of it feels beyond my abilities if I’m mainly going to be implementing a lot of these things solo.
+
+  
+These are some of the possible projects I would work on:
+
+
+
+#  Chatbot Knowledge Base Enhancement
+
+**Background**: The Company is deploying AI-powered chatbots (HubSpot/CoPilot) for customer engagement and internal knowledge access. Current limitations include incomplete coverage of FAQs and inconsistent performance tracking.
+
+**Objective**: Enhance chatbot functionality through improved training, monitoring, and analytics.
+
+**Scope**:
+
+* Automate FAQ training using internal documentation.
+* Log and classify failed responses for continuous improvement.
+* Develop a performance dashboard.
+
+**Deliverables**:
+
+* Enhanced training process.
+* Error classification system.
+* Prototype dashboard.
+
+**Value**: Improves customer engagement, reduces staff workload, and provides analytics on chatbot usage.
+
+
+
+# Automated Data Quality Scoring
+
+**Background**: Clients demand AI-ready datasets, and the company must ensure high data quality standards.
+
+**Objective**: Prototype an automated scoring system for dataset quality.
+
+**Scope**:
+
+* Metrics: completeness, duplicates, anomalies, missing metadata.
+* Script to evaluate any dataset.
+
+**Intern Fit**: Candidate has strong Python/Pandas skills and experience with data cleaning.
+
+**Deliverables**:
+
+* Reusable script for scoring.
+* Sample reports for selected datasets.
+
+**Value**: Positions the company as a provider of AI-ready data, improving client trust.
+
+  
+Entity Resolution Prototype
+
+**Background**: The company datasets are siloed (deeds, foreclosures, liens, rentals) with no shared key.
+
+**Objective**: Prototype entity resolution methods for cross-dataset linking.
+
+**Scope**:
+
+* Fuzzy matching, probabilistic record linkage, ML-based classifiers.
+* Apply to limited dataset subset.
+
+**Intern Fit**: Candidate has ML and data cleaning experience but limited production-scale exposure.
+
+**Deliverables**:
+
+* Prototype matching algorithms.
+* Confidence scoring for matches.
+* Report on results.
+
+**Value**: Foundation for the company's long-term, unique master identifier initiative.
+
+  
+Predictive Micro-Models
+
+**Background**: Predictive analytics represents an untapped revenue stream for the company.
+
+**Objective**: Build small predictive models to demonstrate product potential.
+
+**Scope**:
+
+* Predict foreclosure or lien filing risk.
+* Predict churn risk for subscriptions.
+
+**Intern Fit**: Candidate has built credit risk models using XGBoost and regression.
+
+**Deliverables**:
+
+* Trained models with evaluation metrics.
+* Prototype reports showcasing predictions.
+
+**Value**: Validates feasibility of predictive analytics as a company product.
+
+
+
+# Generative Summaries for Court/Legal Documents
+
+**Background**: Processing court filings is time-intensive, requiring manual metadata extraction.
+
+**Objective**: Automate structured metadata extraction and summary generation using NLP/LLM.
+
+**Scope**:
+
+* Extract entities (names, dates, amounts).
+* Generate human-readable summaries.
+
+**Intern Fit**: Candidate has NLP and ML experience through research work.
+
+**Deliverables**:
+
+* Prototype NLP pipeline.
+* Example structured outputs.
+* Evaluation of accuracy.
+
+**Value**: Reduces operational costs and increases throughput.
+
+  
+Automation of Customer Revenue Analysis
+
+**Background**: The company currently runs revenue analysis scripts manually, limiting scale.
+
+**Objective**: Automate revenue forecasting and anomaly detection.
+
+**Scope**:
+
+* Extend existing forecasting models.
+* Build anomaly detection.
+* Dashboard for finance/sales.
+
+**Intern Fit**: Candidate’s statistical background aligns with forecasting work.
+
+**Deliverables**:
+
+* Automated pipeline.
+* Interactive dashboard.
+
+**Value**: Improves financial planning and forecasting accuracy.
+
+  
+Data Product Usage Tracking
+
+**Background**: Customer usage patterns are not fully tracked, limiting upsell opportunities.
+
+**Objective**: Prototype a product usage analytics system.
+
+**Scope**:
+
+* Track downloads, API calls, subscriptions.
+* Apply clustering/churn prediction models.
+
+**Intern Fit**: Candidate’s experience in clustering and predictive modeling fits well.
+
+**Deliverables**:
+
+* Usage tracking prototype.
+* Predictive churn model.
+
+**Value**: Informs sales strategies and identifies upsell/cross-sell opportunities.
+
+  
+AI Policy Monitoring Tool
+
+**Background**: The company has implemented an AI Use Policy, requiring compliance monitoring.
+
+**Objective**: Build a prototype tool that flags non-compliant AI usage.
+
+**Scope**:
+
+* Detect unapproved file types or sensitive data.
+* Produce compliance dashboards.
+
+**Intern Fit**: Candidate has built automation pipelines before, relevant experience.
+
+**Deliverables**:
+
+* Monitoring scripts.
+* Dashboard with flagged activity.
+
+**Value**: Protects the company against compliance and cybersecurity risks.",datascience,ChubbyFruit,6,0.63,17,1756190673.0,https://www.reddit.com/r/datascience/comments/1n0ep0g/how_do_i_make_the_most_of_this_opportunity/,https://reddit.com/r/datascience/comments/1n0ep0g/how_do_i_make_the_most_of_this_opportunity/,Career | US,True,False,False,False,False,,2025-09-10T22:34:49.536102+00:00
+1n0biew,Microsoft released VibeVoice TTS,"Microsoft just dropped VibeVoice, an Open-sourced TTS model in 2 variants (1.5B and 7B) which can support audio generation upto 90 mins and also supports multiple speaker audio for podcast generation. 
+
+Demo Video : https://youtu.be/uIvx_nhPjl0?si=_pzMrAG2VcE5F7qJ
+
+GitHub : https://github.com/microsoft/VibeVoice",datascience,Technical-Love-8479,12,0.88,0,1756179497.0,https://www.reddit.com/r/datascience/comments/1n0biew/microsoft_released_vibevoice_tts/,https://reddit.com/r/datascience/comments/1n0biew/microsoft_released_vibevoice_tts/,AI,True,False,False,False,False,,2025-09-10T22:34:50.541114+00:00
+1mzwdws,"""The Vibes are Off..."" *server logs filling with errors*",,datascience,ElectrikMetriks,60,0.82,15,1756141796.0,https://i.redd.it/dcz0qwbk67lf1.png,https://reddit.com/r/datascience/comments/1mzwdws/the_vibes_are_off_server_logs_filling_with_errors/,Monday Meme,False,False,False,False,False,,2025-09-10T22:34:51.542791+00:00
+1mzxmx3,Looking to transition to experimentation,"Hi all, I am looking to transition from ml analytics generalized roles to more experimentation focused roles. Where to start looking for experimentation heavy roles. I know the market is trash right now, but are there any specific portals that can help find such roles. Also usually faang is very popular for such roles, but are there any other companies which would be a good step to make a transition to. ",datascience,SmartPizza,13,0.85,10,1756144536.0,https://www.reddit.com/r/datascience/comments/1mzxmx3/looking_to_transition_to_experimentation/,https://reddit.com/r/datascience/comments/1mzxmx3/looking_to_transition_to_experimentation/,Analysis,True,False,False,False,False,,2025-09-10T22:34:52.547634+00:00
+1mzlzsp,"First time writing a technical article, would love constructive feedback","Hi everyone,
+
+I recently wrote my first blog post where I share a method I’ve been using to get good results on a fine-grained classification benchmark. This is something I’ve worked on for a while and wanted to put my thoughts together in an article.
+
+I’m sharing it here **not as a promo** but because I’m genuinely looking to improve my writing and make sure my explanations are clear and useful. If you have a few minutes to read and share your thoughts (on structure, clarity, tone, level of detail, or anything else), I’d really appreciate it.
+
+Here’s the link: [https://towardsdatascience.com/a-refined-training-recipe-for-fine-grained-visual-classification/](https://towardsdatascience.com/a-refined-training-recipe-for-fine-grained-visual-classification/)
+
+Thanks a lot for your time and feedback!",datascience,Bus-cape,10,0.71,10,1756114791.0,https://www.reddit.com/r/datascience/comments/1mzlzsp/first_time_writing_a_technical_article_would_love/,https://reddit.com/r/datascience/comments/1mzlzsp/first_time_writing_a_technical_article_would_love/,ML,True,False,False,False,False,,2025-09-10T22:34:53.552670+00:00
+1mz2jgn,Day to day work at lead/principal data scientist,"Hi, 
+
+I have 9 years of experience in ml/dl. I have been looking for a role in lead/principal ds. Can you tell me what expectations do you guys face at the role.
+
+Data science knowledge? 
+Ml ops knowledge? 
+Team management? 
+",datascience,sourabharsh,66,0.9,23,1756058206.0,https://www.reddit.com/r/datascience/comments/1mz2jgn/day_to_day_work_at_leadprincipal_data_scientist/,https://reddit.com/r/datascience/comments/1mz2jgn/day_to_day_work_at_leadprincipal_data_scientist/,Discussion,True,False,False,False,False,,2025-09-10T22:34:54.553239+00:00
+1mzgkc7,"Weekly Entering & Transitioning - Thread 25 Aug, 2025 - 01 Sep, 2025"," 
+
+Welcome to this week's entering & transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include:
+
+* Learning resources (e.g. books, tutorials, videos)
+* Traditional education (e.g. schools, degrees, electives)
+* Alternative education (e.g. online courses, bootcamps)
+* Job search questions (e.g. resumes, applying, career prospects)
+* Elementary questions (e.g. where to start, what next)
+
+While you wait for answers from the community, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and Resources pages on our wiki. You can also search for answers in [past weekly threads](https://www.reddit.com/r/datascience/search?q=weekly%20thread&restrict_sr=1&sort=new).",datascience,AutoModerator,5,0.74,25,1756094498.0,https://www.reddit.com/r/datascience/comments/1mzgkc7/weekly_entering_transitioning_thread_25_aug_2025/,https://reddit.com/r/datascience/comments/1mzgkc7/weekly_entering_transitioning_thread_25_aug_2025/,,True,False,False,False,False,,2025-09-10T22:34:55.558226+00:00

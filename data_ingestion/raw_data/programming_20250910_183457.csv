@@ -1,0 +1,262 @@
+id,title,selftext,subreddit,author,score,upvote_ratio,num_comments,created_utc,url,permalink,link_flair_text,is_self,over_18,spoiler,stickied,locked,distinguished,retrieved_at
+1ndemk4,Performance Improvements in .NET 10,,programming,ben_a_adams,208,0.91,77,1757511908.0,https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/,https://reddit.com/r/programming/comments/1ndemk4/performance_improvements_in_net_10/,,False,False,False,False,False,,2025-09-10T22:28:00.899113+00:00
+1ndpzfz,"Microsoft Goes Back to BASIC, Open-Sources Bill Gates' Code",,programming,Top-Figure7252,18,0.71,7,1757537582.0,https://gizmodo.com/microsoft-goes-back-to-basic-open-sources-bill-gates-code-2000654010,https://reddit.com/r/programming/comments/1ndpzfz/microsoft_goes_back_to_basic_opensources_bill/,,False,False,False,False,False,,2025-09-10T22:28:01.900363+00:00
+1ndjw6y,Many Hard Leetcode Problems are Easy Constraint Problems,,programming,avinassh,34,0.89,7,1757523670.0,https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/,https://reddit.com/r/programming/comments/1ndjw6y/many_hard_leetcode_problems_are_easy_constraint/,,False,False,False,False,False,,2025-09-10T22:28:02.905315+00:00
+1nd7bby,The unreasonable effectiveness of modern sort algorithms,,programming,Voultapher,201,0.91,37,1757487695.0,https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md,https://reddit.com/r/programming/comments/1nd7bby/the_unreasonable_effectiveness_of_modern_sort/,,False,False,False,False,False,,2025-09-10T22:28:03.910356+00:00
+1nd8vob,JEP 401: Value classes and Objects (Preview) has just been submitted!,"The JDK it is coming out in is still not known. However, this is a major milestone to have crossed. Plus, a new Early Access build of Valhalla (up-to-date with the current JDK, presumably) will go live soon too. Details in the linked post.
+
+  
+And for those unfamiliar, u/brian_goetz is the person leading the Project Valhalla effort. So, comments by him in the linked post can help you separate between assumptions by your average user vs the official words from the Open JDK Team themselves. u/pron98 is another OpenJDK Team member commenting in the linked post.
+
+",programming,davidalayachew,46,0.94,13,1757493979.0,https://www.reddit.com/r/java/comments/1nckdwr/jep_401_value_classes_and_objects_preview_has/,https://reddit.com/r/programming/comments/1nd8vob/jep_401_value_classes_and_objects_preview_has/,,False,False,False,False,False,,2025-09-10T22:28:04.915352+00:00
+1nd8nsi,"Git Notes: git's coolest, most unloved­ feature","Did YOU know...? And if you did, what do you use it for?",programming,esiy0676,35,0.74,12,1757493115.0,https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/,https://reddit.com/r/programming/comments/1nd8nsi/git_notes_gits_coolest_most_unloved_feature/,,False,False,False,False,False,,2025-09-10T22:28:05.918543+00:00
+1nda6tp,What Is a Modular Monolith And Why You Should Care? 🔥,,programming,pepincho,14,0.63,28,1757498998.0,https://thetshaped.dev/p/what-is-a-modular-monolith-benefits-and-microservices-challenges,https://reddit.com/r/programming/comments/1nda6tp/what_is_a_modular_monolith_and_why_you_should_care/,,False,False,False,False,False,,2025-09-10T22:28:06.921023+00:00
+1ncht77,"I love UUID, I hate UUID",,programming,bobbymk10,457,0.91,151,1757421641.0,https://blog.epsiolabs.com/i-love-uuid-i-hate-uuid,https://reddit.com/r/programming/comments/1ncht77/i_love_uuid_i_hate_uuid/,,False,False,False,False,False,,2025-09-10T22:28:07.925996+00:00
+1ncx9gw,Beyond the Code: Lessons That Make You Senior Software Engineer,,programming,_zeynel,75,0.74,27,1757457145.0,https://medium.com/@ozdemir.zynl/beyond-the-code-lessons-that-make-you-senior-1ba44469aa42?source=friends_link&sk=b26d67b2b81fe10a800da07bd3415931,https://reddit.com/r/programming/comments/1ncx9gw/beyond_the_code_lessons_that_make_you_senior/,,False,False,False,False,False,,2025-09-10T22:28:08.931008+00:00
+1nddp6e,We messed up our query builder for years. Here's the story of how we fixed it and the lessons we earned along the way.,"I want to share a story from our team at SigNoz. For a long time, our platform had a mildy-frustrating query builder. In the early days, we had separate interfaces for logs, traces, and metrics, which led to a fragmented experience. Our next attempt to unify it with a SQL-based UI was fundamentally flawed, especially for logs, as it couldn't handle complex boolean logic or parentheses.
+
+After 2 years of accumulating issues and user feedback, we realized we had to completely overhaul our approach. A key lesson for us was that no matter how technically ""obvious"" a feature seems, if it isn't discoverable, it's useless. We also learned not to make assumptions on behalf of users, as it only leads to a frustrating and surprising experience.
+
+This led to Query Builder V5, a full architectural rewrite that not only fixed the core issues but also allowed us to pay off a lot of UX debt. It was a humbling journey, but the result is a tool that allows for complex searching and is so intuitive that some users have voluntarily replaced their raw ClickHouse SQL queries with it :) yay",programming,ExcitingThought2794,5,0.67,1,1757509579.0,http://signoz.io/blog/query-builder-v5/,https://reddit.com/r/programming/comments/1nddp6e/we_messed_up_our_query_builder_for_years_heres/,,False,False,False,False,False,,2025-09-10T22:28:09.933692+00:00
+1ncoxl8,Building a DOOM-like multiplayer shooter in pure SQL,,programming,avinassh,148,0.92,27,1757438259.0,https://cedardb.com/blog/doomql/,https://reddit.com/r/programming/comments/1ncoxl8/building_a_doomlike_multiplayer_shooter_in_pure/,,False,False,False,False,False,,2025-09-10T22:28:10.936011+00:00
+1ndeyjx,C++ DataFrame new version (3.6.0) is out,"[C++ DataFrame](https://github.com/hosseinmoein/DataFrame) new version includes a bunch of new analytical and data-wrangling routines. But the big news is a significant rework of documentations both in terms of visuals and content.
+
+Your feedback is appreciated.
+
+",programming,hmoein,1,0.6,0,1757512719.0,https://github.com/hosseinmoein/DataFrame,https://reddit.com/r/programming/comments/1ndeyjx/c_dataframe_new_version_360_is_out/,,False,False,False,False,False,,2025-09-10T22:28:11.941099+00:00
+1ndpv4f,A Rant About Multiprocessing,"The simplest system architecture is a single, monolithic process. This is the gold standard of all possible architectures. Why is it a thing worthy of reverence? Because it involves a single programming language and no interprocess communication, i.e. a messaging library. Software development doesn’t get more carefree than life within the safe confines of a single process.
+
+In the age of websites and cloud computing, instances of monolithic implementations are rare. Even an HTTP server presenting queries to a database server is technically two processes and a client library. There are other factors that push system design to multiprocessing, like functional separation, physical distribution and concurrency. So realistically, the typical architecture is a multiprocessing architecture.
+
+What is it about multiprocessing that bumps an architecture off the top of the list of places-I’d-rather-be? At the architectural level, the responsibility for starting and managing processes may be carried by a third-party such as Kubernetes - making it something of a non-issue. No, the real problems with multiprocessing start when the processes start communicating with each other.
+
+Consider that HTTP server paired with a database server. A single call to the HTTP server involves 5 type systems and 4 encoding/decoding operations. That’s kinda crazy. Every item of data - such as a floating-point value - exists at different times in 5 different forms, and very specific code fragments are involved in transformations between runtime variables (e.g. Javascript, Python and C++) and portable representations (e.g. JSON and protobuf).
+
+It’s popular to refer to architectures like these as layered, or as a software stack. If a Javascript application is at the top level of a stack and a database query language is at the lowest level, then all the type capability within the different type systems, must align, i.e. floats, datetimes and user-defined types (e.g. Person) must move up and down the stack without loss of integrity. Basic types such as booleans, integers and strings are fairly well supported (averting the engineers gaze from 32-bit vs 64-bit integers and floats), but support gets rocky with types often referred to as generics, e.g. vectors/lists, arrays and maps/dicts. The chances of a map of Person objects, indexed on a UUID, passing seamlessly from Javascript application to database client library are extremely low. Custom transformations invariably take up residence in your codebase.
+
+Due diligence on your stack involves detailed research, prototyping and unit tests. Edge cases can be nasty, such as when a 64-bit serial id is passed into a type system that only supports 32-bits. Datetime values are particularly fraught. Bugs associated with these cases can surface after months of fault-free operation. The presence of unit tests at all levels drags your development velocity down.
+
+Next up is the style of interaction that a client has with the system, e.g. with the HTTP server. The modern software stack has evolved to handle CRUD-like requests over a database model. This is a blocking, request-response interaction and it has been incredibly effective. It is less effective at delivering services that do not fit this mold. What if your Javascript client wants to open a window that displays a stream of monitoring device events? How does your system propagate operational errors up to the appropriate administrator?
+
+Together, HTTP and Javascript now provide a range of options in this space, such as the Push API, Server-side Events, HTTP/2 Server Push and Websockets, with possibly the latter providing the cleanest basis for universal two-way, asynchronous messaging. Sadly, that still leaves a lot of work to do - what encoding is to be used, what type system is available (e.g. the JSON encoding has no datetime) and how are multiple conversations multiplexed over the single websocket connection? Who or what are the entities engaged in these conversations, because there must be someone or something - right?
+
+The ability to multiplex multiple conversations influences the internal architecture of your processes. Without matching sophistication in the communicating parties, a multi-lane freeway is a high-volume transport to the same old choke points. Does anyone know a good software entity framework?
+
+There are further demands on the capabilities of the messaging facility. Processes such as the HTTP server are a point of access for external processes. Optimal support for a complex, multi-view client would have multiple entry points available providing direct access to the relevant processes. Concerns about security may force the merging of the multiple points into a single point. That point of access would need to make the necessary internal connections and provide the ongoing routing of message streams to their ultimate destinations.
+
+Lastly, the adoption of multiple programming languages not only requires the matching linguistic skills but also breaks the homogeneous nature of your system. Consider a simple bubble diagram where each bubble is a process and each arrow represents a connection from one process to the other. The ability to add arrows anywhere assumes the availability of the same messaging system in every process, and therefore, every language.
+
+Multiprocessing with a multiplexing communications framework can deliver the systems environment that we might subconsciously lust after. But where is that framework and what would it even look like?
+
+Well, the link in the post takes you to the docs for my best attempt.
+
+",programming,Public_Being3163,0,0.22,2,1757537298.0,https://kipjak-manual.s3.ap-southeast-2.amazonaws.com/1.0.0/index.html,https://reddit.com/r/programming/comments/1ndpv4f/a_rant_about_multiprocessing/,,False,False,False,False,False,,2025-09-10T22:28:12.946083+00:00
+1ncan42,Can a tiny server running FastAPI/SQLite survive the hug of death?,"I run tiny indie apps on a Linux box. On a good day, I get \~300 visitors. But what if I hit a lot of traffic? Could my box survive the *hug of death*?
+
+So I load tested it:
+
+* Reads? 100 RPS with no errors.
+* Writes? Fine after enabling WAL.
+* Search? Broke… until I switched to SQLite FTS5.",programming,IntelligentHope9866,300,0.9,64,1757395899.0,https://rafaelviana.com/posts/hug-of-death,https://reddit.com/r/programming/comments/1ncan42/can_a_tiny_server_running_fastapisqlite_survive/,,False,False,False,False,False,,2025-09-10T22:28:13.951081+00:00
+1ncnrfs,Does the world need another distributed queue?,"I saw a post here recently talking about building a distributed queue. We built our own at Cloudkitchens, it is based on an in-house built sharder and CRDB. It also features a neat solution to head-of-the-line blocking by keeping track of consumption per key, which we call the Keyed Event Queue, or KEQ. Think it is like Kafka, with pretty much unlimited number of partitions. We have been running it in production for mission-critical workloads for almost five years, so it is reasonably battle-proven. 
+
+It makes development of event-driven systems that require a true Active-Active multiregional topology relatively easy, and I can see how it can evolve to be even more reliable and cost efficient. 
+
+We talked internally about open-sourcing it, but as it is coupled with our internal libraries, it will require some work to get done. Do you think anyone outside will benefit/use a system like that? The team would love your feedback. ",programming,alex_cloudkitchens,27,0.8,10,1757435651.0,https://techblog.cloudkitchens.com/p/reliable-order-processing,https://reddit.com/r/programming/comments/1ncnrfs/does_the_world_need_another_distributed_queue/,,False,False,False,False,False,,2025-09-10T22:28:14.956074+00:00
+1ndnjho,A Git like Database,"I just came across a database called DoltDB , which presented itself as an *Agent Database* at the AI Agent Builder Summit.
+
+I looked into their documentation to understand what they mean by *git-like*. It essentially wraps the command line with a `dolt` CLI, so you can run commands like `dolt diff`, `dolt merge`, and `dolt checkout`. That’s an interesting concept.
+
+I’m still trying to figure out the real killer use case for this feature, but so far I haven’t found any clear documentation that explains it.
+
+    docs $ dolt sql -q ""insert into docs values (10,10)""
+    Query OK, 1 row affected
+    docs $ dolt diff
+    diff --dolt a/docs b/docs
+    --- a/docs @ 2lcu9e49ia08icjonmt3l0s7ph2cdb5s
+    +++ b/docs @ vpl1rk08eccdfap89kkrff1pk3r8519j
+    +-----+----+----+
+    |     | pk | c1 |
+    +-----+----+----+
+    |  +  | 10 | 10 |
+    +-----+----+----+
+    docs $ dolt commit -am ""Added a row on a branch""
+    commit ijrrpul05o5j0kgsk1euds9pt5n5ddh0
+    Author: Tim Sehn <tim@dolthub.com>
+    Date:   Mon Dec 06 15:06:39 -0800 2021
+    
+    Added a row on a branch
+    
+    docs $ dolt checkout main
+    Switched to branch 'main'
+    docs $ dolt sql -q ""select * from docs""
+    +----+----+
+    | pk | c1 |
+    +----+----+
+    | 1  | 1  |
+    | 2  | 1  |
+    +----+----+
+    docs $ dolt merge check-out-new-branch
+    Updating f0ga78jrh4llc0uus8h2refopp6n870m..ijrrpul05o5j0kgsk1euds9pt5n5ddh0
+    Fast-forward
+    docs $ dolt sql -q ""select * from docs""
+    +----+----+
+    | pk | c1 |
+    +----+----+
+    | 1  | 1  |
+    | 2  | 1  |
+    | 10 | 10 |
+    +----+----+
+
+  
+",programming,No_Lock7126,0,0.38,13,1757531760.0,https://docs.dolthub.com/concepts/dolt/git/merge,https://reddit.com/r/programming/comments/1ndnjho/a_git_like_database/,,False,False,False,False,False,,2025-09-10T22:28:15.957373+00:00
+1ncnlku,I built an interactive bloom filter visual simulator so you can understand this data structure better,"The first time I read about this **probabilistic data structure** I had a hard time understanding the probabilistic part, so eventually I dove into the theory but forgot about it. The other day I was deciding about what to write on my Blog and thought: *""maybe if I make it more visual and interactive""*. 
+
+  
+Anyway, I hope you can understand the way Bloom Filters work more easily.",programming,prox_sea,27,0.85,9,1757435277.0,https://coffeebytes.dev/en/databases/i-built-a-bloom-filter-data-structure-simulator/,https://reddit.com/r/programming/comments/1ncnlku/i_built_an_interactive_bloom_filter_visual/,,False,False,False,False,False,,2025-09-10T22:28:16.957549+00:00
+1nd95t0,Comparing Virtual Threads vs Platform Threads in Spring Boot using JMeter Load Test,"I have created one video lesson on **Spring Boot Virtual Threads vs Platform Threads Performance with JMeter Load Testing .**
+
+**Link:** [https://youtu.be/LDgriPNWCjY](https://youtu.be/LDgriPNWCjY)
+
+Here  I checked how **Virtual Threads** actually perform compared to **Platform Threads** in a real Spring Boot app in case of **IO Based Operations** .  
+For the setup , I ran **two instances of the same application**:
+
+* First one - with Virtual Threads enabled
+* Second one - Same application with the default Tomcat thread pool (Platform Threads) running on different port 
+
+Then I used **JMeter** to hit both application with increasing load (starting around 200 users/sec, then pushing up to 1000+). I have also captured the side-by-side results ( like the graphs, throughput, response times) .
+
+**Observations:**
+
+* With **Platform Threads**, once Tomcat hit its  around 200 thread pool limit, response times started getting worse gradually 
+* With **Virtual Threads**, the application  did scale pretty well - throughput was much higher and the average response timesremained low.
+* The difference became more more distinct when I was running longer tests with heavier load.
+* **One caveat:** this benefit really shows up with **I/O-heavy requests** (I even added a `Thread.sleep` to simulate work). As expected ,for CPU-heavy stuff, Virtual Threads don’t give the same advantage.",programming,mrayandutta,0,0.45,4,1757495117.0,https://youtu.be/LDgriPNWCjY,https://reddit.com/r/programming/comments/1nd95t0/comparing_virtual_threads_vs_platform_threads_in/,,False,False,False,False,False,,2025-09-10T22:28:17.962519+00:00
+1ndluop,Perl Rebounds In TIOBE Index - Why?,,programming,pmz,0,0.33,9,1757527952.0,https://www.i-programmer.info/news/222-perl/18308-perl-rebounds-in-tiobe-index-why.html,https://reddit.com/r/programming/comments/1ndluop/perl_rebounds_in_tiobe_index_why/,,False,False,False,False,False,,2025-09-10T22:28:18.967534+00:00
+1nbqt4d,Largest NPM Compromise in History - Supply Chain Attack,"Hey Everyone
+
+We just discovered that around 1 hour ago packages with a total of 2 billion weekly downloads on npm were compromised all belonging to one developer [https://www.npmjs.com/\~qix](https://www.npmjs.com/~qix)
+
+ansi-styles (371.41m downloads per week)  
+debug (357.6m downloads per week)  
+backslash (0.26m downloads per week)  
+chalk-template (3.9m downloads per week)  
+supports-hyperlinks (19.2m downloads per week)  
+has-ansi (12.1m downloads per week)  
+simple-swizzle (26.26m downloads per week)  
+color-string (27.48m downloads per week)  
+error-ex (47.17m downloads per week)  
+color-name (191.71m downloads per week)  
+is-arrayish (73.8m downloads per week)  
+slice-ansi (59.8m downloads per week)  
+color-convert (193.5m downloads per week)  
+wrap-ansi (197.99m downloads per week)  
+ansi-regex (243.64m downloads per week)  
+supports-color (287.1m downloads per week)  
+strip-ansi (261.17m downloads per week)  
+chalk (299.99m downloads per week)
+
+The compromises all stem from a core developers NPM account getting taken over from a phishing campaign
+
+The malware itself, luckily, looks like its mostly intrested in crypto at the moment so its impact is smaller than if they had installed a backdoor for example.
+
+# How the Malware Works (Step by Step)
+
+1. **Injects itself into the browser**
+   * Hooks core functions like `fetch`, `XMLHttpRequest`, and wallet APIs (`window.ethereum`, Solana, etc.).
+   * Ensures it can intercept both web traffic and wallet activity.
+2. **Watches for sensitive data**
+   * Scans network responses and transaction payloads for anything that looks like a wallet address or transfer.
+   * Recognizes multiple formats across Ethereum, Bitcoin, Solana, Tron, Litecoin, and Bitcoin Cash.
+3. **Rewrites the targets**
+   * Replaces the legitimate destination with an attacker-controlled address.
+   * Uses “lookalike” addresses (via string-matching) to make swaps less obvious.
+4. **Hijacks transactions before they’re signed**
+   * Alters Ethereum and Solana transaction parameters (e.g., recipients, approvals, allowances).
+   * Even if the UI looks correct, the signed transaction routes funds to the attacker.
+5. **Stays stealthy**
+   * If a crypto wallet is detected, it avoids obvious swaps in the UI to reduce suspicion.
+   * Keeps silent hooks running in the background to capture and alter real transactions
+
+Our blog is being dynamically updated - [https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised](https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised)",programming,Advocatemack,1402,0.98,546,1757345296.0,https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised,https://reddit.com/r/programming/comments/1nbqt4d/largest_npm_compromise_in_history_supply_chain/,,False,False,False,False,False,,2025-09-10T22:28:19.972672+00:00
+1nclsok,A Warm Welcome to ASN.1 and DER,,programming,Perfect-Praline3232,12,0.88,2,1757431213.0,https://letsencrypt.org/docs/a-warm-welcome-to-asn1-and-der/,https://reddit.com/r/programming/comments/1nclsok/a_warm_welcome_to_asn1_and_der/,,False,False,False,False,False,,2025-09-10T22:28:20.974132+00:00
+1ndfkxu,AI Assistance for Software Teams: The State of Play • Birgitta Böckeler,,programming,goto-con,0,0.08,1,1757514135.0,https://youtu.be/pzlqeX9nh1g,https://reddit.com/r/programming/comments/1ndfkxu/ai_assistance_for_software_teams_the_state_of/,,False,False,False,False,False,,2025-09-10T22:28:21.979113+00:00
+1ndmzzf,Is this the end of hand-written Java? Building an app with AI-generated code (OpenXava + Vibe Coding),"I'm creating a YouTube course where I build a complete car insurance policy management application in Java. The twist: I'm **not writing the Java code directly**. Instead, I'm using a combination of tools:
+
+1.  **OpenXava:** A framework that auto-generates a full UI from JPA entities (using annotations for behavior).
+2.  **Vibe Coding (AI):** I use an LLM to generate the necessary Java entity code through natural language prompts. I describe the class, its fields, and logic, and the AI writes the code for me.
+
+The entire process focuses on high-level design and refining the auto-generated results, not on writing code line by line.
+
+I just published the third lesson, which focuses on refining the UI that OpenXava generates from the AI-written entities:
+https://youtu.be/08VQg1PFQ3c
+
+**I'm curious to get this community's opinion on this workflow:**
+
+*   What is your take on using LLMs (like Vibe Coding) to generate boilerplate or even complex entity code instead of writing it manually?
+*   Does the combination of AI-generated code + a framework that auto-generates the UI represent a viable future for enterprise application development?
+*   **Does this mean the end of writing Java code directly?** Or is hand-written code simply moving to a higher level of abstraction, remaining essential for complex logic, integrations, and customization?
+
+Looking forward to the discussion.",programming,Competitive-Fee-2503,0,0.04,4,1757530543.0,https://youtu.be/08VQg1PFQ3c,https://reddit.com/r/programming/comments/1ndmzzf/is_this_the_end_of_handwritten_java_building_an/,,False,False,False,False,False,,2025-09-10T22:28:22.984060+00:00
+1ndguzf,Beyond Vibe Coded AI Slop: Agentic Workflows For Professionals,,programming,derjanni,0,0.12,4,1757517064.0,https://programmers.fyi/beyond-vibe-coded-ai-slop-agentic-workflows-for-professionals,https://reddit.com/r/programming/comments/1ndguzf/beyond_vibe_coded_ai_slop_agentic_workflows_for/,,False,False,False,False,False,,2025-09-10T22:28:23.989116+00:00
+1nbvfcs,Writing Code Is Easy. Reading It Isn't,,programming,ketralnis,243,0.88,60,1757355480.0,https://idiallo.com/blog/writing-code-is-easy-reading-is-hard,https://reddit.com/r/programming/comments/1nbvfcs/writing_code_is_easy_reading_it_isnt/,,False,False,False,False,False,,2025-09-10T22:28:24.991502+00:00
+1nctrdx,Quiet Influence: A Guide to Nemawashi in Engineering,,programming,MattHodge,1,0.57,0,1757448817.0,https://hodgkins.io/blog/quiet-influence-a-guide-to-nemawashi-in-engineering/,https://reddit.com/r/programming/comments/1nctrdx/quiet_influence_a_guide_to_nemawashi_in/,,False,False,False,False,False,,2025-09-10T22:28:25.996546+00:00
+1nd7hzt,Flow-Run System Design: Building an LLM Orchestration Platform,,programming,Historical_Wing_9573,0,0.18,1,1757488410.0,https://vitaliihonchar.com/insights/flow-run-system-design,https://reddit.com/r/programming/comments/1nd7hzt/flowrun_system_design_building_an_llm/,,False,False,False,False,False,,2025-09-10T22:28:27.001526+00:00
+1ncjtrp,A clickable visual guide to the Rust type system,,programming,mmaksimovic,3,0.59,1,1757426667.0,https://rustcurious.com/elements/,https://reddit.com/r/programming/comments/1ncjtrp/a_clickable_visual_guide_to_the_rust_type_system/,,False,False,False,False,False,,2025-09-10T22:28:28.006502+00:00
+1nbv9xc,Firefox 32-bit Linux Support to End in 2026,,programming,Doniisthemaindog,108,0.95,32,1757355148.0,https://blog.mozilla.org/futurereleases/2025/09/05/firefox-32-bit-linux-support-to-end-in-2026/,https://reddit.com/r/programming/comments/1nbv9xc/firefox_32bit_linux_support_to_end_in_2026/,,False,False,False,False,False,,2025-09-10T22:28:29.011502+00:00
+1ncs4uk,Setting Up CI/CD Pipelines for TypeScript Monorepo,,programming,FrequentBid2476,0,0.33,0,1757445289.0,https://auslake.vercel.app/blog/pipelines-for-my-typescript-monorepo,https://reddit.com/r/programming/comments/1ncs4uk/setting_up_cicd_pipelines_for_typescript_monorepo/,,False,False,False,False,False,,2025-09-10T22:28:30.013405+00:00
+1ncl9ws,Engineering a High-Performance Go PDF Microservice,"I built **GoPdfSuit**, an open-source web service for generating PDFs, and wanted to share the technical design that makes it exceptionally fast and efficient. My goal was to create a lean alternative to traditional, resource-heavy PDF solutions.
+
+# Core Technical Design
+
+The core of the service is built on **Go 1.23+** and the **Gin framework** for their high performance and concurrency capabilities. Unlike many other services that rely on disk-based processing, GoPdfSuit is a **high-performance in-memory PDF generator**. This approach is crucial to its speed, as it completely bypasses slow disk I/O operations, leading to ultra-fast response times of sub-millisecond to low-millisecond.
+
+For the actual HTML-to-PDF and HTML-to-image conversions, the service leverages the power of `wkhtmltopdf` and `wkhtmltoimage`. This allows it to accurately render web pages and HTML snippets into high-quality PDFs and images. The project demonstrates how intelligently integrating and managing a powerful external tool like `wkhtmltopdf` can lead to a highly optimized and performant solution.
+
+# Key Features and Implementation Details
+
+* **Template-Driven System**: GoPdfSuit utilizes a **JSON-driven templating system**. This design separates data from presentation, making it simple to generate complex, dynamic PDFs by just sending a JSON payload to the REST API.
+* **Flexible PDF Generation**: The service supports multi-page documents with automatic page breaks and custom page sizes, giving developers a high degree of control over the output. It also includes support for **AcroForm** and **XFDF data**, enabling the filling out of interactive forms programmatically.
+* **Deployment**: It's deployed as a single, statically compiled binary, making it extremely easy to get up and running in any environment, from a local machine to a containerized cloud deployment.
+
+I'm happy to discuss the implementation details, the challenges of orchestrating `wkhtmltopdf` in a high-concurrency environment, or the design of the in-memory processing pipeline.
+
+* **GitHub**: [`https://github.com/chinmay-sawant/gopdfsuit`](https://github.com/chinmay-sawant/gopdfsuit)
+* **Project Page**: [`https://chinmay-sawant.github.io/gopdfsuit/`](https://chinmay-sawant.github.io/gopdfsuit/)",programming,chinmay06,1,0.52,7,1757430036.0,https://chinmay-sawant.github.io/gopdfsuit/,https://reddit.com/r/programming/comments/1ncl9ws/engineering_a_highperformance_go_pdf_microservice/,,False,False,False,False,False,,2025-09-10T22:28:31.016787+00:00
+1ncnhmi,Lessons from npm's Security Failures,,programming,OuPeaNut,0,0.5,7,1757435023.0,https://oneuptime.com/blog/post/2025-09-09-lessons-from-npm-security-failures/view,https://reddit.com/r/programming/comments/1ncnhmi/lessons_from_npms_security_failures/,,False,False,False,False,False,,2025-09-10T22:28:32.020498+00:00
+1nbv9w3,Color NPM Package Compromised,,programming,ketralnis,62,0.9,9,1757355146.0,https://fasterthanli.me/articles/color-npm-package-compromised,https://reddit.com/r/programming/comments/1nbv9w3/color_npm_package_compromised/,,False,False,False,False,False,,2025-09-10T22:28:33.025584+00:00
+1nbvest,Everything is a []u8,,programming,ketralnis,50,0.82,36,1757355445.0,https://www.openmymind.net/Everything-Is-A-u8-array/,https://reddit.com/r/programming/comments/1nbvest/everything_is_a_u8/,,False,False,False,False,False,,2025-09-10T22:28:34.026707+00:00
+1ncj2as,Generic Constraints and Mapped Types in Large-Scale Applications,,programming,FrequentBid2476,0,0.4,0,1757424821.0,https://auslake.vercel.app/blog/generic-constraints-and-mapped-types,https://reddit.com/r/programming/comments/1ncj2as/generic_constraints_and_mapped_types_in/,,False,False,False,False,False,,2025-09-10T22:28:35.033338+00:00
+1nbyspd,Adventures in C++ Game Architecture,It's a fairly detailed technical writeup. I hope you find it interesting.,programming,DaveTheLoper,22,0.86,5,1757363075.0,https://hoboker.substack.com/p/adventures-in-c-game-architecture,https://reddit.com/r/programming/comments/1nbyspd/adventures_in_c_game_architecture/,,False,False,False,False,False,,2025-09-10T22:28:36.038293+00:00
+1ncyhoc,I tried adding a 3D game inside my social media app (React + Three.js),"Most social media apps look and feel the same — feeds, likes, and endless scrolling.
+So I thought: what if I added a 3D game directly inside the app I’m building?
+
+In my latest MadInfra Lab video, I show how I went from:
+	•	Half-finished real-time notifications 🚧
+	•	→ To experimenting with Three.js + React wrappers 🎮
+	•	→ To getting a simple 3D character walking around inside my app 👾
+
+I even tried (and failed gloriously) to make it multiplayer with WebSockets — imagine Instagram mixed with Roblox. Chaos, but fun chaos.
+
+If you’re into web dev, React, or 3D experiments, you’ll probably enjoy the build, struggles, and lessons I picked up along the way.
+
+📺 Watch here: https://youtu.be/3GCWWLSGbag?si=D8PI6AcGGuY23heO
+
+Would love to hear what other devs think — especially if you’ve ever mixed React with 3D or gamified your own projects.",programming,madinfralab,0,0.11,0,1757460260.0,https://youtu.be/3GCWWLSGbag?si=D8PI6AcGGuY23heO,https://reddit.com/r/programming/comments/1ncyhoc/i_tried_adding_a_3d_game_inside_my_social_media/,,False,False,False,False,False,,2025-09-10T22:28:37.043380+00:00
+1nbvi5u,Keeping secrets out of logs,,programming,ketralnis,27,0.88,3,1757355646.0,https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/,https://reddit.com/r/programming/comments/1nbvi5u/keeping_secrets_out_of_logs/,,False,False,False,False,False,,2025-09-10T22:28:38.048366+00:00
+1ncmnj2,A Short Summary of the Last Decades of Data Management • Hannes Mühleisen,,programming,goto-con,0,0.3,0,1757433159.0,https://youtu.be/-wCzn9gKoUk,https://reddit.com/r/programming/comments/1ncmnj2/a_short_summary_of_the_last_decades_of_data/,,False,False,False,False,False,,2025-09-10T22:28:39.053343+00:00
+1nbg6u1,How I solved a distributed queue problem after 15 years,,programming,self,161,0.84,44,1757312357.0,https://www.dbos.dev/blog/durable-queues,https://reddit.com/r/programming/comments/1nbg6u1/how_i_solved_a_distributed_queue_problem_after_15/,,False,False,False,False,False,,2025-09-10T22:28:40.057720+00:00
+1nbvabp,A complete map of the Rust type system,,programming,ketralnis,14,0.74,0,1757355173.0,https://rustcurious.com/elements/,https://reddit.com/r/programming/comments/1nbvabp/a_complete_map_of_the_rust_type_system/,,False,False,False,False,False,,2025-09-10T22:28:41.062809+00:00
+1ncl45v,My 18-Month Journey Building a SaaS App,"I spent 18 months building RekoSearch, a SaaS that lets you semantically search photos, videos, documents, and audio. A project I had initially planned to take only 3-4 months, but here we are, 18 months and 60,000 LOC later...
+
+Building it taught me more than any desktop project could. I learned a ton about infrastructure, scalability, web development, Kubernetes and AWS, in particular.
+
+For those more interested in the technical details, including extensive handmade Excalidraw diagrams, here’s the repository: https://github.com/Obscurely/RekoSearch-Public",programming,CrismarucAdrian,0,0.2,0,1757429660.0,https://www.adriancrismaruc.com/blog/building-rekosearch-journey,https://reddit.com/r/programming/comments/1ncl45v/my_18month_journey_building_a_saas_app/,,False,False,False,False,False,,2025-09-10T22:28:42.067806+00:00
+1ncmp2z,Let's make a game! 324: Swapping and rearranging variables,,programming,apeloverage,0,0.17,0,1757433255.0,https://www.youtube.com/watch?v=iNN-TvUJjYE,https://reddit.com/r/programming/comments/1ncmp2z/lets_make_a_game_324_swapping_and_rearranging/,,False,False,False,False,False,,2025-09-10T22:28:43.072722+00:00
+1nd24ej,Are AI Agents just hype ? Probably?,,programming,Helpful_Geologist430,0,0.21,19,1757470376.0,https://youtu.be/SGdUiQ91o5g,https://reddit.com/r/programming/comments/1nd24ej/are_ai_agents_just_hype_probably/,,False,False,False,False,False,,2025-09-10T22:28:44.077765+00:00
+1nbviq4,Algebraic Effects in Practice with Flix,,programming,ketralnis,9,0.8,2,1757355680.0,https://www.relax.software/blog/flix-effects-intro/,https://reddit.com/r/programming/comments/1nbviq4/algebraic_effects_in_practice_with_flix/,,False,False,False,False,False,,2025-09-10T22:28:45.082769+00:00
+1nbvchv,Hashed sorting is typically faster than hash tables,,programming,ketralnis,7,0.66,1,1757355309.0,https://reiner.org/hashed-sorting,https://reddit.com/r/programming/comments/1nbvchv/hashed_sorting_is_typically_faster_than_hash/,,False,False,False,False,False,,2025-09-10T22:28:46.085232+00:00
+1ncl2q0,Building REST APIs in Java with Spring Boot,,programming,Majestic_Wallaby7374,0,0.13,0,1757429566.0,https://foojay.io/today/building-rest-apis-in-java-with-spring-boot/,https://reddit.com/r/programming/comments/1ncl2q0/building_rest_apis_in_java_with_spring_boot/,,False,False,False,False,False,,2025-09-10T22:28:47.090308+00:00
+1nbvifp,The Expression Problem and its solutions,,programming,ketralnis,8,0.78,0,1757355662.0,https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions,https://reddit.com/r/programming/comments/1nbvifp/the_expression_problem_and_its_solutions/,,False,False,False,False,False,,2025-09-10T22:28:48.095010+00:00
+1nbvdqr,UNIX: A History and a Memoir by Brian Kernighan,,programming,ketralnis,7,0.73,0,1757355381.0,https://www.youtube.com/watch?v=WEb_YL1K1Qg&t=3473s,https://reddit.com/r/programming/comments/1nbvdqr/unix_a_history_and_a_memoir_by_brian_kernighan/,,False,False,False,False,False,,2025-09-10T22:28:49.100058+00:00
+1nckcok,"As a Rails dev, one thing you MUST know is Turbo Prefetching",,programming,mehdifarsi,0,0.2,2,1757427903.0,https://www.rubycademy.com/blog/turbo-prefetching,https://reddit.com/r/programming/comments/1nckcok/as_a_rails_dev_one_thing_you_must_know_is_turbo/,,False,False,False,False,False,,2025-09-10T22:28:50.104179+00:00

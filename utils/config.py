@@ -4,8 +4,8 @@ Reddit Radar - Configuration Management
 
 Handles loading and validation of configuration from environment variables.
 
-Author: Rohan Nair
-Date: 20250910
+Author: Reddit Radar Team
+Date: 2025
 """
 
 import os
@@ -30,7 +30,7 @@ class Config:
         # Reddit API Configuration
         self.REDDIT_CLIENT_ID = os.getenv('REDDIT_CLIENT_ID')
         self.REDDIT_CLIENT_SECRET = os.getenv('REDDIT_CLIENT_SECRET')
-        self.REDDIT_USER_AGENT = os.getenv('REDDIT_USER_AGENT')
+        self.REDDIT_USER_AGENT = os.getenv('REDDIT_USER_AGENT', 'RedditRadar:v1.0 (by /u/YourUsername)')
         
         # Database Configuration
         self.DUCKDB_PATH = os.getenv('DUCKDB_PATH', 'duckdb/reddit_radar.db')
@@ -108,6 +108,14 @@ PROCESSED_DATA_DIR=data_processing/processed_data
 # Scraping Configuration
 DEFAULT_POSTS_LIMIT=100
 RATE_LIMIT_DELAY=1.0
+
+# Comment Collection Configuration
+COLLECT_COMMENTS=true
+MAX_COMMENTS_PER_POST=50
+MIN_COMMENT_SCORE=1
+MAX_COMMENT_DEPTH=3
+COMMENT_SORT_BY=top
+SKIP_AUTOMOD_COMMENTS=true
 
 # Logging Configuration
 LOG_LEVEL=INFO

@@ -1,0 +1,74 @@
+id,title,selftext,subreddit,author,score,upvote_ratio,num_comments,created_utc,url,permalink,link_flair_text,is_self,over_18,spoiler,stickied,locked,distinguished,retrieved_at,comments_collected,top_comment_score,avg_comment_score
+1n67lft,[D] Self-Promotion Thread,"Please post your personal projects, startups, product placements, collaboration needs, blogs etc.
+
+Please mention the payment and pricing requirements for products and services.
+
+Please do not post link shorteners, link aggregator websites , or auto-subscribe links.
+
+\--
+
+Any abuse of trust will lead to bans.
+
+Encourage others who create new posts for questions to post here instead!
+
+Thread will stay alive until next one so keep posting after the date in the title.
+
+\--
+
+Meta: This is an experiment. If the community doesnt like this, we will cancel it. This is to encourage those in the community to promote their work by not spamming the main threads.",MachineLearning,AutoModerator,14,0.86,26,1756779330.0,https://www.reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/,https://reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/,Discussion,True,False,False,True,False,,2025-09-11T13:12:39.301532+00:00,3,6.0,3.6666666666666665
+1n4jdo7,[D] Monthly Who's Hiring and Who wants to be Hired?,"**For Job Postings** please use this template
+
+>Hiring: \[Location\], Salary:\[\], \[Remote | Relocation\], \[Full Time | Contract | Part Time\]    and \[Brief overview, what you're looking for\]
+
+**For Those looking for jobs** please use this template
+
+>Want to be Hired: \[Location\], Salary Expectation:\[\], \[Remote | Relocation\], \[Full Time | Contract | Part Time\]  Resume: \[Link to resume\] and \[Brief overview, what you're looking for\]
+
+&#x200B;
+
+Please remember that this community is geared towards those with experience.",MachineLearning,AutoModerator,13,0.81,2,1756607434.0,https://www.reddit.com/r/MachineLearning/comments/1n4jdo7/d_monthly_whos_hiring_and_who_wants_to_be_hired/,https://reddit.com/r/MachineLearning/comments/1n4jdo7/d_monthly_whos_hiring_and_who_wants_to_be_hired/,Discussion,True,False,False,True,False,,2025-09-11T13:12:41.805366+00:00,0,,
+1ndo5md,[D]NVIDIA Blackwell Ultra crushes MLPerf,"NVIDIA dropped MLPerf results for Blackwell Ultra yesterday. 5× throughput on DeepSeek-R1, record runs on Llama 3.1 and Whisper, plus some clever tricks like FP8 KV-cache and disaggregated serving. The raw numbers are insane.
+
+But I wonder though . If these benchmark wins actually translate into lower real-world inference costs.
+
+In practice, workloads are bursty. GPUs sit idle, batching only helps if you have steady traffic, and orchestration across models is messy. You can have the fastest chip in the world, but if 70% of the time it’s underutilized, the economics don’t look so great to me. IMO",MachineLearning,pmv143,42,0.94,10,1757533191.0,https://www.reddit.com/r/MachineLearning/comments/1ndo5md/dnvidia_blackwell_ultra_crushes_mlperf/,https://reddit.com/r/MachineLearning/comments/1ndo5md/dnvidia_blackwell_ultra_crushes_mlperf/,Discussion,True,False,False,False,False,,2025-09-11T13:12:44.315695+00:00,4,18.0,6.75
+1ndulfv,[D] The best way to structure data for a predictive model of corporate delinquency,"I have annual financial indicators for thousands of clients (businesses), their credit data, and delinquency data, and I want to use this data to create a predictive model.
+
+But what's the best way to structure the data?
+
+* Take the annual financial data and associate it with the following year's delinquency data. So, for example, data from 2024 will predict delinquency in 2025.
+
+OR
+
+* Group by client and calculate the average, maximum, and minimum of the financial data to see if this data can predict delinquency.",MachineLearning,drv29,5,0.86,2,1757549750.0,https://www.reddit.com/r/MachineLearning/comments/1ndulfv/d_the_best_way_to_structure_data_for_a_predictive/,https://reddit.com/r/MachineLearning/comments/1ndulfv/d_the_best_way_to_structure_data_for_a_predictive/,Discussion,True,False,False,False,False,,2025-09-11T13:12:46.817484+00:00,0,,
+1ndtey6,[D] Having trouble organising massive CSV files for your machine learning models?,"I've been fighting with CSVs from our high end power quality meter from a very reputable instrument company. 
+
+The CSV files come out from the unit immediately unusable and at 2 million samples per second its a huge dataset, and we take lots of measurements. I made some scripts go clean it but its still a mission every time that I dread to get to the good bit. ",MachineLearning,grabber500,4,0.64,16,1757546402.0,https://www.reddit.com/r/MachineLearning/comments/1ndtey6/d_having_trouble_organising_massive_csv_files_for/,https://reddit.com/r/MachineLearning/comments/1ndtey6/d_having_trouble_organising_massive_csv_files_for/,Discussion,True,False,False,False,False,,2025-09-11T13:12:49.324106+00:00,9,10.0,4.111111111111111
+1ndaesz,[D] SOTA modern alternative to BertScore?,"Hi everyone,  
+I’m looking for an embedding-based metric to score text generation. BertScore is great, but it’s a bit outdated. Could you suggest some modern state-of-the-art alternatives?
+
+",MachineLearning,Soft-Possibility2929,12,0.84,4,1757499778.0,https://www.reddit.com/r/MachineLearning/comments/1ndaesz/d_sota_modern_alternative_to_bertscore/,https://reddit.com/r/MachineLearning/comments/1ndaesz/d_sota_modern_alternative_to_bertscore/,Discussion,True,False,False,False,False,,2025-09-11T13:12:51.830794+00:00,2,2.0,2.0
+1ne2qux,[D] Only out of CURIOSITY!,Name the most RIDICULOUS AI/GenAI projects that are going on in you company!,MachineLearning,prod-v03zz,0,0.35,2,1757576898.0,https://www.reddit.com/r/MachineLearning/comments/1ne2qux/d_only_out_of_curiosity/,https://reddit.com/r/MachineLearning/comments/1ne2qux/d_only_out_of_curiosity/,Discussion,True,False,False,False,False,,2025-09-11T13:12:54.338019+00:00,1,6.0,6.0
+1ndbzb7,[D] ICCV 2025 registration,"Two years ago at Paris I had a workshop paper, I purchased the workshop entrance ticket, everything is okay.
+
+This year I have done the same and now I am receiving emails saying only a full conference entrance is considered an author registration for a workshop paper. 
+
+I did see the website is slightly different this year but still… the code of conduct did not explain this clearly, does anyone have better insights for me?",MachineLearning,ScaryCommission7829,4,0.83,0,1757504917.0,https://www.reddit.com/r/MachineLearning/comments/1ndbzb7/d_iccv_2025_registration/,https://reddit.com/r/MachineLearning/comments/1ndbzb7/d_iccv_2025_registration/,Discussion,True,False,False,False,False,,2025-09-11T13:12:56.844754+00:00,0,,
+1ndajmq,[D] Questions on Fairness and Expectations in Top-Tier Conference Submissions,"Hello everyone,
+
+I know that in this community there are many experienced researchers and even reviewers for top-tier conferences. As a young researcher, I sincerely hope to learn from your perspectives and get some clarity on a few concerns I’ve been struggling with.
+
+**My first question:**  
+Does a research paper always need to achieve *state-of-the-art (SOTA)* results—outperforming every existing method—to be accepted at an A\* conference? I often feel that so many published papers present dazzling results, making it nearly impossible for newcomers to surpass them.
+
+**My second question, about fairness and accuracy in comparisons:**  
+When evaluating a new method, is it acceptable to compare primarily against the most “related,” “similar,” or “same-family” methods rather than the absolute SOTA? For example:
+
+* If I make a small modification to the Bagging procedure in Random Forest, would it be fair to compare only against other Bagging-based forests, rather than something fundamentally different like XGBoost (which is boosting-based)?
+* Similarly, if I improve a variant of SVM, is it reasonable to compare mainly with other margin-based or kernel methods, instead of tree-based models like Decision Trees?
+
+I understand that if my method only beats some similar baselines but does not surpass the global best-performing method, reviewers might see it as “meaningless” (since people naturally gravitate toward the top method). Still, I’d like to hear your thoughts: from an experienced researcher’s point of view, what is considered fair and convincing in such comparisons?
+
+Thank you very much in advance for your time and advice.",MachineLearning,Feuilius,5,0.69,6,1757500247.0,https://www.reddit.com/r/MachineLearning/comments/1ndajmq/d_questions_on_fairness_and_expectations_in/,https://reddit.com/r/MachineLearning/comments/1ndajmq/d_questions_on_fairness_and_expectations_in/,Discussion,True,False,False,False,False,,2025-09-11T13:12:59.353294+00:00,4,24.0,8.0
+1ncu0na,[D] IJCNLP-AACL 2025: Paper Reviews (ARR July 2025 Cycle),"The ARR July cycle reviews for AACL-IJCNLP 2025 just dropped.  
+Feel free to share your thoughts and feelings! How did you do?",MachineLearning,Starscream-11813,20,0.96,13,1757449397.0,https://www.reddit.com/r/MachineLearning/comments/1ncu0na/d_ijcnlpaacl_2025_paper_reviews_arr_july_2025/,https://reddit.com/r/MachineLearning/comments/1ncu0na/d_ijcnlpaacl_2025_paper_reviews_arr_july_2025/,Discussion,True,False,False,False,False,,2025-09-11T13:13:01.862715+00:00,3,5.0,3.0

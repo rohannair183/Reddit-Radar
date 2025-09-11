@@ -2,3 +2,5 @@ praw
 pandas
 python-dotenv
 pyyaml
+google-cloud-bigquery>=3.11.0
+google-auth>=2.17.0

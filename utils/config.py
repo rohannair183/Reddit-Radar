@@ -26,7 +26,8 @@ class Config:
         """
         # Load environment variables from .env file
         load_dotenv(env_file)
-        
+        # General Configuration
+        self.DEBUG = os.getenv('DEBUG').lower() == 'true'
         # Reddit API Configuration
         self.REDDIT_CLIENT_ID = os.getenv('REDDIT_CLIENT_ID')
         self.REDDIT_CLIENT_SECRET = os.getenv('REDDIT_CLIENT_SECRET')
@@ -86,6 +87,37 @@ class Config:
             f"Config(user_agent='{self.REDDIT_USER_AGENT}', "
             f"duckdb_path='{self.DUCKDB_PATH}', "
             f"log_level='{self.LOG_LEVEL}')"
+        )
+
+class CommentCollectionConfig:
+    """Configuration for comment collection"""
+    
+    def __init__(self, env_file: str = '.env'):
+        # Load environment variables from .env file
+        load_dotenv(env_file)
+
+        self.MAX_COMMENTS_PER_POST = int(os.getenv('MAX_COMMENTS_PER_POST'))
+        self.MIN_COMMENT_SCORE = int(os.getenv('MIN_COMMENT_SCORE'))
+        self.MAX_COMMENT_DEPTH = int(os.getenv('MAX_COMMENT_DEPTH'))
+        self.INCLUDE_CONTROVERSIAL = os.getenv('INCLUDE_CONTROVERSIAL').lower() == 'true'
+        self.SORT_COMMENT_BY = os.getenv('COMMENT_SORT_BY')  # Options: 'top', 'new', 'controversial', etc.
+        self.COLLECT_REPLIES = os.getenv('COLLECT_REPLIES').lower() == 'true'
+        self.SKIP_REPLIES = os.getenv('SKIP_REPLIES').lower() == 'true'
+        self.SKIP_DELETED = os.getenv('SKIP_DELETED').lower() == 'true'
+        self.SKIP_AUTOMOD = os.getenv('SKIP_AUTOMOD').lower() == 'true'
+
+    def __repr__(self) -> str:
+        """String representation of comment collection config"""
+        return (
+            f"CommentCollectionConfig(max_comments_per_post={self.MAX_COMMENTS_PER_POST}, "
+            f"min_comment_score={self.MIN_COMMENT_SCORE}, "
+            f"max_comment_depth={self.MAX_COMMENT_DEPTH}, "
+            f"include_controversial={self.INCLUDE_CONTROVERSIAL}, "
+            f"sort_comment_by='{self.SORT_COMMENT_BY}', "
+            f"collect_replies={self.COLLECT_REPLIES}, "
+            f"skip_replies={self.SKIP_REPLIES}, "
+            f"skip_deleted={self.SKIP_DELETED}, "
+            f"skip_automod={self.SKIP_AUTOMOD})"
         )
 
 

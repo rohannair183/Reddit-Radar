@@ -28,9 +28,9 @@ import pandas as pd
 # Import project utilities
 import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from utils.config import Config
+from utils.config import Config, CommentCollectionConfig
 from utils.logger import setup_logger
-
+import traceback
 # Data Models
 
 @dataclass
@@ -89,17 +89,17 @@ class RedditPost:
         """Convert dataclass to dictionary"""
         return asdict(self)
 
-@dataclass
-class CommentCollectionConfig:
-    """Configuration for comment collection behavior"""
-    max_comments_per_post: int = 50
-    min_comment_score: int = 1
-    max_comment_depth: int = 3
-    include_controversial: bool = True
-    sort_by: str = 'top'           # 'top' | 'best' | 'new' | 'controversial'
-    collect_replies: bool = True   # (handled implicitly by .list())
-    skip_deleted: bool = True
-    skip_automod: bool = True
+# @dataclass
+# class CommentCollectionConfig:
+#     """Configuration for comment collection behavior"""
+#     max_comments_per_post: int = 50
+#     min_comment_score: int = 1
+#     max_comment_depth: int = 3
+#     include_controversial: bool = True
+#     sort_by: str = 'top'           # 'top' | 'best' | 'new' | 'controversial'
+#     collect_replies: bool = True   # (handled implicitly by .list())
+#     skip_deleted: bool = True
+#     skip_automod: bool = True
 
 class RedditScraper:
     """
@@ -120,8 +120,8 @@ class RedditScraper:
         Args:
             config: Configuration object with Reddit API credentials
         """
-        self.config = config or Config()
-        self.comment_config = comment_config or CommentCollectionConfig()
+        self.config = Config()
+        self.comment_config = CommentCollectionConfig()
         self.logger = setup_logger(__name__)
         self.reddit = None
         self._initialize_reddit_client()
@@ -231,21 +231,21 @@ class RedditScraper:
         if isinstance(comment, MoreComments):
             return True, "MoreComments object"
 
-        if self.comment_config.skip_deleted and (
+        if self.comment_config.SKIP_DELETED and (
             getattr(comment, 'body', None) in ['[deleted]', '[removed]'] or
             comment.author is None
         ):
             return True, "deleted/removed"
 
-        if (self.comment_config.skip_automod and comment.author and
+        if (self.comment_config.SKIP_AUTOMOD and comment.author and
                 str(comment.author).lower() == 'automoderator'):
             return True, "AutoModerator"
 
-        if getattr(comment, 'score', 0) < self.comment_config.min_comment_score:
+        if getattr(comment, 'score', 0) < self.comment_config.MIN_COMMENT_SCORE:
             return True, f"low score ({getattr(comment, 'score', 0)})"
 
         depth = self._calculate_comment_depth(comment)
-        if depth > self.comment_config.max_comment_depth:
+        if depth > self.comment_config.MAX_COMMENT_DEPTH:
             return True, f"too deep (depth {depth})"
 
         return False, ""
@@ -284,7 +284,7 @@ class RedditScraper:
             submission = self.reddit.submission(id=post_id)
 
             # Set sort order
-            submission.comment_sort = self.comment_config.sort_by
+            submission.comment_sort = self.comment_config.SORT_COMMENT_BY
 
             # Keep cost predictable
             submission.comments.replace_more(limit=0)
@@ -293,7 +293,7 @@ class RedditScraper:
             processed_count = 0
 
             for c in submission.comments.list():
-                if len(comments) >= self.comment_config.max_comments_per_post:
+                if len(comments) >= self.comment_config.MAX_COMMENTS_PER_POST:
                     break
                 processed_count += 1
 
@@ -408,7 +408,7 @@ class RedditScraper:
             Dictionary mapping subreddit names to lists of RedditPost objects
         """
         if subreddit_names is None:
-            subreddit_names = self.DEFAULT_SUBREDDITS
+            subreddit_names = self.config.get_subreddit_list()
         
         all_posts = {}
         all_comments = {}
@@ -550,27 +550,23 @@ def main():
     Example usage and testing
     """
     try:
-        scraper = RedditScraper(comment_config=CommentCollectionConfig(
-            max_comments_per_post=30,
-            min_comment_score=2,
-            max_comment_depth=2,
-            sort_by='top',
-            skip_automod=True
-        ))
+        scraper = RedditScraper()
 
-        posts, comments = scraper.scrape_multiple_subreddits(subreddit_names=['programming', 'MachineLearning'], limit_per_subreddit=10)
+        posts, comments = scraper.scrape_multiple_subreddits(limit_per_subreddit=10)
 
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
         output_dir = Path(__file__).parent / 'raw_data'
 
 
-        base = str(output_dir / f"programming_{timestamp}")
+        base = str(output_dir / f"{timestamp}")
 
         scraper.save_post_and_comments_from_all_subreddits(posts, comments, base)
         print(scraper.get_collection_stats())
 
     except Exception as e:
         logging.error(f"Error in main execution: {e}")
+        if Config().DEBUG:
+            print(traceback.format_exc())
 
 
 if __name__ == "__main__":

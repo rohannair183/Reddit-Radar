@@ -1,0 +1,168 @@
+id,title,selftext,subreddit,author,score,upvote_ratio,num_comments,created_utc,url,permalink,link_flair_text,is_self,over_18,spoiler,stickied,locked,distinguished,retrieved_at,comments_collected,top_comment_score,avg_comment_score
+1naeqh3,Sunday Daily Thread: What's everyone working on this week?,"# Weekly Thread: What's Everyone Working On This Week? 🛠️
+
+Hello /r/Python! It's time to share what you've been working on! Whether it's a work-in-progress, a completed masterpiece, or just a rough idea, let us know what you're up to!
+
+## How it Works:
+
+1. **Show & Tell**: Share your current projects, completed works, or future ideas.
+2. **Discuss**: Get feedback, find collaborators, or just chat about your project.
+3. **Inspire**: Your project might inspire someone else, just as you might get inspired here.
+
+## Guidelines:
+
+* Feel free to include as many details as you'd like. Code snippets, screenshots, and links are all welcome.
+* Whether it's your job, your hobby, or your passion project, all Python-related work is welcome here.
+
+## Example Shares:
+
+1. **Machine Learning Model**: Working on a ML model to predict stock prices. Just cracked a 90% accuracy rate!
+2. **Web Scraping**: Built a script to scrape and analyze news articles. It's helped me understand media bias better.
+3. **Automation**: Automated my home lighting with Python and Raspberry Pi. My life has never been easier!
+
+Let's build and grow together! Share your journey and learn from others. Happy coding! 🌟",Python,AutoModerator,3,0.68,3,1757203231.0,https://www.reddit.com/r/Python/comments/1naeqh3/sunday_daily_thread_whats_everyone_working_on/,https://reddit.com/r/Python/comments/1naeqh3/sunday_daily_thread_whats_everyone_working_on/,:pythonLogo: Daily Thread,True,False,False,True,False,moderator,2025-09-11T20:25:16.622834+00:00,3,2.0,2.0
+1ndua5j,"Thursday Daily Thread: Python Careers, Courses, and Furthering Education!","# Weekly Thread: Professional Use, Jobs, and Education 🏢
+
+Welcome to this week's discussion on Python in the professional world! This is your spot to talk about job hunting, career growth, and educational resources in Python. Please note, this thread is **not for recruitment**.
+
+---
+
+## How it Works:
+
+1. **Career Talk**: Discuss using Python in your job, or the job market for Python roles.
+2. **Education Q&A**: Ask or answer questions about Python courses, certifications, and educational resources.
+3. **Workplace Chat**: Share your experiences, challenges, or success stories about using Python professionally.
+
+---
+
+## Guidelines:
+
+- This thread is **not for recruitment**. For job postings, please see r/PythonJobs or the recruitment thread in the sidebar.
+- Keep discussions relevant to Python in the professional and educational context.
+  
+---
+
+## Example Topics:
+
+1. **Career Paths**: What kinds of roles are out there for Python developers?
+2. **Certifications**: Are Python certifications worth it?
+3. **Course Recommendations**: Any good advanced Python courses to recommend?
+4. **Workplace Tools**: What Python libraries are indispensable in your professional work?
+5. **Interview Tips**: What types of Python questions are commonly asked in interviews?
+
+---
+
+Let's help each other grow in our careers and education. Happy discussing! 🌟",Python,AutoModerator,3,1.0,1,1757548832.0,https://www.reddit.com/r/Python/comments/1ndua5j/thursday_daily_thread_python_careers_courses_and/,https://reddit.com/r/Python/comments/1ndua5j/thursday_daily_thread_python_careers_courses_and/,:pythonLogo: Daily Thread,True,False,False,True,False,moderator,2025-09-11T20:25:19.131974+00:00,1,1.0,1.0
+1ne4t1d,detroit: Python implementation of d3js,"Hi, I am the maintainer of [detroit](https://github.com/bourbonut/detroit). `detroit` is a Python implementation of the library [d3js](https://d3js.org/). I started this project because I like how flexible data visualization is with `d3js`, and because I'm not a big fan of JavaScript.
+
+You can find the documentation for `detroit` [here](https://detroit.readthedocs.io/en/latest/).
+
+* Target Audience
+
+`detroit` allows you to create **static** data visualizations. I'm currently working on [detroit-live](https://github.com/bourbonut/detroit-live) for those who also want **interactivity**. In addition, `detroit` requires only [lxml](https://lxml.de/) as dependency, which makes it lightweight.
+
+You can find a gallery of examples in the [documentation](https://detroit.readthedocs.io/en/latest/#gallery). Most of examples are directly inspired by [d3js examples on observablehq](https://observablehq.com/@d3/gallery).
+
+* Comparison
+
+The API is almost the same:
+
+    // d3js
+    const scale = d3.scaleLinear().domain([0, 10]).range([0, 920]);
+    console.log(scale.domain()) // [0, 10]
+    
+    # detroit
+    scale = d3.scale_linear().set_domain([0, 10]).set_range([0, 920])
+    print(scale.get_domain()) # [0, 10]
+
+The difference between `d3js`/`detroit` and `matplotlib`/`plotly`/`seaborn` is the approach to data visualization. With `matplotlib`, `plotly`, or `seaborn`, you only need to write a few lines and that's it - you get your visualization. However, if you want to customize some parts, you'll have to add a couple more lines, and it can become really hard to get exactly what you want. In contrast, with `d3js`/`detroit`, you know exactly what you are going to visualize, but it may require writing a few more lines of code.",Python,bbourbonut,49,0.96,2,1757585064.0,https://www.reddit.com/r/Python/comments/1ne4t1d/detroit_python_implementation_of_d3js/,https://reddit.com/r/Python/comments/1ne4t1d/detroit_python_implementation_of_d3js/,Showcase,True,False,False,False,False,,2025-09-11T20:25:21.641967+00:00,2,11.0,7.0
+1ne4z4b,How to Build Your Own Bluetooth Scriptable Sniffer using python for Under $25,"A **Bluetooth sniffer** is a hardware or software tool that captures and monitors Bluetooth communication between devices. Think of it as a network traffic analyzer, but for Bluetooth instead of Wi-Fi or Ethernet.  
+There are high-end Bluetooth sniffers on the market — like those from **Ellisys** or **Teledyne LeCroy** — which are powerful but often cost **hundreds or thousands of dollars**.  
+You can create your own scriptable BLE sniffer for under $25. the source code is available in this post, you can adjust the code and work further   
+[https://www.bleuio.com/blog/how-to-build-your-own-bluetooth-scriptable-sniffer-for-under-30/](https://www.bleuio.com/blog/how-to-build-your-own-bluetooth-scriptable-sniffer-for-under-30/)",Python,bleuio,13,0.84,8,1757585696.0,https://www.reddit.com/r/Python/comments/1ne4z4b/how_to_build_your_own_bluetooth_scriptable/,https://reddit.com/r/Python/comments/1ne4z4b/how_to_build_your_own_bluetooth_scriptable/,Tutorial,True,False,False,False,False,,2025-09-11T20:25:24.147358+00:00,6,3.0,1.5
+1neet2h,Dynamic Agent-Generated UI via NiceGUI (w/o tooling),"# What My Project Does
+
+I recently created an [agex-ui](https://github.com/ashenfad/agex-ui) repo to demonstrate a new-ish agentic framework in action. There are two demonstration apps, but in both an agent that lives in-process with the NiceGUI process creates the web interface dynamically based on user interactions.
+
+In the ""chat"" demo app shows a traditional looking agent chat interface. But the agent uses NiceGUI components to create all its responses. So can compose NiceGUI components into custom forms as to get structured data from the users. Or it can compose components into small reports, all within its ""response bubble"".
+
+In the ""lorem ipsum"" demo app, the only user input is the url request path. The agent uses the path as a hint for what sort of page it should create and does so to fulfill each ""GET"". So as ask for ""http://127.0.0.1:8080/weather/albany/or"" and you'll see a page of some not-so-accurate weather predictions. Or ""http://127.0.0.1:8080/nba/blazers/roster/2029"" to find out who will be on your favorite basketball team.
+
+The showcase is fundamentally trying to show how the [agex](https://github.com/ashenfad/agex) framework makes it easier to tie into existing Python codebases with less friction from tool abstractions in-between.
+
+* Github for demo apps: [https://github.com/ashenfad/agex-ui](https://github.com/ashenfad/agex-ui)
+* A [video of a chat](https://youtu.be/-LaY_QBfkf8?si=08Vh4Z5fMR1uN_Po) with dynamic forms & plots (after analysis)
+* A longer-form [blog post](https://ashenfad.github.io/agex/blog/2025/09/11/deep-dive-building-an-agent-driven-ui-with-agex-ui/)
+
+# Target Audience
+
+The \`agex-ui\` project is most certainly a toy / demonstration. The supporting \`agex\` framework is somewhere in between toy and production-ready. Hopefully drifting toward the latter!
+
+# Comparison
+
+For \`agex-ui\`, perhaps the most similar is Microsoft's [Lida](https://microsoft.github.io/lida/)?  I did a bit of reading on DUG vs RUG (Dynamic-Generated UI, Restricted-Generated UI).  Most things I found looked like RUG (because of tooling abstractions).  Probably because production-quality DUG is hard (and agex-ui isn't that either).
+
+As for the \`agex\` framework itself, Huggingface's smol-agents is its closest cousin. The main differences being agex's focus on integration with libraries rather than tools for agent capabilities, and the ability to persist the agent's compute environment.",Python,Impressive-Glass-523,2,0.63,0,1757611351.0,https://www.reddit.com/r/Python/comments/1neet2h/dynamic_agentgenerated_ui_via_nicegui_wo_tooling/,https://reddit.com/r/Python/comments/1neet2h/dynamic_agentgenerated_ui_via_nicegui_wo_tooling/,Showcase,True,False,False,False,False,,2025-09-11T20:25:26.654858+00:00,0,,
+1ndsuud,Streamlit for python apps,"i’ve been using streamlit lately and honestly it’s pretty nice, so just wanted to share in case it helps someone.
+
+if you’re into data analysis or working on python projects and want to turn them into something interactive, streamlit is definitely worth checking out. it lets you build web apps super easily — like you just write python code and it handles all the front-end stuff for you.
+
+you can add charts, sliders, forms, even upload files, and it all works without needing to learn html or javascript. really useful if you want to share your work with others or just make a personal dashboard or tool.
+
+feels like a good starting point if you’ve been thinking about making web apps but didn’t know where to start.",Python,jpkg1,37,0.8,37,1757544912.0,https://www.reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/,Discussion,True,False,False,False,False,,2025-09-11T20:25:29.156224+00:00,27,43.0,4.851851851851852
+1ndj5vz,"I decoupled FastAPI dependency injection system in pure python, no dependencies.","**What My Project Does**
+
+When building FastAPI endpoints, I found the dependency injection system such a pleasure to use that I wanted it everywhere, not just in my endpoints. I explored a few libraries that promised similar functionality, but each had drawbacks, some required Pydantic, others bundled in features beyond dependency injection, and many were riddled with bugs.
+
+That's way I created [PyDepends](https://github.com/entropy-flux/PyDepends), a lightweight dependency injection system that I now use in my own projects and would like to share with you.
+
+**Target Audience**  
+This is mainly aimed at:
+
+* FastAPI developers who want to use dependency injection in the service layer.
+
+* Domain-Driven Design practitioners who want to decouple their services from infrastructure.
+
+* Python developers who aren’t building API endpoints but would still like to use dependency injection in their projects.
+It’s not production-grade yet, but it’s stable enough for everyday use and easy to extend.
+
+**Comparison**  
+
+Compared to other similar packages, it does just that, inject dependencies, is not bloated with other functionalities. 
+
+* FastDepends: It also cannot be used with non-serializable classes, and I wanted to inject machine learning models into services. On top of that, it does unpredictable things beyond dependency injection.
+
+Repo: [https://github.com/entropy-flux/PyDepends](https://github.com/entropy-flux/PyDepends)
+
+Hope you find it useful!
+
+EDIT: Sorry to Lancetnik12 I think he did a great job with fastdepends and faststream, I was a to rude with his job, the reality is fastdepends just have other use cases, I don't really like to compare my job with other but it is a requirement to publish here. ",Python,EricHermosis,110,0.88,46,1757522072.0,https://www.reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/,Showcase,True,False,False,False,False,,2025-09-11T20:25:31.663702+00:00,37,23.0,4.675675675675675
+1nefnct,Early Trial: Using uv for Env Management in Clustered ML Training (Need Advice),"Hi everyone,
+
+I’ve been tasked with improving the dev efficiency of an ML engineering team at a large tech company. Their daily work is mostly data processing and RL training on 200B+ models. Most jobs finish in 2–3 days, but there are also tons of tiny runs just to validate training algorithms. 
+
+tl;dr: The challenge: the research environments are wildly diverse.
+
+Right now the team builds on top of infra-provided Docker images. These images grow huge after being built on top again and again (40–80GB, optimization didn't help much, and the images are just the environment), take 40–60 minutes to spin up, and nobody wants to risk breaking them by rebuilding from scratch with updated libraries. At the same time, the ML post-training team—and especially the infra/AI folks—are eager to try the latest frameworks (Megatron, Transformer Engine, Apex, vLLM, SGLang, FlashAttention, etc.). They even want a unified docker image that builds nightly.
+
+They’ve tried conda on a shared CephFS, but the experience has been rough:
+
+* Many core libraries mentioned above can’t be installed via conda. They have to go through pip.
+* Installation order and env var patching is fragile—C++ build errors everywhere.
+* Shared envs get polluted (interns or new hires installing packages directly).
+* We don’t have enterprise Anaconda to centrally manage this.
+
+To solve these problems, we recently started experimenting with **uv** and noticed some promising signs:
+
+1. **Config-based envs.** A single pyproject.toml + uv’s config lets us describe CUDA, custom repos, and build dependencies cleanly. We thought only conda could handle this, but it turns out uv meets our needs, and in a cleaner way.
+2. **Fast, cache-based installs.** The append-only, thread-safe cache means 350+ packages install in under 10 seconds. Docker images shrank from 80GB+ to <8GB. You can make changes to project environment, or ""uv run --with ..."" as you wish, and never worry about polluting a shared environment.
+3. **Integration with Ray.** Since most RL frameworks already use Ray, uv fits nicely: Ray's runtime env agent guarantees that tasks and subtasks can share their envs, no matter which node they are scheduled to, enabling multiple distributed jobs with distinct envs on the same cluster. Scaling these tasks from laptop to a cluster is extremely simple. 
+4. **Stability issues.** There were a few times we noticed a bug that when some Ray worker failed to register within time limits, and will be stuck in env preparing even when restarted -- but we quickly learned that doing a ""uv cache prune"" will solve it without clearing the cache. There were also times when nodes went down and re-connected, and Raylet says ""failed to delete environment"", but after a timeout period it will correct itself.
+
+That said—**this is still an early trial, not a success story.** We don’t yet know the long-term stability, cache management pitfalls, or best practices for multi-user clusters.
+
+👉 Has anyone else tried uv in a cluster or ML training context? Any advice, warnings, or alternative approaches would be greatly appreciated.",Python,Fun-Improvement424,1,0.6,4,1757613255.0,https://www.reddit.com/r/Python/comments/1nefnct/early_trial_using_uv_for_env_management_in/,https://reddit.com/r/Python/comments/1nefnct/early_trial_using_uv_for_env_management_in/,Discussion,True,False,False,False,False,,2025-09-11T20:25:34.173301+00:00,4,1.0,1.0
+1ndnusy,"A Complete List of Python Tkinter Colors, Valid and Tested","I needed a complete list of valid color names for Python's Tkinter package as part of my [ButtonPad](https://pypi.org/project/ButtonPad/) GUI framework development. The lists I found on the internet were either incomplete, buried under ads, and often just plain wrong. Here's a list of all 760 color names (valid and personally tested) for Python Tkinter.
+
+https://inventwithpython.com/blog/complete-list-tkinter-colors-valid-and-tested.html",Python,AlSweigart,22,0.94,7,1757532478.0,https://www.reddit.com/r/Python/comments/1ndnusy/a_complete_list_of_python_tkinter_colors_valid/,https://reddit.com/r/Python/comments/1ndnusy/a_complete_list_of_python_tkinter_colors_valid/,Resource,True,False,False,False,False,,2025-09-11T20:25:36.680899+00:00,7,9.0,3.2857142857142856
+1ndy9gv,From Code to Python: Gentle Guide for Programmers & Learners,"This series teaches [Python from code](https://www.bestdesign2hub.com/from-code-to-python-gentle-guide-programmers-learners/) without assuming you’re a total beginner to programming. If you’ve written code in languages like C/C++, Java, JavaScript/TypeScript, Go, or Ruby, you’ll find side‑by‑side explanations that map familiar concepts to Python’s syntax and idioms.",Python,joshemaggie,6,0.8,0,1757560737.0,https://www.reddit.com/r/Python/comments/1ndy9gv/from_code_to_python_gentle_guide_for_programmers/,https://reddit.com/r/Python/comments/1ndy9gv/from_code_to_python_gentle_guide_for_programmers/,Tutorial,True,False,False,False,False,,2025-09-11T20:25:39.183292+00:00,0,,

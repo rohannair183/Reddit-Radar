@@ -1,0 +1,107 @@
+id,title,selftext,subreddit,author,score,upvote_ratio,num_comments,created_utc,url,permalink,link_flair_text,is_self,over_18,spoiler,stickied,locked,distinguished,retrieved_at,comments_collected,top_comment_score,avg_comment_score
+1n5msjg,Monthly Getting Started / Web Dev Career Thread,"Due to a growing influx of questions on this topic, it has been decided to commit a monthly thread dedicated to this topic to reduce the number of repeat posts on this topic. These types of posts will no longer be allowed in the main thread.
+
+Many of these questions are also addressed in the sub FAQ or may have been asked in [previous monthly career threads](/r/webdev/search?q=flair%3AMonthlyCareerThread&restrict_sr=on&sort=new&t=all).
+
+Subs dedicated to these types of questions include [r/cscareerquestions](/r/cscareerquestions) for general and opened ended career questions and [r/learnprogramming](/r/learnprogramming) for early learning questions.
+
+A general recommendation of topics to learn to become industry ready include:
+
+- [HTML/CSS/JS Bootcamp](https://www.udemy.com/course/javascript-beginners-complete-tutorial)
+- [Version control](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [Automation](https://blog.logrocket.com/tools-and-modern-workflow-for-front-end-developers-505c7227e917/)
+- [Front End Frameworks (React/Vue/Etc)](https://www.freecodecamp.org/news/complete-guide-for-front-end-developers-javascript-frameworks-2019/)
+- [APIs and CRUD](https://www.freecodecamp.org/news/crud-operations-using-vanilla-javascript-cd6ee2feff67/)
+- [Testing (Unit and Integration)](https://raygun.com/blog/javascript-unit-testing-frameworks/)
+- [Common Design Patterns](https://www.patterns.dev/)
+
+You will also need a portfolio of work with 4-5 personal projects you built, and a resume/CV to apply for work.
+
+Plan for 6-12 months of self study and project production for your portfolio before applying for work.",webdev,AutoModerator,12,0.93,49,1756728046.0,https://www.reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/,Monthly Career Thread,True,False,False,True,False,moderator,2025-09-11T20:24:23.985824+00:00,35,4,1.4
+1ncq269,"We are the W3C WebDX Community Group, working to improve developer experience with projects like Baseline. Ask Us Anything!","Hi r/webdev! We are members of the W3C Web Developer Experience Community Group (WebDX CG) and we'll be hosting an AMA right here on Thursday, September 18th, starting at 9:00 AM ET. We're all about making your life as a web developer easier, and we're here to chat about our projects like Baseline, and answer all your burning questions.
+
+**What is the WebDX CG?**
+
+[Our mission](https://github.com/web-platform-dx/admin/blob/main/charter.md) is to improve your experience developing for the Web platform, through two main pillars:
+
+1. Coordinating research to get a clear, data-driven picture of the major obstacles and gaps that developers face every day.
+2. Building a shared understanding of the interoperable parts of the web platform to promote clear, consistent communication about which features developers can use confidently.
+
+We are a group of browser vendors, developers, and other web stakeholders dedicated to identifying and smoothing out the sharp edges of web development.
+
+**What do we actually work on?**
+
+You may already be familiar with some of our work, including 
+
+* [Baseline](https://web-platform-dx.github.io/web-features/): Baseline provides clear information about which web platform features are compatible across a core set of browsers. It gives developers confidence in the level of browser compatibility when reading articles or choosing libraries for their projects. By aligning with Baseline, developers can expect fewer surprises when testing their sites.
+* Supporting Interoperability: Our work directly supports browser interoperability. By defining clear feature sets (like Baseline), we create a shared target for browser vendors and reduce the inconsistencies that cause developer frustration. Examples of projects built on this data include the [Web platform features explorer](https://web-platform-dx.github.io/web-features-explorer/) and [webstatus.dev](https://webstatus.dev/). 
+* Understanding developer needs: We facilitate and publish research like short surveys on MDN and the State of CSS, HTML, and JS surveys. We dig into the survey data and other developer signals to help the web platform ecosystem understand what you, the developers, need most.
+
+**Who will be answering your questions?**
+
+We have several members of the CG here to take your questions. Here's who's on the panel:
+
+* François Daoust\* (u/Internal\_Self730), W3C Web Specialist
+* Patrick Brosset\* (u/WebPlatformLover), Microsoft Edge PM
+* Kadir Topal (u/aktopal), Google Chrome PM
+* Philip Jägenstedt (u/foolip), Google Chrome Engineer
+* Rachel Andrew (u/rachelandrew), Google Chrome DevRel
+* Rick Viscomi (u/rviscomi), Google Chrome DevRel
+* Jeremy Wagner (u/jlwagner), Google Chrome DevRel
+* James Stuckey Weber (u/jamessw), OddBird Developer
+* Daniel Beck (u/ddbeck), Core maintainer for `web-features` and Baseline
+
+*\* CG Chair*
+
+Proof: [https://web.dev/blog/baseline-ama](https://web.dev/blog/baseline-ama)
+
+**Ask Us Anything!**
+
+We'll be here to answer your questions on Thursday, September 18th, starting at 9:00 AM ET.
+
+We're ready to discuss:
+
+* The methodology and future of Baseline
+* How Baseline differs from other resources like MDN and Can I Use
+* The biggest DX challenges you think the web faces
+* How developer feedback influences browser interoperability
+* How an individual developer can get involved and make their voice heard
+* What our day-to-day work looks like in the CG
+
+We're looking forward to a great discussion. See you then!",webdev,rviscomi,8,0.91,1,1757440762.0,https://www.reddit.com/r/webdev/comments/1ncq269/we_are_the_w3c_webdx_community_group_working_to/,https://reddit.com/r/webdev/comments/1ncq269/we_are_the_w3c_webdx_community_group_working_to/,,True,False,False,True,False,,2025-09-11T20:24:26.493746+00:00,1,2,2.0
+1ne8s2q,"Sam Altman says Developers Make Record Salaries, But Future of Programming Jobs Is Unclear",,webdev,ImpressiveContest283,277,0.72,118,1757597170.0,https://www.finalroundai.com/blog/sam-altman-says-developers-make-record-salaries-but-future-of-programming-jobs-is-unclear,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/,News,False,False,False,False,False,,2025-09-11T20:24:28.998962+00:00,50,889,31.24
+1ne9cfa,What’s your #1 dev lifehack that feels like cheating?,"Stuff that feels tiny but saves brain cycles every day.
+
+What’s the little trick in your workflow that feels like an actual cheat code?",webdev,Chris_Lojniewski,160,0.86,212,1757598612.0,https://www.reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/,Discussion,True,False,False,False,False,,2025-09-11T20:24:31.508136+00:00,50,663,31.08
+1ne6dfc,Review my Portfolio,"Hi, I am a final-year Computer Science student and currently a DevOps intern with a strong enthusiasm for Linux. I created an interactive portfolio that mimics terminal commands to showcase my web development and DevOps skills. However, I've been advised that it may not be effective since many HR professionals may not have the technical background to interact with it. I would appreciate your feedback on this. Thank you!  
+
+[https://ssk-portfolio.vercel.app](https://ssk-portfolio.vercel.app)",webdev,ban_rakash,68,0.84,37,1757590399.0,https://i.redd.it/ibyl15v0uiof1.png,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/,,False,False,False,False,False,,2025-09-11T20:24:34.253262+00:00,35,45,5.057142857142857
+1ndmwp9,"If I land on a website and the first thing that happens is a pop-up blocks my view of it, I am closing said website immediately","I don’t even get the chance to figure out if I WANT to “subscribe!” Or “Get 10 % off!” I can’t see what it is to know if I even WANT TO.
+
+Somebody tell me it is possible to write JavaScript that doesn’t just fire on the very first page load. There MUST BE.",webdev,rose_riveter,766,0.96,112,1757530340.0,https://www.reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/,,True,False,False,False,False,,2025-09-11T20:24:36.759319+00:00,50,201,10.12
+1nefx6o,Am I Falling Behind?,"Hey folks, I'm a Jr. frontend developer who recently entered the field and wanted to take your opinion on the usage and familiarity with LLMs as there's a huge push on building products with it and integrating it everywhere. I try as much as I can to do my research when tackling problems to not lose the skill of navigating docs and understanding core concepts instead of rubbing the genie and getting the solution right away. Since I'm also relatively new and need to build a good base of knowledge for growth. I don't use co-pilot or any IDE agents, never tried cursor or claude-code. I just can't help but being reminded that I don't know anything in the realm of LLMs. People are continuously sharing their progress integrating and building products ""Powered by AI"". Do you think I'm doing the right thing here or am I lacking behind and need to spend more time getting familiar with those technologies in order to stay relevant in a few years from now?",webdev,OmarAdharn,6,0.71,10,1757613869.0,https://www.reddit.com/r/webdev/comments/1nefx6o/am_i_falling_behind/,https://reddit.com/r/webdev/comments/1nefx6o/am_i_falling_behind/,,True,False,False,False,False,,2025-09-11T20:24:39.269355+00:00,10,10,2.7
+1ndavug,Heads up for anyone thinking about getting into webdev in 2025...,"Been coding for almost 30 years now, started as a kid. Used to tell everyone to jump in bootcamps, self taught, whatever... Tons of demand, building cool stuff all day
+
+But damn things have changed. Market's rough as hell now and you're fighting hundreds of other people for every position. Plus nobody warns you about the back pain. Three decades of hunching over screens and I'm basically falling apart. Spent more on physical therapy and ergonomic gear than I care to admit. Those marathon coding sessions hit different when you're older
+
+If you're still going for it, get decent chair and actually use it properly. Trust me on this one...",webdev,Overall-Country-5014,1641,0.94,318,1757501415.0,https://www.reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/,Discussion,True,False,False,False,False,,2025-09-11T20:24:41.779398+00:00,50,1188,37.68
+1nefdca,What’s the greenest host you know?,"I’m not affiliated with it, but I love the idea of Leaf.cloud. It’s running on renewable energy, and the heat coming from the servers is used for hot showers and heating of public spaces. So in a way.. it’s climate positive, I guess :)
+
+I’m building something on their platform and it’s time to go global. The one sad (yet understandable) thing about Leaf is that it’s based in the Netherlands alone. 
+
+That’s why I’m looking for comparable initiatives around the globe. No “we’ll be there in 2030”, no offsets or credits, I’m looking for hosting/cloud-providers that are doing it right, right now. They don’t have to be global by the way, I can find a way to combine a bunch of them together and make it work. As long as I can run a couple docker containers I should be good to go. 
+
+What do you think? What’s the best around you?",webdev,JasperH8g,7,0.77,11,1757612620.0,https://www.reddit.com/r/webdev/comments/1nefdca/whats_the_greenest_host_you_know/,https://reddit.com/r/webdev/comments/1nefdca/whats_the_greenest_host_you_know/,Discussion,True,False,False,False,False,,2025-09-11T20:24:45.493387+00:00,10,4,1.7
+1ne94dy,What’s your go to approach for adding SMS to small projects?,"I’ve been looking at different ways to handle SMS for side projects (like OTP codes or simple alerts and IoT sms notifications).  
+
+Most APIs (Twilio, etc.) charge per message, which feels expensive if you’re only sending a few dozen or if you want to run something long-term on the cheap.  
+
+Curious how others here think about this problem:  
+
+\- Do you just swallow the cost of Twilio/etc. for convenience?  
+
+\- Have you rolled your own solution (e.g., SIM modems, phones-as-gateways, etc.)?  
+
+\- Would you ever consider a setup where an Android phone acts as the SMS gateway?  
+
+Interested to hear what the community thinks.  ",webdev,Educational_Bed8483,6,0.76,18,1757598043.0,https://www.reddit.com/r/webdev/comments/1ne94dy/whats_your_go_to_approach_for_adding_sms_to_small/,https://reddit.com/r/webdev/comments/1ne94dy/whats_your_go_to_approach_for_adding_sms_to_small/,,True,False,False,False,False,,2025-09-11T20:24:47.998930+00:00,13,12,3.3846153846153846

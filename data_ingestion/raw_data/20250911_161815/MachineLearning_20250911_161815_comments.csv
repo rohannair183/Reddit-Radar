@@ -1,0 +1,353 @@
+id,post_id,parent_id,author,body,score,created_utc,permalink,is_submitter,depth,controversiality,distinguished,edited,retrieved_at,subreddit
+nbymt7y,1n67lft,1n67lft,parlancex,"I've been training a (custom) video game music diffusion model on a single consumer GPU and improving the model over the last 2 years. The current model has about 5 weeks of training on an RTX 5090.
+
+Demo audio is here: https://www.g-diffuser.com/dualdiffusion/
+
+Code is here: https://github.com/parlance-zz/dualdiffusion
+
+I posted here about a year ago with an older version of the model. The new model is trained on a large variety of modern video game music instead of just Super Nintendo music and includes a variety of architectural changes for a large improvement in audio quality.
+
+Public weights will be available soon (100% free and open), but I think the bigger deal is that it is possible, practical even, to train a viable music diffusion model on consumer desktop hardware. I'm sure there are folks out there with a decent desktop GPU and troves of music that might like the idea of creating their own music model with their data. The code repository has everything you would need to do it from dataset preprocessing to DAE / DDEC and LDM training, and inference.
+
+The github page has a detailed log of all the technical details and improvements made to the model over the last 2 years.",6,1756788123.0,https://reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/nbymt7y/,False,0,0,,False,2025-09-11T20:17:52.251470+00:00,MachineLearning
+nc0zhw5,1n67lft,1n67lft,await_void,"I've been working on an **Explainable Vision Language Model** for product defect detection and things turned out great. It doesn't only do that, but using **CLIP** as a backbon it can also **auto label entire dataset** with a knowledge base pool; discovering about Contrastive Learning was a blast. 
+
+  
+This is my master thesis project and i had a lot of fun experimenting with multimodal contexts and linking different kind of models between them, it's super fun and mind blowing seeing how different embeddings can link out with each other forming methods such as image captioning, explaining, reasoning. 
+
+For anyone interested, this is my original post: [https://www.reddit.com/r/computervision/comments/1n6llyh/tried\_building\_an\_explainable\_visionlanguage/](https://www.reddit.com/r/computervision/comments/1n6llyh/tried_building_an_explainable_visionlanguage/)
+
+And this is my code repository on GitHub: [https://github.com/Asynchronousx/CLIPCap-XAI/](https://github.com/Asynchronousx/CLIPCap-XAI/)
+
+If you have any comments about the project, feedback or curiosity, ask out!",3,1756826112.0,https://reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/nc0zhw5/,False,0,0,,False,2025-09-11T20:17:52.251506+00:00,MachineLearning
+nc13vds,1n67lft,1n67lft,cdminix,"I’ve been working on distributional evaluation of TTS systems and it’s been going great — this was the final project of my PhD. We need more good evaluation in general, ideally with fresh data periodically. Here it is https://ttsdsbenchmark.com",1,1756827406.0,https://reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/nc13vds/,False,0,0,,False,2025-09-11T20:17:52.251514+00:00,MachineLearning
+nc1a035,1n67lft,1n67lft,No_Calendar_827,"We've been working on a fine-tuning and data version control platform (think Fal or Replicate but we save every fine-tune in a new github-like branch) called [Oxen.ai](http://Oxen.ai) and we have live fine-tuning tutorial every Friday which we then post to blogs! With recent foundation models being trained with RL we posted a blog on why GRPO is important and how it works:  
+[https://www.oxen.ai/blog/why-grpo-is-important-and-how-it-works](https://www.oxen.ai/blog/why-grpo-is-important-and-how-it-works)
+
+If you want to join the next fine-tune tutorial where we fine-tune Wan 2.2, here is the [link](https://luma.com/fine-tuning-friday-7)!",1,1756829223.0,https://reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/nc1a035/,False,0,0,,False,2025-09-11T20:17:52.251520+00:00,MachineLearning
+nc6lyym,1n67lft,1n67lft,Real-Dragonfruit7898,"I’ve been building a reinforcement learning framework called **RLYX** (originally simple-r1). It started as a replication of DeepSeek-R1, and within two weeks of its release I was able to reproduce the GRPO trainer.
+
+
+
+Code is here: [https://github.com/goddoe/rlyx](https://github.com/goddoe/rlyx)
+
+
+
+RLYX has since grown into something I really enjoy working on. Not just because it’s useful, but because I genuinely love building it. RL feels like such a core technology, and I wanted my own take on it.
+
+
+
+Unlike TRL or VERL (which are great but harder to customize), RLYX focuses on **simplicity and hackability**. It runs on a native PyTorch training loop, integrates with Ray Serve for vLLM-based sampling, and supports multiple inference workers (like judge LLMs or reward models) when needed. The idea is to make something that’s easy to read, modify, and extend.
+
+
+
+If you’re interested in a simple, flexible, and hackable RL framework, check out RLYX.",1,1756903180.0,https://reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/nc6lyym/,False,0,0,,False,2025-09-11T20:17:52.251526+00:00,MachineLearning
+nc91zga,1n67lft,1n67lft,thought_terror,"Hey guys! I’ve been tinkering with a side project and finally put it together.
+
+It’s called arxiv-agent — an agentic AI system that ingests an arXiv paper by ID and then spawns 3 personas (Optimist, Skeptic, Ethicist) to debate its claims. The output is a structured, cited debate + a TL;DR summary.
+
+Github: [https://github.com/midnightoatmeal/arxiv-agent](https://github.com/midnightoatmeal/arxiv-agent)  
+  
+It’s CLI-only right now, but I also set up a Hugging Face Space with a minimal Gradio UI:  
+link: [https://huggingface.co/spaces/midnightoatmeal/arxiv-agent](https://huggingface.co/spaces/midnightoatmeal/arxiv-agent)
+
+I’d love to hear your thoughts on how this could be improved or extended! especially ideas for new personas or features",1,1756929463.0,https://reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/nc91zga/,False,0,0,,False,2025-09-11T20:17:52.251531+00:00,MachineLearning
+ncj2q2v,1n67lft,1n67lft,Thinker_Assignment,"We have been  working on a data ingestion library that keeps things simple, for building production pipelines that run in prod as opposed to one-off workflows
+
+[https://github.com/dlt-hub/dlt](https://github.com/dlt-hub/dlt)
+
+It goes fast from 0-1 and also from 1-100  
+\- simple abstractions you can just use with low learning curve  
+\- it has schema evolution to send weakly typed data into strongly typed formats like json to db/iceberg/parquet  
+\- it has everything you need to scale from there: State, parallelism, memory management etc.  
+\- has useful features like caches for exploring data, etc  
+\- being all python, everything is customisable",1,1757066256.0,https://reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/ncj2q2v/,False,0,0,,False,2025-09-11T20:17:52.251547+00:00,MachineLearning
+nck0uv5,1n67lft,1n67lft,ExtentBroad3006,"I’m working on **MeetXpert,** a platform where AI/ML learners can book 1:1 sessions with experts to get unstuck on model debugging, fine-tuning, scaling, etc.
+
+It’s a **one-stop place** to find trusted experts and learn directly from them.
+
+* For learners: [meetxpert.co](http://meetxpert.co)
+* For experts: [meetxpert.co/start](http://meetxpert.co/start)
+
+Experts set their own rates, learners only pay per session. Would love for you to check it out and share feedback",1,1757079980.0,https://reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/nck0uv5/,False,0,0,,False,2025-09-11T20:17:52.251553+00:00,MachineLearning
+nctnqzj,1n67lft,1n67lft,Immediate-Cake6519,"🚀 LAUNCHING: RudraDB-Opin - The World's First Free Relationship-Aware Vector Database
+
+After months of development, I'm excited to announce RudraDB-Opin is now live on PyPI.
+
+What makes it different: Traditional vector databases only find similar documents. RudraDB-Opin understands RELATIONSHIPS between your data, enabling AI applications that discover connections others miss.
+
+🟢 Key innovations:
+
+☑️ Auto-dimension detection (works with any ML model instantly)
+
+☑️ Auto-Relationship detection
+
+☑️ Auto-Optimized Search
+
+☑️ 5 relationship types (semantic, hierarchical, temporal, causal, associative)
+
+☑️ Multi-hop discovery through relationship chains
+
+☑️ 100% free version (100 vectors, 500 relationships, Auto-Intelligence)
+
+☑️ Perfect for developing AI/ML proof of concepts
+
+
+
+⚡ pip install rudradb-opin
+
+  
+import rudradb
+
+import numpy as np
+
+\# Auto-detects dimensions!
+
+db = rudradb.RudraDB()
+
+\# Add vectors with any embedding model
+
+embedding = np.random.rand(384).astype(np.float32)
+
+db.add\_vector(""doc1"", embedding, {""title"": ""AI Concepts""})
+
+db.add\_relationship(""doc1"", ""doc2"", ""semantic"", 0.8)
+
+\# Relationship-aware search
+
+params = rudradb.SearchParams(
+
+include\_relationships=True, # 🔥 The magic!
+
+max\_hops=2
+
+)
+
+results = db.search(query\_embedding, params)
+
+
+
+
+
+🟢 Use cases:
+
+Educational RAG systems that understand learning progressions
+
+Research Discovery tools that discover citation networks
+
+Content systems with intelligent recommendations
+
+Pharmacy Drug Discovery with relationship-aware molecular and research connections
+
+Any AI application where relationships matter, contextual engineering matters, response quality matters, etc.,.
+
+Ready for production? Seamless upgrade path to full RudraDB (1M+ vectors).
+
+
+
+Try it: pip install rudradb-opin
+
+Documentation: Available on [https://www.rudradb.com](https://www.rudradb.com), PyPI and GitHub
+
+What relationship-aware applications will you build?",1,1757204698.0,https://reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/nctnqzj/,False,0,0,,False,2025-09-11T20:17:52.251559+00:00,MachineLearning
+ncwykrq,1n67lft,1n67lft,rwitt101,"🔍 **\[Survey\] Redacting PII in ML/AI Pipelines – How are you doing it?**
+
+Hey everyone  I’m exploring a shim that helps manage sensitive data (like PII) in multi-agent or multi-tool ML workflows.
+
+Static RBAC/API keys aren’t always enough.  I’m curious how teams handle **dynamic field-level redaction or filtering** when data is passed through APIs, agents, or stages.
+
+If you’ve solved this (or struggled with it), I’d love to learn from you.
+
+👉 [Tally survey link](https://tally.so/r/wL81LG) (short + anonymous)
+
+No email or login needed — just trying to map out patterns.
+
+Happy to share back anonymized findings if folks are curious. Thanks!",1,1757257376.0,https://reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/ncwykrq/,False,0,0,,False,2025-09-11T20:17:52.251564+00:00,MachineLearning
+ncy8z95,1n67lft,1n67lft,JKelly555,"  
+Antibody developability prediction model competition from Ginkgo/Huggingface - $60k prizes, public leaderboard  
+  
+Details here (and below):
+
+[https://huggingface.co/spaces/ginkgo-datapoints/abdev-leaderboard](https://huggingface.co/spaces/ginkgo-datapoints/abdev-leaderboard)
+
+For each of the 5 properties in the competition, there is a prize for the model with the highest performance for that property on the private test set. There is also an 'open-source' prize for the best model trained on the GDPa1 dataset of monoclonal antibodies (reporting cross-validation results) and assessed on the private test set where authors provide all training code and data. For each of these 6 prizes, participants have the choice between $10k in data generation credits with Ginkgo Datapoints or a cash prize with a value of $2000.
+
+Track 1: If you already have a developability model, you can submit your predictions for the GDPa1 public dataset.
+
+Track 2: If you don't have a model, train one using cross-validation on the GDPa1 dataset and submit your predictions under the ""Cross-validation"" option.
+
+Upload your predictions by visiting the Hugging Face competition page (use your code you received by email after registering below).
+
+You do not need to predict all 5 properties, you can predict as many as you want — each property has its own leaderboard and prize.
+
+💧 Hydrophobicity (HIC)
+
+🎯 Polyreactivity (CHO)
+
+🧲 Self association (AC-SINS at pH 7.4)
+
+🔥 Thermostability (Tm2)
+
+🧪 Titer
+
+The winners will be announced in November 2025.  Ginkgo doesn't get access to the models or anything, it's just a chance to have a benchmark that people can see publicly -- so hopefully a way for startups or individuals to advertise their modeling prowess :D  Happy to answer Qs - hopefully stuff like this is useful to the community.",1,1757270823.0,https://reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/ncy8z95/,False,0,0,,False,2025-09-11T20:17:52.251570+00:00,MachineLearning
+nd52v7d,1n67lft,1n67lft,BearsNBytes,"I wrote an application/newsletter to help me stay up to date with AI/ML research posted on arXiv. 
+
+Signup: [https://mindtheabstract.com/](https://mindtheabstract.com/)
+
+Sample newsletters: [https://mindtheabstract.com/newsletters](https://mindtheabstract.com/newsletters)
+
+Essentially, this provides a summary of 10 papers weekly, aiming to capture a representative slice of new work being pushed into the space. So, a solid BFS on arXiv papers. Summaries are done via LLMs, and have gotten really good, especially with LLM improvements. The current user base (although small) seems to be happy with the current content.
+
+This seems to serve as a nice complement to DFS methods like [Undermind](https://www.undermind.ai/)",1,1757360958.0,https://reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/nd52v7d/,False,0,0,,False,2025-09-11T20:17:52.251575+00:00,MachineLearning
+nd6xiaq,1n67lft,1n67lft,AtharvBhat,"I'm excited to share something I've been working on for the past few weeks:
+
+Otters 🦦 - A minimal vector search library with powerful metadata filtering powered by an ergonomic Polars-like expressions API written in Rust!
+
+Why I Built This
+
+In my day-to-day work, I kept hitting the same problem. I needed vector search with sophisticated metadata filtering, but existing solutions were either,
+Too bloated (full vector databases when I needed something minimal for analysis)
+Limited in filtering capabilities
+Had unintuitive APIs that I was not happy about.
+
+I wanted something minimal, fast, and with an API that feels natural - inspired by Polars, which I absolutely love.
+
+What Makes Otters Different
+
+Exact Search: Perfect for small-to-medium datasets (up to ~10M vectors) where accuracy matters more than massive scale.
+
+ Performance: 
+SIMD-accelerated scoring
+Zonemaps and Bloom filters for intelligent chunk pruning
+
+Polars-Inspired API: Write filters as simple expressions
+
+```rust
+meta_store.query(query_vec, Metric::Cosine)
+    .meta_filter(col(""price"").lt(100) & col(""category"").eq(""books""))
+    .vec_filter(0.8, Cmp::Gt)
+    .take(10)
+    .collect()
+```
+
+The library is in very early stages and there are tons of features that i want to add
+Python bindings, NumPy support
+Serialization and persistence
+Parquet / Arrow integration
+Vector quantization
+etc.
+
+I'm primarily a Python/JAX/PyTorch developer, so diving into rust programming has been an incredible learning experience.
+
+If you think this is interesting and worth your time, please give it a try.
+I welcome contributions and feedback !
+
+📦 https://crates.io/crates/otters-rs
+🔗 https://github.com/AtharvBhat/otters",1,1757382815.0,https://reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/nd6xiaq/,False,0,0,,False,2025-09-11T20:17:52.251581+00:00,MachineLearning
+ndish5x,1n67lft,1n67lft,Big-Mulberry4600,"Hey everyone,
+
+I’d like to quickly introduce our startup our project Temas. We’re building a modular 3D sensor platform designed for universities, research labs, and makers who are working on robotics, AI vision, and tracking.
+
+What makes Temas unique?
+
+Combines RGB, ToF, and LiDAR sensors in a compact device
+
+Runs on a Raspberry Pi 5 with an open Python package (PyPI)
+
+CAD-compatible output for point clouds and 3D models
+
+Focus on easy integration, modular design, and plug & play usability
+
+Target groups: robotics teams, researchers, labs, universities, and makers
+
+We see this as a bridge between research and practice – making it easier to work with multiple sensors out of the box without building everything from scratch.
+
+💶 Pricing (planned for Kickstarter):
+
+Early Bird: around €1,299
+
+Standard: €1,499
+
+University/Lab Pack (5 units): discounted pricing
+
+If you’re curious, want to share feedback, or are interested in trying it out for research/teaching, feel free to reach out!
+
+🌐 More info: rubu-tech.de
+
+Looking forward to your thoughts & feedback!
+
+Cheers,
+Muhammed",1,1757538966.0,https://reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/ndish5x/,False,0,0,,False,2025-09-11T20:17:52.251586+00:00,MachineLearning
+nc1jp5i,1n67lft,nbymt7y,Relative_Listen_6646,Pretry cool work!,2,1756832149.0,https://reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/nc1jp5i/,False,1,0,,False,2025-09-11T20:17:52.251594+00:00,MachineLearning
+ndnp2p7,1neccr0,1neccr0,Unlikely-Lime-1336,"this does look like a lot of fun actually. was looking at LOTUS the other day (just started to look into the topic fyi so no expert here, but looks fascinating, glad to see someone posting on here about it). will look into more detail and reach out",2,1757607464.0,https://reddit.com/r/MachineLearning/comments/1neccr0/p_semlib_llmpowered_data_processing/ndnp2p7/,False,0,0,,False,2025-09-11T20:17:57.198252+00:00,MachineLearning
+ndnsjjb,1neccr0,1neccr0,radarsat1,this looks great! ,2,1757608476.0,https://reddit.com/r/MachineLearning/comments/1neccr0/p_semlib_llmpowered_data_processing/ndnsjjb/,False,0,0,,False,2025-09-11T20:17:57.198288+00:00,MachineLearning
+ndov5wk,1nehy84,1nehy84,fng185,"Most basic stochastic optimization bounds only really use the definition of smoothness and convexity. Expectations here are only necessary because it’s stochastic: ie one sample (or batch) at a time rather than the full dataset. 
+
+You’ll find most of what you need to get started in this area here: https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/ and here https://www.cs.huji.ac.il/~shais/papers/OLsurvey.pdf
+
+You can also try to modify aspects of the algorithm and propagate how that would affect the bound. Or work backwards and try to improve constants by changing the algorithm. This is 99% of how stochastic optimization papers get written.",5,1757619425.0,https://reddit.com/r/MachineLearning/comments/1nehy84/d_math_foundations_to_understand_convergence/ndov5wk/,False,0,0,,False,2025-09-11T20:17:59.733809+00:00,MachineLearning
+ndnz4xp,1nee9fl,1nee9fl,No_Marionberry_5366,[https://arxiv.org/pdf/2509.00244](https://arxiv.org/pdf/2509.00244),1,1757610358.0,https://reddit.com/r/MachineLearning/comments/1nee9fl/d_universal_deep_research_udr_a_general_wrapper/ndnz4xp/,True,0,0,,False,2025-09-11T20:18:02.215762+00:00,MachineLearning
+ndisfy1,1ndo5md,1ndo5md,Majromax,"The cost-effectiveness depends on your cost structure.
+
+If your biggest worry is the cost of power, then Blackwell Ultra's utility will come down to its FLOPS per watt.  Idle GPUs draw an order of magnitude less energy than busy ones.
+
+If your biggest worry is latency rather than throughput, Blackwell Ultras might be worth the cost even if they sit idle.  If you're a hedge fund competing for the last microsecond, for example, then you want to climb far up the 'inefficiency' curve for your edge.
+
+If your computational requirement is roughly fixed, then more powerful GPUs might also let you consolidate the total number of systems.  You might end up saving on other infrastructure costs.
+
+Finally, if your main worry is about the amortized capital costs of the cards themselves, then Blackwell Ultra probably isn't worth it.  However, _no_ new release is probably worth it on that basis; why aren't you buying used A100s?",24,1757538957.0,https://reddit.com/r/MachineLearning/comments/1ndo5md/dnvidia_blackwell_ultra_crushes_mlperf/ndisfy1/,False,0,0,,False,2025-09-11T20:18:04.811507+00:00,MachineLearning
+ndkrnk1,1ndo5md,1ndo5md,djm07231,"It could be useful for RL applications.
+
+The bottleneck for RL is waiting for inference rollouts so you will be doing inference constantly.
+
+You will probably come closer to maximum utilization in which case this kind of benchmarks could be more relevant.",4,1757562949.0,https://reddit.com/r/MachineLearning/comments/1ndo5md/dnvidia_blackwell_ultra_crushes_mlperf/ndkrnk1/,False,0,0,,False,2025-09-11T20:18:04.811567+00:00,MachineLearning
+ndjdron,1ndo5md,ndisfy1,pmv143,"Good points. One wrinkle is that in practice, workloads aren’t steady . GPUs sit idle a lot of the time, and that undercuts cost-effectiveness no matter how efficient the chip is per watt. Benchmarks capture peak throughput, but the real challenge is keeping GPUs busy in bursty, multi-model environments. That’s often where the economics break down, not just at the hardware level",3,1757545287.0,https://reddit.com/r/MachineLearning/comments/1ndo5md/dnvidia_blackwell_ultra_crushes_mlperf/ndjdron/,True,1,0,,False,2025-09-11T20:18:04.811598+00:00,MachineLearning
+ndnvj3i,1ndo5md,ndisfy1,Informal-Hair-5639,Where you can get used A100s?,1,1757609341.0,https://reddit.com/r/MachineLearning/comments/1ndo5md/dnvidia_blackwell_ultra_crushes_mlperf/ndnvj3i/,False,1,0,,False,2025-09-11T20:18:04.811615+00:00,MachineLearning
+ndlau2g,1ndo5md,ndkrnk1,pmv143,"This is exactly the tension we see. If you’re in RL or steady-state inference, raw throughput benchmarks map pretty well to cost. But for most real-world workloads, traffic is bursty, GPUs sit idle, and orchestration across models eats into utilization. That’s why solutions that reduce cold starts and rehydrate GPU state faster end up having as much impact on economics as FLOPS benchmarks do.",2,1757572096.0,https://reddit.com/r/MachineLearning/comments/1ndo5md/dnvidia_blackwell_ultra_crushes_mlperf/ndlau2g/,True,1,0,,False,2025-09-11T20:18:04.811632+00:00,MachineLearning
+ndlb2gp,1ndo5md,ndl8hsl,pmv143,"Exactly. Benchmarks capture peak throughput, but in production the bottleneck is often idle time and orchestration. GPUs aren’t fed steady traffic. they spend a lot of cycles waiting. That’s why utilization, cold starts, and context rehydration can end up mattering more to costs than raw FLOPS. The fastest chip in the world doesn’t help much if it’s sitting idle most of the time.",1,1757572223.0,https://reddit.com/r/MachineLearning/comments/1ndo5md/dnvidia_blackwell_ultra_crushes_mlperf/ndlb2gp/,True,1,0,,False,2025-09-11T20:18:04.811647+00:00,MachineLearning
+ndnh2t2,1ndo5md,ndm62al,pmv143,Ya. We’ve seen that with many models as well. Great benchmarks without going into details. They all rain in real world scenario.,1,1757605112.0,https://reddit.com/r/MachineLearning/comments/1ndo5md/dnvidia_blackwell_ultra_crushes_mlperf/ndnh2t2/,True,1,0,,False,2025-09-11T20:18:04.811663+00:00,MachineLearning
+ndllcz8,1ndulfv,1ndulfv,superfluous_union,"I'm not familiar with the topic, but perhaps [this paper](https://www.researchgate.net/publication/347856456_Corporate_Default_Forecasting_with_Machine_Learning) or [this paper](https://thesai.org/Publications/ViewPaper?Volume=15&Issue=3&Code=IJACSA&SerialNo=57) is similar enough to give you an idea of the types of features that might be important (they each have a table of important features) and the algorithms that worked best?",1,1757578100.0,https://reddit.com/r/MachineLearning/comments/1ndulfv/d_the_best_way_to_structure_data_for_a_predictive/ndllcz8/,False,0,0,,False,2025-09-11T20:18:07.284993+00:00,MachineLearning
+ndolseu,1ndulfv,1ndulfv,HugeAssAnimeTendies,"I think option 1 makes the most sense without more context.
+
+You shouldn’t average the financials over multiple years, then predict for every year. Then you’d be using 2025 financials to predict 2024 delinquency, when in production you wouldn’t have that 2025 information yet. That’s called data leakage, and it’s bad",1,1757616680.0,https://reddit.com/r/MachineLearning/comments/1ndulfv/d_the_best_way_to_structure_data_for_a_predictive/ndolseu/,False,0,0,,False,2025-09-11T20:18:07.285068+00:00,MachineLearning
+ndji82j,1ndtey6,1ndtey6,Brudaks,"Cleaning data has always been a major part of the work required in making realistic production pipelines for every data analysis domain, before machine learning it also applies to data science, business intelligence and data warehouses and whatnot. This problem has been around for literally half a century, and is as important as ever.",10,1757546706.0,https://reddit.com/r/MachineLearning/comments/1ndtey6/d_having_trouble_organising_massive_csv_files_for/ndji82j/,False,0,0,,False,2025-09-11T20:18:09.771761+00:00,MachineLearning
+ndjq75w,1ndtey6,1ndtey6,InternationalMany6,"I’m not sure what you mean by organizing?
+
+Are these malformed CSV’s like with inconsistent rows and columns?
+
+Are you meaning where the files themselves are saved, like if you split them into folders? Or move them into a database?",4,1757549345.0,https://reddit.com/r/MachineLearning/comments/1ndtey6/d_having_trouble_organising_massive_csv_files_for/ndjq75w/,False,0,0,,False,2025-09-11T20:18:09.771811+00:00,MachineLearning
+ndkeirp,1ndtey6,1ndtey6,CrownLikeAGravestone,"For dealing with power signals, it's common to have them encoded and compressed as waveforms (e.g. in a format you might use for audio) rather than text-like files as CSVs which assists a lot with sampling and transforming. Parquet is another much better option than CSVs if you need tabular data. 
+
+Do what you can to put the CSV data into a better format *fast* \- e.g. on ingestion, make the CSV read/Parquet write program highly optimised and simple in a nice compiled language, then do the scripting/analysis/learning part with the better format IMO.",3,1757557835.0,https://reddit.com/r/MachineLearning/comments/1ndtey6/d_having_trouble_organising_massive_csv_files_for/ndkeirp/,False,0,0,,False,2025-09-11T20:18:09.771836+00:00,MachineLearning
+ndjo9yl,1ndtey6,1ndtey6,swaneerapids,what makes the csvs unusable?,3,1757548686.0,https://reddit.com/r/MachineLearning/comments/1ndtey6/d_having_trouble_organising_massive_csv_files_for/ndjo9yl/,False,0,0,,False,2025-09-11T20:18:09.771852+00:00,MachineLearning
+ndjpmfj,1ndtey6,1ndtey6,Xtianus21,You want to convert the CSV into parquet and put it into icetables if you can do that. Snowflake would do this easily for you.,3,1757549148.0,https://reddit.com/r/MachineLearning/comments/1ndtey6/d_having_trouble_organising_massive_csv_files_for/ndjpmfj/,False,0,0,,False,2025-09-11T20:18:09.771887+00:00,MachineLearning
+ndkfkmt,1ndtey6,1ndtey6,colonel_farts,Sounds like these files should be in parquet format and you should be using something like databricks+pyspark,1,1757558218.0,https://reddit.com/r/MachineLearning/comments/1ndtey6/d_having_trouble_organising_massive_csv_files_for/ndkfkmt/,False,0,0,,False,2025-09-11T20:18:09.771905+00:00,MachineLearning
+ndjjky6,1ndtey6,ndji82j,grabber500,Crap in crap out so its painstaking. What are you using to help. I put together some python scripts but I need a new one for each set of different data we take.,3,1757547150.0,https://reddit.com/r/MachineLearning/comments/1ndtey6/d_having_trouble_organising_massive_csv_files_for/ndjjky6/,True,1,0,,False,2025-09-11T20:18:09.771931+00:00,MachineLearning
+ndjrayf,1ndtey6,ndjq75w,grabber500,The data is normally compressed after running FFTs and power calculations by the unit. We take additional data streams of raw data for further analysis but the data isn't organised in a way that you can feed it into other software therefore we need to apply some deletion of columns and some addition of actual time columns rather than the data given. It's arduous and a lot of man hours given the sheer volume of data. I was really just wondering what people are doing to overcome situations like this.,1,1757549726.0,https://reddit.com/r/MachineLearning/comments/1ndtey6/d_having_trouble_organising_massive_csv_files_for/ndjrayf/,True,1,0,,False,2025-09-11T20:18:09.771949+00:00,MachineLearning
+ndjx0lh,1ndtey6,ndjo9yl,grabber500,The way they are downloaded from the unit. There may be a bit of intentional difficulty in the output CSVs as I cant see any way you could use them anywhere else off the bat. We input the raw data into other software for analysis and training hence we need them in a specific format.,3,1757551703.0,https://reddit.com/r/MachineLearning/comments/1ndtey6/d_having_trouble_organising_massive_csv_files_for/ndjx0lh/,True,1,0,,False,2025-09-11T20:18:09.771968+00:00,MachineLearning
+ndokn28,1ndtey6,ndjjky6,mileylols,"> I need a new one for each set of different data we take
+
+this is your actual problem",1,1757616349.0,https://reddit.com/r/MachineLearning/comments/1ndtey6/d_having_trouble_organising_massive_csv_files_for/ndokn28/,False,2,0,,False,2025-09-11T20:18:09.771984+00:00,MachineLearning
+ndjsdb3,1ndtey6,ndjrayf,InternationalMany6,"I tend to push any tabular data into formats like parquet or databases like duckdb. Script everything so the man hours are just to double check results and hit the “run” button. 
+
+It’s unclear, are you able to write and optimize code or are you looking for out of the box tools? Nothing wrong with the later but it’s a different question. ",3,1757550092.0,https://reddit.com/r/MachineLearning/comments/1ndtey6/d_having_trouble_organising_massive_csv_files_for/ndjsdb3/,False,2,0,,False,2025-09-11T20:18:09.772007+00:00,MachineLearning
+ndkg4hx,1ndtey6,ndjx0lh,swaneerapids,"Still difficult to understand what exactly is going on. Sounds like you've got the CSVs coming from the power meter + other measurements that you want to aggregate into timestamped data streams.
+
+You need to write some custom program (python for example) that can take these multiple inputs. For the csv for example you can use:  
+\`\`\`  
+df = pd.read\_csv(<csv file>, usecols=\[<list of known good columns>\])  
+\`\`\`
+
+not sure if the csv you get has timestamps per row...  
+if your other inputs are also timestamped, then you can try to find the nearest row in the original csv and append the auxiliary input as a separate row:  
+you can use \`ts = pd.to\_datetime(<string value>)\` and then \`.get\_loc(ts, 'nearest')\` etc. pandas has decent timestamping functions.
+
+Finally your program would output the cleaned and merged dataframes into new csvs \`df\_new.to\_csv(<output.csv>)\`
+
+You can then hand off that cleaned/processed csv to the downstream tasks.  
+Either way you'll need to write that processing code - so you'll have to consider any edge cases and write methods to handle them. Ideally this would be one program to handle it all.",7,1757558420.0,https://reddit.com/r/MachineLearning/comments/1ndtey6/d_having_trouble_organising_massive_csv_files_for/ndkg4hx/,False,2,0,,False,2025-09-11T20:18:09.772025+00:00,MachineLearning
+ndjt3lk,1ndtey6,ndjsdb3,grabber500,I was looking for an out of the box solution. I can code but im trying to pass this on to others to work who dont code.,2,1757550343.0,https://reddit.com/r/MachineLearning/comments/1ndtey6/d_having_trouble_organising_massive_csv_files_for/ndjt3lk/,True,3,0,,False,2025-09-11T20:18:09.772044+00:00,MachineLearning
+ndhpm6i,1ndaesz,1ndaesz,LelouchZer12,"Try ModernBERT (english only) or EuroBERT, those are the most powerful transformer encoder-only embedding models right now.",3,1757528507.0,https://reddit.com/r/MachineLearning/comments/1ndaesz/d_sota_modern_alternative_to_bertscore/ndhpm6i/,False,0,0,,False,2025-09-11T20:18:12.219519+00:00,MachineLearning
+ndfqyd7,1ndaesz,1ndaesz,The3RiceGuy,"Couldnt you simply use modern embeddings, like OpenAI GPT or DeBertav3 Embeddings instead of the BERT Embeddings in the Scoring function so it would be modern, but still working very similar.",2,1757507946.0,https://reddit.com/r/MachineLearning/comments/1ndaesz/d_sota_modern_alternative_to_bertscore/ndfqyd7/,False,0,0,,False,2025-09-11T20:18:12.219583+00:00,MachineLearning
+ndh1b36,1ndaesz,ndfqyd7,Jamaleum,"The original BERTScore does find an optimal layer to extract the token embeddings from, which would need to be identified first.",2,1757521677.0,https://reddit.com/r/MachineLearning/comments/1ndaesz/d_sota_modern_alternative_to_bertscore/ndh1b36/,False,1,0,,False,2025-09-11T20:18:12.219613+00:00,MachineLearning

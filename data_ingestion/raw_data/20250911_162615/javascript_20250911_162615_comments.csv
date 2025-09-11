@@ -1,0 +1,262 @@
+id,post_id,parent_id,author,body,score,created_utc,permalink,is_submitter,depth,controversiality,distinguished,edited,retrieved_at,subreddit
+ncwxns1,1n9syis,1n9syis,ratudev,"10 years, countless Node.js scripts - shortcuts, tips, and practical lessons packed into one juicy article:  
+
+
+\-  [https://ratu.dev/blog/mastering-nodejs-scripting](https://ratu.dev/blog/mastering-nodejs-scripting)",1,1757257103.0,https://reddit.com/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/ncwxns1/,False,0,0,,False,2025-09-11T20:24:52.641201+00:00,javascript
+ncqwplo,1n9syis,1n9syis,MagnussenXD,"This subreddit itself is cool!
+
+  
+anyway if you are into building static websites, check this cors proxy [https://github.com/corsfix/corsfix](https://github.com/corsfix/corsfix)",1,1757173132.0,https://reddit.com/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/ncqwplo/,False,0,0,,True,2025-09-11T20:24:52.641226+00:00,javascript
+ncqp6n2,1n9syis,1n9syis,bigsido,"I made a huge update of my personal website in PixiJS :  
+[https://www.sido.fr/](https://www.sido.fr/)",3,1757170732.0,https://reddit.com/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/ncqp6n2/,False,0,0,,False,2025-09-11T20:24:52.641235+00:00,javascript
+ncqhz5k,1n9syis,1n9syis,localnerve,"    I built a comprehensive JAM stack reference app with offline-first architecture, service worker batching, and multi-user conflict resolution.
+    
+    • Service worker-first architecture (not just PWA features)
+    • Offline data mutation batching with IndexedDB staging
+    • Multi-user optimistic concurrency control with 3-way merge
+    • Sophisticated testing with Docker Testcontainers + multi-layer coverage
+    • Hand-crafted vanilla JS (no framework dependencies)
+    
+    https://github.com/localnerve/jam-build",1,1757168336.0,https://reddit.com/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/ncqhz5k/,False,0,0,,False,2025-09-11T20:24:52.641242+00:00,javascript
+ncq2nwq,1n9syis,1n9syis,jiashenggo,"ZenStack V3 - unified data layer with intuitive data modeling, type-safe ORM, built-in access control, automatic query services, and more.
+
+[https://zenstack.dev/v3](https://zenstack.dev/v3)  
+[https://github.com/zenstackhq/zenstack-v3](https://github.com/zenstackhq/zenstack-v3)",1,1757162689.0,https://reddit.com/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/ncq2nwq/,False,0,0,,False,2025-09-11T20:24:52.641249+00:00,javascript
+ncph6a6,1n9syis,1n9syis,StraightCell7248,https://interactive-comments-chi.vercel.app/,1,1757151862.0,https://reddit.com/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/ncph6a6/,False,0,0,,False,2025-09-11T20:24:52.641256+00:00,javascript
+ncpaas8,1n9syis,1n9syis,knutmt, https://codehooks.io 😊,1,1757147617.0,https://reddit.com/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/ncpaas8/,False,0,0,,False,2025-09-11T20:24:52.641262+00:00,javascript
+nd1zhlc,1nbiroz,1nbiroz,subredditsummarybot,"If you would like this roundup sent to your reddit inbox every week [send me a message with the subject 'javascript'](https://www.reddit.com/message/compose?to=subredditsummarybot&subject=javascript&message=x). Or if you want a daily roundup, [use the subject 'javascript daily'](https://www.reddit.com/message/compose?to=subredditsummarybot&subject=javascript%20daily&message=x) (<--Click one of the links. The bot can't read chats, you must send a message). 
+
+#####Please let me know if you have suggestions to make this roundup better for /r/javascript or if there are other subreddits that you think I should post in. I can search for posts based off keywords in the title, URL and flair - sorted by upvotes, \# of comments, or awards. And I can also find the top comments overall or in specific threads.",1,1757322371.0,https://reddit.com/r/javascript/comments/1nbiroz/your_rjavascript_recap_for_the_week_of_september/nd1zhlc/,True,0,0,,False,2025-09-11T20:24:55.149769+00:00,javascript
+nd2q0ap,1nbiroz,nd20mln,Ordinary-Fix705,"Thank you very much, I would really like to hear your feedback on using the lib in the future. 😁",1,1757335340.0,https://reddit.com/r/javascript/comments/1nbiroz/your_rjavascript_recap_for_the_week_of_september/nd2q0ap/,False,1,0,,False,2025-09-11T20:24:55.149827+00:00,javascript
+ndo8eqi,1nefcw8,1nefcw8,Dependent-Guitar-473,"This is a great job; however, this begs the question, what are you going to migrate to eventually? what is the best css-in-js solution atm?",1,1757612918.0,https://reddit.com/r/javascript/comments/1nefcw8/we_forked_styledcomponents_because_it_never/ndo8eqi/,False,0,0,,False,2025-09-11T20:24:57.704654+00:00,javascript
+ndoohph,1nefcw8,1nefcw8,static_func,"That’s great, and I’m glad to see that you also view it as a bridge while you migrate. I was a big early proponent of styled-components back when tooling for PostCSS/SASS/LESS was still really jank, but that’s just not really true anymore. Tailwind moves your styles even closer to your html and comes with _zero_ JavaScript, not to mention how its way more portable between frameworks",1,1757617462.0,https://reddit.com/r/javascript/comments/1nefcw8/we_forked_styledcomponents_because_it_never/ndoohph/,False,0,0,,False,2025-09-11T20:24:57.704703+00:00,javascript
+ndo9o6o,1nefcw8,ndo8eqi,knutmelvaer,"At Sanity, .we're going vanilla-extract - zero runtime, full TypeScript, no surprises. 
+
+But ""best"" is tricky. The boring-but-correct answer: depends on your team and codebase.
+
+If you forced us to rank for new projects in 2025:
+
+1. Tailwind (strictly not css-in-js, but you know, very popular)
+
+2. vanilla-extract/Panda (if you want CSS-in-JS DX)
+
+3. CSS Modules (if you want ""simplicity"")
+
+4. Whatever you're already good at
+
+The React team's actual recommendation? Static stylesheets + inline styles for dynamic values. Not sexy, but fast.",1,1757613260.0,https://reddit.com/r/javascript/comments/1nefcw8/we_forked_styledcomponents_because_it_never/ndo9o6o/,True,1,0,,False,2025-09-11T20:24:57.704721+00:00,javascript
+ndoereh,1nefcw8,ndo8eqi,MrCrunchwrap,The best css in js solution is to stop trying to use JS to do CSS. ,1,1757614667.0,https://reddit.com/r/javascript/comments/1nefcw8/we_forked_styledcomponents_because_it_never/ndoereh/,False,1,0,,False,2025-09-11T20:24:57.704738+00:00,javascript
+ndoqnsx,1nefcw8,ndo8eqi,zachrip,"Honestly a lot of the value of css-in-js has gone away for me with a few css updates: nesting, variables, and broad support for unprefixed features (and evergreen browsers make this even better). I currently enjoy tailwind because you can just inline the classes and that DX is so much faster than having to create components for everything.",1,1757618099.0,https://reddit.com/r/javascript/comments/1nefcw8/we_forked_styledcomponents_because_it_never/ndoqnsx/,False,1,0,,False,2025-09-11T20:24:57.704750+00:00,javascript
+ndob85i,1nefcw8,ndo9o6o,Dependent-Guitar-473,"I agree with your list, and I don't want to take away from your nice responses, but man, do I hate that Tailwind is this popular :(",1,1757613681.0,https://reddit.com/r/javascript/comments/1nefcw8/we_forked_styledcomponents_because_it_never/ndob85i/,False,2,0,,False,2025-09-11T20:24:57.704764+00:00,javascript
+ndokb86,1nefcw8,ndoereh,Dependent-Guitar-473,it has so many uses... many internal apps that don't care about performance nor bundle size are perfect candidates for css-in-js,1,1757616253.0,https://reddit.com/r/javascript/comments/1nefcw8/we_forked_styledcomponents_because_it_never/ndokb86/,False,2,0,,False,2025-09-11T20:24:57.704779+00:00,javascript
+ndomokw,1nefcw8,ndoereh,knutmelvaer,"for websites and stuff, yes, but for web applications that are more complex and interactive, and needs to be maintained by bigger teams, then css-in-js still has its place.",1,1757616938.0,https://reddit.com/r/javascript/comments/1nefcw8/we_forked_styledcomponents_because_it_never/ndomokw/,True,2,0,,False,2025-09-11T20:24:57.704791+00:00,javascript
+ndocjwf,1nefcw8,ndob85i,knutmelvaer,It's weird how CSS has always been a divisive topic 😆 remember LESS vs Sass? BEM? etc etc,1,1757614045.0,https://reddit.com/r/javascript/comments/1nefcw8/we_forked_styledcomponents_because_it_never/ndocjwf/,True,3,0,,False,2025-09-11T20:24:57.704803+00:00,javascript
+ndkwghf,1ndx424,1ndx424,zaitsman,"Just more bollocks. If they phished the maintainers private keys then they could still publish bad stuff.
+
+The failure here was the human maintainer, not just npm.
+
+With the same argument if the publisher used MFA and a very secure password it would’ve been safe.",1,1757565030.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndkwghf/,False,0,0,,False,2025-09-11T20:25:00.505697+00:00,javascript
+ndko16l,1ndx424,1ndx424,ksskssptdpss,Should i trust you ?,1,1757561452.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndko16l/,False,0,0,,False,2025-09-11T20:25:00.507087+00:00,javascript
+ndkmj6x,1ndx424,1ndx424,ecafyelims,Does that also enforce the dependencies of my dependencies?,1,1757560846.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndkmj6x/,False,0,0,,False,2025-09-11T20:25:00.507116+00:00,javascript
+ndlg809,1ndx424,1ndx424,lachlanhunt,"Perhaps I’m missing something, but what stops an attacker simply replacing the vouchsafe attestation in the package with their own? Self signed certificates and on some kind of web of trust is not as reliable as having a central certificate authority that can confirm the identity of the signer and their right to have published a given package.",1,1757575063.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndlg809/,False,0,0,,False,2025-09-11T20:25:00.507133+00:00,javascript
+ndlyid1,1ndx424,1ndx424,dashingThroughSnow12,"This tool _may_ have prevented the compromise by stopping the least interesting part of it.
+
+With such a bold claim, I was hoping for something novel around npm install/postinstall scripts.",1,1757585717.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndlyid1/,False,0,0,,False,2025-09-11T20:25:00.507148+00:00,javascript
+ndmmlb2,1ndx424,1ndx424,kranker,"> It's revolutionary
+
+I do not see anything revolutionary about this
+
+When I was first reading the linked article I did not understand that Vouchsafe was a general JWT signing tech, I assumed it was something written for signing npm packages.  This made things confusing.  For instance, why would this have required any lines of Javascript, let alone 200?  
+
+Anyway, without key/identity management and a tonne other npm specific things this doesn't seem interesting.  As the npm solution presented is just a demo and not an actual practical solution, the entire things boils down to ""all of this could have been prevented if the Chalk developer had signed their package and all the package users had manually verified that signature"".  Yeah, no shit.  Unless they lose their key too of course.",1,1757595766.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndmmlb2/,False,0,0,,True,2025-09-11T20:25:00.509393+00:00,javascript
+ndl8q0i,1ndx424,1ndx424,yksvaan,"The real solution is to cut down number of dependencies and do some audit/evaluation before adding one. And often you can just copy the code as local source. Especially since a lot of these packages are some short utilities. Also modern js covers a lot more functionality and can make many packages obsolete. 
+
+
+I would say take a look at go community and how they do things. A web server framework has like 10 dependencies and half of them are part of language itself. Well to be fair they have amazing standard library compared to js but still it's mostly cultural. 
+
+
+Npm doesn't even show indirect dependencies, it would be very eye-opening to see a listing of every dependency for some basic react express project...",1,1757570981.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndl8q0i/,False,0,0,,False,2025-09-11T20:25:00.509439+00:00,javascript
+ndkxp4o,1ndx424,ndkwghf,Reashu,"Any extra step reduces the likelihood of the whole chain being compromised. Until there are enough steps that someone launches publishing-as-a-service and we have a single point of failure again.
+
+
+That said, the pitch really seems to be glossing over the challenge of getting every package author to sign up. ",1,1757565596.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndkxp4o/,False,1,0,,False,2025-09-11T20:25:00.510043+00:00,javascript
+ndkx01r,1ndx424,ndkwghf,jayk806,"No disrespect, but you can't phish the private keys. That's the point. You don't give private keys away.  Ever. You sign with them. The token itself is verified \_without\_ the key.",1,1757565276.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndkx01r/,True,1,0,,False,2025-09-11T20:25:00.510642+00:00,javascript
+ndkvd64,1ndx424,ndko16l,jayk806,No.  make me prove it. ;),1,1757564545.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndkvd64/,True,1,0,,False,2025-09-11T20:25:00.511697+00:00,javascript
+ndkqcpc,1ndx424,ndkmj6x,jayk806,"It would include the package.json, so any changes in dependency version would be caught, though the content of those packages would only have the extra layer of trust if it also used the model. If npm adopted it, it would just be part of the publish process.  Otherwise it's progressive enhancement.",1,1757562405.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndkqcpc/,True,1,0,,False,2025-09-11T20:25:00.512212+00:00,javascript
+ndlip5i,1ndx424,ndlg809,jayk806,"If you replace the token with something signed with a different key, the identity changes. The URN no longer matches and the validation fails. 
+
+That's the change with Vouchsafe.  The identity urn is tied to the key.  Change the key, the identity doesn't match anymore.  Tampering is immediately visible. no way to fake it or spoof it.",1,1757576502.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndlip5i/,True,1,0,,False,2025-09-11T20:25:00.512379+00:00,javascript
+ndnng5g,1ndx424,ndmmlb2,jayk806,"Thanks for your feedback.  I'll definitely add to the documentation / site to make things clearer.  You work on something long enough and you start to forget what you didn't know at the outset. ;)   
+  
+Vouchsafe solves several problems in the identity and trust space, but the most interesting ones here are 1) It eliminates the need for key distribution and management entirely. 2) It eliminates the problem of knowing whether this key belongs to this person by guaranteeing the identity to key link cryptographically.  
+
+Do you still need to know who you should trust? Yes. Do you still need to deal with lost or stolen keys, yes. It's not magic... it's a tool... but it's a tool that eliminates two of the largest problems you face when trying to make use of public key cryptography.  Which drastically reduces the level of effort required to, for example, add it to an existing ecosystem.",1,1757606986.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndnng5g/,True,1,0,,False,2025-09-11T20:25:00.515693+00:00,javascript
+ndkz6xk,1ndx424,ndkxp4o,jayk806,"Totally fair.  Official support / requirement would be the best option.  But step one is just to make it possible and illustrate that, which was the fundamental point.  
+  
+The point is that we could have the security we need with a relatively low level of effort.  No key registries, no complex infrastructure.  Require at least one signing identity for each package, and add one step before publish and retrieve time... both of which could be fairly automated.
+
+The point is it can be done technically with a relatively low level of effort... and should be.  Whether it IS done is another matter altogether.",1,1757566278.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndkz6xk/,True,2,0,,False,2025-09-11T20:25:00.515915+00:00,javascript
+ndkx8q4,1ndx424,ndkx01r,zaitsman,"Except when:
+Moving machines
+Setting up CI/CD
+Giving them to another dev on your team so they can sign… and so on.
+
+Humans make mistakes. If it is technically possible it will happen.",1,1757565387.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndkx8q4/,False,2,0,,False,2025-09-11T20:25:00.515942+00:00,javascript
+ndlfqql,1ndx424,ndkx01r,lachlanhunt,"Unless you’ve got keys bound to hardware security keys, you have no guarantee the private key hasn’t been stolen. It certainly makes it harder, but you’re still ultimately depending on how securely the owner kept them stored.",1,1757574798.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndlfqql/,False,2,0,,False,2025-09-11T20:25:00.515954+00:00,javascript
+ndkvt3v,1ndx424,ndkvd64,ksskssptdpss,"`""dependencies"": {}`
+
+¯\\(ツ)/¯",1,1757564738.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndkvt3v/,False,2,0,,True,2025-09-11T20:25:00.515966+00:00,javascript
+ndkxfcs,1ndx424,ndkqcpc,Reashu,"Any changes in *declared* dependency version - ""compatible"" dependency updates could still sneak in",1,1757565472.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndkxfcs/,False,2,0,,False,2025-09-11T20:25:00.515976+00:00,javascript
+ndm85qa,1ndx424,ndlip5i,lachlanhunt,"Is there an example package somewhere that has an attestation included? I looked at the vouchsafe npm package and i couldn't see any attestation file in there.
+
+Anyway, my understanding from reading the article was that an attestation is just a file containing the iss, package_version, checksums and purpose, and any developer can generate their own identity and sign whatever they like. So what stops an attacker simply replacing the entire attestation file with their own validly generated attestation using their own URN? Unless you have some way to say that only a particular URN is allowed for signing a given package, which is recorded somewhere outside of the attacker's control, I don't see how it protects anything.",1,1757590311.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndm85qa/,False,2,0,,False,2025-09-11T20:25:00.515986+00:00,javascript
+ndnx4tf,1ndx424,ndnng5g,kranker,"> Thanks for your feedback. I'll definitely add to the documentation / site to make things clearer. You work on something long enough and you start to forget what you didn't know at the outset. ;)
+
+  
+I can understand this!
+
+
+
+> Vouchsafe solves several problems in the identity and trust space, but the most interesting ones here are 1) It eliminates the need for key distribution and management entirely. 2) It eliminates the problem of knowing whether this key belongs to this person by guaranteeing the identity to key link cryptographically.
+
+  
+This, however, I do not understand.  To quote the site itself
+
+  
+> The identity *is* the key. It’s cryptographically bound to the public key - change the key, and the identity (the URN) changes too.
+
+  
+The ""identity"" is a hash of the public key.  Although this makes it slightly easier to distribute than the full key, it still has to be distributed.  In terms of key management and distribution I can't see any difference between the identity being the key and the identity being a hash of the key.   Here is the site's example of a ""human-readable identifier""
+
+> urn:vouchsafe:alice.tp5yr5uvfgbmwba3jdmqrar4rqu5rsbkz6nqqyuw75zxpdzgvhsq
+
+Suggesting that people simply obtain this information about all the ""identities"" they want to trust via some means that you aren't helping with isn't a workable system.  It just feels like you're claiming that key management/distribution isn't necessary while not actually solving any of the associated problems except for the resolution of fingerprint->key.",1,1757609791.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndnx4tf/,False,2,0,,False,2025-09-11T20:25:00.517730+00:00,javascript
+ndlkrlw,1ndx424,ndkvt3v,youareafakenews,well that's best move you can do. nodejs needs to have this enforced somehow. not isEven or isOdd libraries.,1,1757577740.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndlkrlw/,False,3,0,,False,2025-09-11T20:25:00.518317+00:00,javascript
+ndm0ghd,1ndx424,ndkxfcs,ecafyelims,"This right here ☝️☝️☝️
+
+OP, you don't understand the depth of the problem",1,1757586720.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndm0ghd/,False,3,0,,False,2025-09-11T20:25:00.518329+00:00,javascript
+ndnpk8v,1ndx424,ndm85qa,jayk806,"No packages use this, it was written yesterday as a proof of concept.  
+
+You're correct. To really make use of this we'd need to have some way to record which identities should be trusted to publish a particular package.  The simplest (yet least interesting) way would be to associate that in npm database somehow.  
+
+A more interesting approach would be to make use of Vouchsafe's vouching capabilities and have npm provide the publisher with a vouch token that vouches for the publisher's identity.  This would be done well in advance. Then when the publisher publishes, they provide both tokens. This is easily verified and any attacker would not have a valid token for that package, so their identity (and token) would not be accepted.
+
+As I mention elsewhere, this was intended as a proof of concept, to show that it could be done and with a low level of effort. Not zero effort, but far less than would otherwise be needed.",1,1757607606.0,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/ndnpk8v/,True,3,0,,False,2025-09-11T20:25:00.518458+00:00,javascript
+ndlictd,1ne2is4,1ne2is4,StoneCypher,"""most efficient"" is not a useful thing to fight for here.  just `myArrayOfText.includes(yourString)` or whatever.",1,1757576299.0,https://reddit.com/r/javascript/comments/1ne2is4/askjs_check_text_against_a_list_of_strings/ndlictd/,False,0,0,,False,2025-09-11T20:25:05.266362+00:00,javascript
+ndllnsd,1ne2is4,1ne2is4,andlrc,`strs.some(substr => text.includes(substr))`,1,1757578277.0,https://reddit.com/r/javascript/comments/1ne2is4/askjs_check_text_against_a_list_of_strings/ndllnsd/,False,0,0,,False,2025-09-11T20:25:05.266407+00:00,javascript
+ndlkstl,1ne2is4,1ne2is4,kisaragihiu,"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set
+
+Set.has, except when the price to convert an array into a set isn't worth it.",1,1757577760.0,https://reddit.com/r/javascript/comments/1ne2is4/askjs_check_text_against_a_list_of_strings/ndlkstl/,False,0,0,,False,2025-09-11T20:25:05.266422+00:00,javascript
+ndli8jr,1ne2is4,1ne2is4,stigawe,.includes?,1,1757576228.0,https://reddit.com/r/javascript/comments/1ne2is4/askjs_check_text_against_a_list_of_strings/ndli8jr/,False,0,0,,False,2025-09-11T20:25:05.266435+00:00,javascript
+ndncytp,1ne2is4,1ne2is4,Specialist_Switch_49,"Is the text you want to compare going to be a word in the list or are you checking if it contains a word in the list?
+
+A regular expression would be fast and could be built form the array. You would need to update the regular expression every time strs gets updated so this might be time consuming if that list changes frequently.
+
+With a regular expression you can do a check for is an item in the list or contains an item in the list. You could also make it case insensitive.
+
+
+const strs = ['a', 'b', 'c'];
+
+// test contains a word in strs
+let strsRx_contains = new RegExp( strs.join('|') ); 
+
+// test is a word in strs - case insensitive.
+// let strsRx_equals = new RegExp( '^(' + strs.join('|') + ')$', ""i"" );
+
+let text = 'text';
+let found = strsRx.test( text );",1,1757603900.0,https://reddit.com/r/javascript/comments/1ne2is4/askjs_check_text_against_a_list_of_strings/ndncytp/,False,0,0,,False,2025-09-11T20:25:05.266447+00:00,javascript
+ndnh7qb,1ne2is4,1ne2is4,Massive-Air3891,call my crazy but wouldn't this be a better question for stack?,1,1757605153.0,https://reddit.com/r/javascript/comments/1ne2is4/askjs_check_text_against_a_list_of_strings/ndnh7qb/,False,0,0,,False,2025-09-11T20:25:05.266459+00:00,javascript
+ndnxuml,1ne2is4,1ne2is4,dmackerman,"Unless you're dealing with millions of strings and millions of input characters, checking every 500ms, efficiency is not going to matter. This is a basic lookup.",1,1757609990.0,https://reddit.com/r/javascript/comments/1ne2is4/askjs_check_text_against_a_list_of_strings/ndnxuml/,False,0,0,,False,2025-09-11T20:25:05.266471+00:00,javascript
+ndln4cx,1ne2is4,1ne2is4,TripleS941,How big is the array? How big is your text? How often the text changes? How often do you need to check? What are your other constraints? What assumptions can you make about the strings and the text? Are they in a particular language? Can they be in a mix of a languages all over the world? Are they completely random? Can you change their representation? Can you use any data structures/libraries/APIs/databases you wish?,1,1757579149.0,https://reddit.com/r/javascript/comments/1ne2is4/askjs_check_text_against_a_list_of_strings/ndln4cx/,False,0,0,,False,2025-09-11T20:25:05.266483+00:00,javascript
+ndmu3bh,1ne2is4,1ne2is4,kaszeba,"Oh yeah, worrying about ""most efficient way"" in 2025 :P",1,1757598216.0,https://reddit.com/r/javascript/comments/1ne2is4/askjs_check_text_against_a_list_of_strings/ndmu3bh/,False,0,0,,False,2025-09-11T20:25:05.266495+00:00,javascript
+ndmdvke,1ne2is4,ndllnsd,kilkil,"This is the correct answer. Even though purely from a time complexity standpoint using a Set would be better, in practice using arrays will be faster until the array has on the order of thousands of items.",1,1757592639.0,https://reddit.com/r/javascript/comments/1ne2is4/askjs_check_text_against_a_list_of_strings/ndmdvke/,False,1,0,,False,2025-09-11T20:25:05.266514+00:00,javascript
+ndliu9g,1ne2is4,ndli8jr,CompetitiveBee238,.includes(array)?,1,1757576585.0,https://reddit.com/r/javascript/comments/1ne2is4/askjs_check_text_against_a_list_of_strings/ndliu9g/,True,1,0,,False,2025-09-11T20:25:05.266528+00:00,javascript
+ndnq9ki,1ne2is4,ndncytp,maximumdownvote,"Just exploring options in this vein:
+
+it makes no functional or performance difference, but you can use character classes instead of chaining | (OR)
+
+`let regexpattern = ""["" + strs.join() + ""]""`
+
+It makes a slight difference in readability if you are not constructing the reg ex dynamically,  which you might have to do in this case if your array of characters changes, but then why const. 
+
+`/[abcdef]/ vs /a|b|c|d|e|f/`
+
+Also character classes wont help you if your character array is actually a string array. That wont work right. 
+
+`const strs = [ 'match this', 'b', 'c' ]`
+
+`// yields false results when you feed the regexpattern to RegEx and test it..`   
+`regexpattern = ""["" + strs.join() + ""]""`",1,1757607812.0,https://reddit.com/r/javascript/comments/1ne2is4/askjs_check_text_against_a_list_of_strings/ndnq9ki/,False,1,0,,False,2025-09-11T20:25:05.266553+00:00,javascript
+ndoe5sr,1ne2is4,ndmdvke,andlrc,How would you use a `Set` to find out if a set of strings is a substring of another string?,1,1757614496.0,https://reddit.com/r/javascript/comments/1ne2is4/askjs_check_text_against_a_list_of_strings/ndoe5sr/,False,2,0,,False,2025-09-11T20:25:05.266601+00:00,javascript
+ndliwjz,1ne2is4,ndliu9g,stigawe,[].includes(“your string”),1,1757576624.0,https://reddit.com/r/javascript/comments/1ne2is4/askjs_check_text_against_a_list_of_strings/ndliwjz/,False,2,0,,False,2025-09-11T20:25:05.266641+00:00,javascript
+ndlja52,1ne2is4,ndliwjz,CompetitiveBee238,"check if text that is changing contains any of the strings from the array: let text = 'text'; const strs = ['a', 'b', 'c', ...]; // strings are constant not changing",1,1757576849.0,https://reddit.com/r/javascript/comments/1ne2is4/askjs_check_text_against_a_list_of_strings/ndlja52/,True,3,0,,False,2025-09-11T20:25:05.266652+00:00,javascript
+ndfbl6c,1nd9rsf,1nd9rsf,TorbenKoehn,"Astro and Payload probably have the best developer experience.
+
+But you can use WordPress as just an API and use a JS-based frontend through SSG (ie NextJS). In that case, WordPress is called a ""headless"" CMS, since its own frontend isn't used (except for maybe the admin panel)
+
+Vercel has a documentation about it [here](https://vercel.com/guides/wordpress-with-vercel) but you can find a lot about it.
+
+If you're used to WordPress, it might be the best choice for you.",6,1757501869.0,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/ndfbl6c/,False,0,0,,False,2025-09-11T20:25:07.770819+00:00,javascript
+ndf7szw,1nd9rsf,1nd9rsf,jml26,"My personal favourite is [Astro](https://astro.build/). Not strictly speaking a CMS in and of itself, but is great for blogging, among other things.
+
+Favourite CMS at the moment is [Payload](https://payloadcms.com/). 
+I'm currently looking at moving a client from WordPress over to it. It's built on Next JS.",9,1757500019.0,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/ndf7szw/,False,0,0,,False,2025-09-11T20:25:07.770860+00:00,javascript
+ndf7f8y,1nd9rsf,1nd9rsf,hustlingfounder,Ghost is really good.,3,1757499821.0,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/ndf7f8y/,False,0,0,,False,2025-09-11T20:25:07.770873+00:00,javascript
+ndgdfui,1nd9rsf,1nd9rsf,rothnic,"I've been through a long selection process for work so am familiar with a lot of the pros/cons fairly recently. If you don't have lots of records, it is an easier problem. For example, sanity is pretty awesome in how it has a lot of configurability as a developer and can be cheap for a reasonable number of records. I hate feeling like something won't scale with me though.
+
+My list to consider, wanting something open source, self hostable, scalable, and flexible would be:
+
+* Strapi
+* Directus
+* Payload
+
+The one downside we ran into with directus, which I absolutely love and is super capable is that the page builder functionality seems to only work with vue, from what I could tell.
+
+Strapi has continued to make progress and think it looks like a great option now. Payload looks interesting, but haven't been able to play with it much.",3,1757514946.0,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/ndgdfui/,False,0,0,,False,2025-09-11T20:25:07.770884+00:00,javascript
+ndfl8sh,1nd9rsf,1nd9rsf,NietzcheKnows,"I have used Statamic, Strapi, and Sanity. After working with WordPress for over a decade, I found the developer experience to be better for all three of these.",1,1757505883.0,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/ndfl8sh/,False,0,0,,False,2025-09-11T20:25:07.770895+00:00,javascript
+ndg383t,1nd9rsf,1nd9rsf,Silent-Flare,"For a JS-based blog CMS, Sanity, Ghost, or Strapi are great choices—Sanity is flexible and works best choice with Next.js.",1,1757511942.0,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/ndg383t/,False,0,0,,False,2025-09-11T20:25:07.770905+00:00,javascript
+ndihlj8,1nd9rsf,1nd9rsf,purechi,"IDK how Directus hasn't absolutely gone to-the-moon yet. It's the best CMS I've ever used.
+
+It's extremely flexible and feature rich.
+
+The admin dashboard is completely written in Vue but they have Node.js SDK which allows you to interface with the APIs seamlessly via a JS/TS focused implementation.",1,1757536134.0,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/ndihlj8/,False,0,0,,False,2025-09-11T20:25:07.770916+00:00,javascript
+ndfjc6r,1nd9rsf,ndfbl6c,OnceUponAHeart,Thank you I'll check this out too,1,1757505148.0,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/ndfjc6r/,True,1,0,,False,2025-09-11T20:25:07.770950+00:00,javascript
+ndggtdl,1nd9rsf,ndf7szw,solar_powered_wind,"I'm a little confused how Astro acts like a CMS, isn't it basically a static site generator like hugo or 11ty? Don't you still have to create markdown files or is there some plugin that enables CMS like behavior?",1,1757515902.0,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/ndggtdl/,False,1,0,,False,2025-09-11T20:25:07.770964+00:00,javascript
+ndfdmi2,1nd9rsf,ndf7f8y,OnceUponAHeart,Is it free,1,1757502777.0,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/ndfdmi2/,True,1,0,,False,2025-09-11T20:25:07.770978+00:00,javascript
+ndjfty1,1nd9rsf,ndgdfui,haltmich,"Directus works pretty well with any framework as a headless CMS. Just built a SolidStart+Directus app and the dev/user experience is so, so good.",1,1757545943.0,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/ndjfty1/,False,1,0,,False,2025-09-11T20:25:07.770991+00:00,javascript
+ndjfyn2,1nd9rsf,ndihlj8,haltmich,"No idea, I think the only downside is how they kinda force you onto using a docker container and almost everything is done in a no-code way. But damn, best experience I've ever had building any CMS.
+
+Since I usually containerise everything anyway I found the dev experience of Directus super smooth.",1,1757545985.0,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/ndjfyn2/,False,1,0,,False,2025-09-11T20:25:07.771004+00:00,javascript
+ndfny5s,1nd9rsf,ndfjc6r,reddit_ronin,Next + WP works great.,1,1757506889.0,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/ndfny5s/,False,2,0,,False,2025-09-11T20:25:07.771017+00:00,javascript
+ndgm1y2,1nd9rsf,ndggtdl,EvilPencil,"That’s why he said it’s not a true CMS.  
+
+When you think about how blogs are authored though, they are generally not changed once written, so the SSG concept fits well with a git based workflow.",2,1757517384.0,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/ndgm1y2/,False,2,0,,False,2025-09-11T20:25:07.771029+00:00,javascript
+ndfhpel,1nd9rsf,ndfdmi2,endymion1818-1819,"They have a hosted version which I think has a monthly fee. Or you could host it yourself you just need to find a way to host it that doesn’t charge. That might get tricky.
+
+If it’s just you that’s using the CMS you might try running something (even WP) locally then compiling it as a static site and pushing that to Cloudflare or Netlify. 
+
+There used to be a free plan on hosting platforms like Heroku but that ended with the economic crisis.",1,1757504501.0,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/ndfhpel/,False,2,0,,False,2025-09-11T20:25:07.771042+00:00,javascript
+ndjp63z,1nd9rsf,ndjfty1,rothnic,"Oh I know it works fine as a headless setup. I'm talking about the modular page builder functionality. Everything I saw in the docs was vue based, iirc.",1,1757548991.0,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/ndjp63z/,False,2,0,,False,2025-09-11T20:25:07.771053+00:00,javascript
+ndgxcoa,1nd9rsf,ndgm1y2,solar_powered_wind,"That makes sense, thanks for the explanation.",1,1757520560.0,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/ndgxcoa/,False,3,0,,False,2025-09-11T20:25:07.771066+00:00,javascript
+ndknvvf,1ndkxr9,1ndkxr9,_bren_,Why do you still have asyncHandlers in an Express 5 app? Is this a mistake?,1,1757561390.0,https://reddit.com/r/javascript/comments/1ndkxr9/how_to_set_up_express_5_in_2025/ndknvvf/,False,0,0,,True,2025-09-11T20:25:10.271738+00:00,javascript
+ndktsn5,1ndkxr9,1ndkxr9,enselmis,"Not biome? For anything frontend-y I wouldn’t use it, but for straight express it’d be my choice.",1,1757563861.0,https://reddit.com/r/javascript/comments/1ndkxr9/how_to_set_up_express_5_in_2025/ndktsn5/,False,0,0,,False,2025-09-11T20:25:10.271859+00:00,javascript
+ndhj924,1ndkxr9,1ndkxr9,brianjenkins94,"Actually a really thorough guide, I was pleasantly surprised.",4,1757526704.0,https://reddit.com/r/javascript/comments/1ndkxr9/how_to_set_up_express_5_in_2025/ndhj924/,False,0,0,,False,2025-09-11T20:25:10.271874+00:00,javascript
+ndkcdkx,1ndkxr9,1ndkxr9,pigbearpig,"Nice job. I too am impressed. So many of these guides are half-baked click bait, but this was well-written, thorough and would be really helpful.  I mainly have been using Express 4, JS, with Mocha or Jest.  I think I'll give this stack a go for the next express api I need.",1,1757557074.0,https://reddit.com/r/javascript/comments/1ndkxr9/how_to_set_up_express_5_in_2025/ndkcdkx/,False,0,0,,False,2025-09-11T20:25:10.271886+00:00,javascript
+ndkhbox,1ndkxr9,1ndkxr9,lordxeon,"This is a really, really well thought out and written guide. 
+
+One thing I would say to add is something about adding telemetry to it. Now that could be covered via logging and parsing that with Loki, but it’s not the same. 
+
+Metrics & telemetry and being able to trace a route from user interaction on the front end through express and to the DB query is the next level that production systems want and use.",1,1757558865.0,https://reddit.com/r/javascript/comments/1ndkxr9/how_to_set_up_express_5_in_2025/ndkhbox/,False,0,0,,False,2025-09-11T20:25:10.271898+00:00,javascript
+ndlnyuh,1ndkxr9,ndknvvf,jancodes,"I think it's cleaner, which is explicitly why I included it.",1,1757579667.0,https://reddit.com/r/javascript/comments/1ndkxr9/how_to_set_up_express_5_in_2025/ndlnyuh/,True,1,0,,False,2025-09-11T20:25:10.271915+00:00,javascript
+ndlnzv9,1ndkxr9,ndktsn5,jancodes,"I actually haven't tried it yet, I'm familiar with ESLint.",1,1757579685.0,https://reddit.com/r/javascript/comments/1ndkxr9/how_to_set_up_express_5_in_2025/ndlnzv9/,True,1,0,,False,2025-09-11T20:25:10.271930+00:00,javascript
+ndlnuid,1ndkxr9,ndhj924,jancodes,Thank you for the kind words! 🙏,1,1757579593.0,https://reddit.com/r/javascript/comments/1ndkxr9/how_to_set_up_express_5_in_2025/ndlnuid/,True,1,0,,False,2025-09-11T20:25:10.271942+00:00,javascript
+ndlnw2v,1ndkxr9,ndkcdkx,jancodes,Thank you for the kind words! Give it a shot 👍,1,1757579620.0,https://reddit.com/r/javascript/comments/1ndkxr9/how_to_set_up_express_5_in_2025/ndlnw2v/,True,1,0,,False,2025-09-11T20:25:10.271955+00:00,javascript
+ndlnxwp,1ndkxr9,ndkhbox,jancodes,"Absolutely. It was already getting quite long, but you could replace the Morgan setup with Sentry or something similar.",1,1757579652.0,https://reddit.com/r/javascript/comments/1ndkxr9/how_to_set_up_express_5_in_2025/ndlnxwp/,True,1,0,,False,2025-09-11T20:25:10.271977+00:00,javascript
+ndocwjy,1ndkxr9,ndlnyuh,AndrewGreenh,"It’s cleaner to use an additional, completely useless function with very hard to read types? :D
+
+https://expressjs.com/en/guide/error-handling.html
+
+Express can automatically handle errors thrown in synchronous code and rejected promises. So exactly the same as your try catch wrapper.",1,1757614141.0,https://reddit.com/r/javascript/comments/1ndkxr9/how_to_set_up_express_5_in_2025/ndocwjy/,False,2,0,,False,2025-09-11T20:25:10.272000+00:00,javascript
+ndgl0qy,1ndg83w,1ndg83w,Ronin-s_Spirit,"Not only is it the usual shitty TTS you may have heard on Discord (a capital crime in my worldview), but it also has a heavy russian accent, why?        
+If it's a recording then you might as well record meaningful phrases and use the Audio API instead of TSS.",3,1757517090.0,https://reddit.com/r/javascript/comments/1ndg83w/make_your_website_talk_with_the_javascript_web/ndgl0qy/,False,0,0,,False,2025-09-11T20:25:15.253638+00:00,javascript
+ndmyq0q,1ndg83w,ndgl0qy,AndyMagill,"I set a preference for UK English, which might be the the accent you are detecting. Quality depends on your device, and a few other factors. I could envision a build step that generates actual recordings with high quality voice synthesis but that seems like a very different thing than I set out to build.",1,1757599656.0,https://reddit.com/r/javascript/comments/1ndg83w/make_your_website_talk_with_the_javascript_web/ndmyq0q/,True,1,0,,False,2025-09-11T20:25:15.253692+00:00,javascript

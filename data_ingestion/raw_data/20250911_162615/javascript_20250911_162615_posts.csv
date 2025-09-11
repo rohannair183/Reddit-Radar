@@ -1,0 +1,323 @@
+id,title,selftext,subreddit,author,score,upvote_ratio,num_comments,created_utc,url,permalink,link_flair_text,is_self,over_18,spoiler,stickied,locked,distinguished,retrieved_at,comments_collected,top_comment_score,avg_comment_score
+1n9syis,"Showoff Saturday (September 06, 2025)","Did you find or create something cool this week in javascript?       
+
+Show us here!",javascript,AutoModerator,8,1.0,7,1757142032.0,https://www.reddit.com/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/,https://reddit.com/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/,Showoff Saturday,True,False,False,True,False,,2025-09-11T20:24:50.982641+00:00,7,3.0,1.2857142857142858
+1nbiroz,"Your /r/javascript recap for the week of September 01 - September 07, 2025","**Monday, September 01 - Sunday, September 07, 2025**
+
+###Top Posts
+
+| score | comments | title & link |
+|--|--|--|
+| 92  | [126 comments](/r/javascript/comments/1n6bnrl/askjs_whats_a_small_coding_tip_that_saved_you/)  | `[AskJS]` &#91;AskJS&#93; What’s a small coding tip that saved you HOURS?|
+| 15  | [7 comments](/r/javascript/comments/1n83l78/i_built_usaljs_a_9kb_scroll_animation_library/)  | [I built USAL.js - a 9KB scroll animation library with text effects and framework support for React, Vue, Svelte, Angular + Web Components](https://github.com/italoalmeida0/usal)|
+| 14  | [2 comments](/r/javascript/comments/1n6sgli/open_source_rule_engine/)  | [Open Source Rule Engine](https://github.com/ali-master/rule-engine)|
+| 11  | [16 comments](/r/javascript/comments/1n9o2c7/askjs_is_adding_methods_to_elements_a_good_idea/)  | `[AskJS]` &#91;AskJS&#93; Is adding methods to elements a good idea?|
+| 9  | [3 comments](/r/javascript/comments/1n8dmd7/i_built_nocojs_a_built_time_library_to_create/)  | [I built nocojs - a built time library to create inline placeholder for images](https://github.com/akzhy/nocojs)|
+| 8  | [0 comments](/r/javascript/comments/1navf6o/github_beep8beep8sdk_sdk_for_developing_games_and/)  | [GitHub - beep8/beep8-sdk: SDK for developing games and tools for the BEEP-8 fantasy console.](https://github.com/beep8/beep8-sdk)|
+| 7  | [2 comments](/r/javascript/comments/1n8ukb3/mermaid_editorrenderer/)  | [Mermaid Editor/Renderer](https://mermaid-editor.online)|
+| 6  | [42 comments](/r/javascript/comments/1n85kdg/askjs_node_vs_deno_vs_bun_what_are_you_actually/)  | `[AskJS]` &#91;AskJS&#93; Node vs Deno vs Bun , what are you actually using in 2025?|
+| 5  | [3 comments](/r/javascript/comments/1nah91d/askjs_connecting_backend_with_primavera_p6/)  | `[AskJS]` &#91;AskJS&#93; connecting backend with Primavera P6|
+| 5  | [0 comments](/r/javascript/comments/1n96ofx/made_a_vscode_extension_to_clean_up_messy_fetch/)  | [Made a VSCode extension to clean up messy fetch requests from DevTools](https://www.reddit.com/r/webdev/comments/1n953ze/made_a_vscode_extension_to_clean_up_messy_fetch/)|
+
+
+&nbsp;
+
+###Most Commented Posts
+
+| score | comments | title & link |
+|--|--|--|
+| 2  | [49 comments](/r/javascript/comments/1n6fn3v/askjs_can_i_learn_oop_with_javascript/)  | `[AskJS]` &#91;AskJS&#93; Can I learn OOP with JavaScript?|
+| 0  | [17 comments](/r/javascript/comments/1n6j0fx/finally_added_service_workers_to_my_app_it_loads/)  | [Finally added service workers to my app, it loads instantly!](https://qching.ai/)|
+| 0  | [14 comments](/r/javascript/comments/1n92pxn/askjs_is_webstorm_still_the_better_ide_for_modern/)  | `[AskJS]` &#91;AskJS&#93; Is WebStorm still the better IDE for modern JavaScript/TypeScript dev vs VS Code?|
+| 0  | [13 comments](/r/javascript/comments/1n7btmm/is_javascripts_bigint_broken/)  | [Is JavaScript's BigInt broken?](https://waspdev.com/articles/2025-08-16/is-js-bigint-broken)|
+| 2  | [9 comments](/r/javascript/comments/1n6shqq/github_alimasterpingu_a_modern_ping_utility_with/)  | [GitHub - ali-master/pingu: A modern ping utility with beautiful CLI output](https://github.com/ali-master/pingu)|
+
+
+&nbsp;
+
+###Top Ask JS
+
+| score | comments | title & link |
+|--|--|--|
+| 1  | [5 comments](/r/javascript/comments/1n928po/askjs_multiple_videos_managed_in_electron_will_it/)  | `[AskJS]` &#91;AskJS&#93; Multiple videos managed in electron, will it work?|
+| 0  | [0 comments](/r/javascript/comments/1n86px0/askjs_planning_to_build_a_backend_framework_for/)  | `[AskJS]` &#91;AskJS&#93; Planning to build a Backend Framework for Node-JS|
+| 0  | [2 comments](/r/javascript/comments/1n7y2vq/askjs_is_it_possible_to_deobfuscate_jsc_bytenode/)  | `[AskJS]` &#91;AskJS&#93;  is it possible to deobfuscate .jsc bytenode code|
+
+
+&nbsp;
+
+###Top Showoffs
+
+| score  |  comment  |
+|--|--|
+| 3  |  /u/bigsido said [I made a huge update of my personal website in PixiJS :   &#91;https://www.sido.fr/&#93;&#40;https://www.sido.fr/&#41;](/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/ncqp6n2/?context=5) |
+| 1  |  /u/ratudev said [10 years, countless Node.js scripts - shortcuts, tips, and practical lessons packed into one juicy article:     \-  &#91;https://ratu.dev/blog/mastering-nodejs-scripting&#93;&#40;https://ratu.dev/blog...](/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/ncwxns1/?context=5) |
+| 1  |  /u/MagnussenXD said [This subreddit itself is cool!     anyway if you are into building static websites, check this cors proxy &#91;https://github.com/corsfix/corsfix&#93;&#40;https://github.com/corsfix/corsfix&#41;](/r/javascript/comments/1n9syis/showoff_saturday_september_06_2025/ncqwplo/?context=5) |
+
+
+&nbsp;
+
+###Top Comments
+
+| score  |  comment  |
+|--|--|
+| 137  |  /u/mediumdeviation said [For front end only, &#96;setTimeout&#40;&#40;&#41; => { debugger }, 1000&#41;&#96; is an easy way to freeze the UI in a specific state when you need to inspect elements / styles. You have one second t...](/r/javascript/comments/1n6bnrl/askjs_whats_a_small_coding_tip_that_saved_you/nbz0lkf/?context=5) |
+| 67  |  /u/kmarple1 said [Other programmers are terrible. Putting branch protections on your main branch and enforcing that linting, unit tests, a build, etc. must pass before merging PRs will save you hours fixing their shitt...](/r/javascript/comments/1n6bnrl/askjs_whats_a_small_coding_tip_that_saved_you/nbz2qln/?context=5) |
+| 66  |  /u/stathis21098 said [Node](/r/javascript/comments/1n85kdg/askjs_node_vs_deno_vs_bun_what_are_you_actually/nccevq0/?context=5) |
+| 66  |  /u/manniL said [Learn your IDE shortcuts, srsly!](/r/javascript/comments/1n6bnrl/askjs_whats_a_small_coding_tip_that_saved_you/nbyxxn5/?context=5) |
+| 39  |  /u/Budget-Emergency-508 said [To debug css layouts just do *{outline:1px sold red}.](/r/javascript/comments/1n6bnrl/askjs_whats_a_small_coding_tip_that_saved_you/nbz72ln/?context=5) |
+
+
+&nbsp;",javascript,subredditsummarybot,22,1.0,3,1757322364.0,https://www.reddit.com/r/javascript/comments/1nbiroz/your_rjavascript_recap_for_the_week_of_september/,https://reddit.com/r/javascript/comments/1nbiroz/your_rjavascript_recap_for_the_week_of_september/,Subreddit Stats,True,False,False,True,False,,2025-09-11T20:24:53.492725+00:00,2,1.0,1.0
+1nefcw8,"We forked styled-components because it never implemented React 18's performance APIs. 40% faster for Linear, zero code changes needed.","## TL;DR
+styled-components entered maintenance mode. We forked it with React 18/19 optimizations. 
+
+Linear got 40% faster initial renders. Drop-in replacement, no code changes needed.
+
+GitHub: https://github.com/sanity-io/styled-components-last-resort
+
+## The Context
+
+styled-components maintainer announced maintenance mode earlier this year and recommended not using it for new projects. Respect - maintaining 34k stars for free is brutal.
+
+But millions of components exist in production. They can't just disappear.
+
+## What We Did
+
+We had PR #4332 sitting since July 2024 with React 18 optimizations. With maintenance mode, we turned it into a community fork. Key fixes:
+
+- React 18's useInsertionEffect
+- React 19 streaming SSR support  
+- Modern JS output instead of ES5
+- Native array operations
+
+## Results
+
+Linear tested it: 40% faster initial renders, zero code changes.
+
+## How to Use
+```npm install u/sanity/styled-components@npm:styled-components```
+
+Or for React 19:
+```npm install u/sanity/css-in-js@npm:styled-components```
+
+## Important
+
+We're not the new maintainers. We're literally migrating away ourselves. This is explicitly temporary - a performance bridge while you migrate.
+
+Full story
+https://www.sanity.io/blog/cut-styled-components-into-pieces-this-is-our-last-resort",javascript,knutmelvaer,23,0.77,10,1757612594.0,https://github.com/sanity-io/styled-components-last-resort,https://reddit.com/r/javascript/comments/1nefcw8/we_forked_styledcomponents_because_it_never/,,False,False,False,False,False,,2025-09-11T20:24:56.000096+00:00,9,1.0,1.0
+1ndx424,Preventing the npm Debug/Chalk Compromise in 200 lines of Javascript,,javascript,jayk806,6,0.61,25,1757557212.0,https://getvouchsafe.org/blog/2025-09-10.html,https://reddit.com/r/javascript/comments/1ndx424/preventing_the_npm_debugchalk_compromise_in_200/,,False,False,False,False,False,,2025-09-11T20:24:58.507159+00:00,23,1.0,1.0
+1ne8xuj,AI-Rulez v2: One Config to Rule All Your TypeScript AI Tools,"## The Problem
+
+If you're using multiple AI coding assistants (Claude Code, Cursor, Windsurf, GitHub Copilot, OpenCode), you've probably noticed the configuration fragmentation. Each tool demands its own format - `CLAUDE.md`, `.cursorrules`, `.windsurfrules`, `.github/copilot-instructions.md`, `AGENTS.md`. Keeping coding standards consistent across all these tools is frustrating and error-prone.
+
+## The Solution
+
+AI-Rulez lets you write your project configuration once and automatically generates native files for every AI tool - current and future ones. It's like having a build system for AI context.
+
+## Why This Matters for TypeScript Teams
+
+Development teams face common challenges:
+
+- **Multiple tools, multiple configs**: Your team uses Claude Code for reviews, Cursor for development, Copilot for completions
+- **TypeScript-specific standards**: Type safety, testing patterns, dependency management
+- **Monorepo complexity**: Multiple services and packages all need different AI contexts  
+- **Team consistency**: Junior devs get different AI guidance than seniors
+
+AI-Rulez solves this with a single `ai-rulez.yaml` that understands your project's conventions.
+
+## AI-Powered Multi-Agent Configuration Generation
+
+The `init` command is where AI-Rulez shines. Instead of manually writing configurations, **multiple specialized AI agents analyze your codebase** and collaborate to generate comprehensive instructions:
+
+```bash
+# Multiple AI agents analyze your codebase and generate rich config
+npx ai-rulez init ""My TypeScript Project"" --preset popular --use-agent claude --yes
+```
+
+This automatically:
+
+- **Codebase Analysis Agent**: Detects your tech stack (React/Vue/Angular, testing frameworks, build tools)
+- **Patterns Agent**: Identifies project conventions and architectural patterns
+- **Standards Agent**: Generates appropriate coding standards and best practices
+- **Specialization Agent**: Creates domain-specific agents for different tasks (code review, testing, documentation)
+- **Security Agent**: Automatically adds all generated AI files to `.gitignore`
+
+The result is extensive, rich AI assistant instructions tailored specifically to your TypeScript project.
+
+## Universal Output Generation
+
+One YAML config generates files for every tool:
+
+```yaml
+# ai-rulez.yaml
+metadata:
+  name: ""TypeScript API Service""
+
+presets:
+  - ""popular""  # Auto-configures Claude, Cursor, Windsurf, Copilot, Gemini
+
+rules:
+  - name: ""TypeScript Standards""
+    priority: critical
+    content: |
+      - Strict TypeScript 5.0+ with noImplicitAny
+      - Use const assertions and readonly types
+      - Prefer type over interface for unions
+      - ESLint with @typescript-eslint/strict rules
+
+  - name: ""Testing Requirements""
+    priority: high
+    content: |
+      - Vitest for unit tests with TypeScript support
+      - Playwright for E2E testing
+      - 90%+ coverage for new code
+      - Mock external dependencies properly
+
+agents:
+  - name: ""typescript-expert""
+    description: ""TypeScript specialist for type safety and performance""
+    system_prompt: ""Focus on advanced TypeScript patterns, performance optimization, and maintainable code architecture""
+```
+
+Run `npx ai-rulez generate` and get:
+
+- `CLAUDE.md` for Claude Code
+- `.cursorrules` for Cursor  
+- `.windsurfrules` for Windsurf
+- `.github/copilot-instructions.md` for GitHub Copilot
+- `AGENTS.md` for OpenCode
+- Custom formats for any future AI tool
+
+## Advanced Features
+
+**MCP Server Integration**: Direct integration with AI tools:
+
+```bash
+# Start built-in MCP server with 19 configuration management tools
+npx ai-rulez mcp
+```
+
+**CLI Management**: Update configs without editing YAML:
+
+```bash
+# Add React-specific rules
+npx ai-rulez add rule ""React Standards"" --priority high --content ""Use functional components with hooks, prefer composition over inheritance""
+
+# Create specialized agents  
+npx ai-rulez add agent ""react-expert"" --description ""React specialist for component architecture and state management""
+```
+
+**Team Collaboration**:
+- Remote config includes: `includes: [""https://github.com/myorg/typescript-standards.yaml""]`
+- Local overrides via `.local.yaml` files
+- Monorepo support with `--recursive` flag
+
+## Real-World TypeScript Example
+
+Here's how a Next.js + tRPC project benefits:
+
+```yaml
+# ai-rulez.yaml
+extends: ""https://github.com/myorg/typescript-base.yaml""
+
+sections:
+  - name: ""Stack""
+    content: |
+      - Next.js 14 with App Router
+      - tRPC for type-safe APIs
+      - Prisma ORM with PostgreSQL
+      - TailwindCSS for styling
+
+agents:
+  - name: ""nextjs-expert""
+    system_prompt: ""Next.js specialist focusing on App Router, SSR/SSG optimization, and performance""
+  
+  - name: ""api-reviewer""
+    system_prompt: ""tRPC/API expert for type-safe backend development and database optimization""
+```
+
+This generates tailored configurations ensuring consistent guidance whether you're working on React components or tRPC procedures.
+
+## Installation & Usage
+
+```bash
+# Install globally
+npm install -g ai-rulez
+
+# Or run without installing
+npx ai-rulez init ""My TypeScript Project"" --preset popular --yes
+
+# Generate configuration files
+ai-rulez generate
+
+# Add to package.json scripts
+{
+  ""scripts"": {
+    ""ai:generate"": ""ai-rulez generate"",
+    ""ai:validate"": ""ai-rulez validate""
+  }
+}
+```
+
+## Why AI-Rulez vs Alternatives
+
+**vs Manual Management**: No more maintaining separate config files that drift apart
+
+**vs Basic Tools**: AI-powered multi-agent analysis generates rich, contextual instructions rather than simple templates
+
+**vs Tool-Specific Solutions**: Future-proof approach works with new AI tools automatically
+
+## Enterprise Features
+
+- **Security**: SSRF protection, schema validation, audit trails
+- **Performance**: Go-based with instant startup for large TypeScript monorepos  
+- **Team Management**: Centralized configuration with local overrides
+- **CI/CD Integration**: Pre-commit hooks and automated validation
+
+AI-Rulez has evolved significantly since v1.0, adding multi-agent AI-powered initialization, comprehensive MCP integration, and enterprise-grade features. Teams managing large TypeScript codebases use it to ensure consistent AI assistant behavior across their entire development workflow.
+
+The multi-agent `init` command is particularly powerful - instead of generic templates, you get rich, project-specific AI instructions generated by specialized agents analyzing your actual codebase.
+
+**Documentation**: https://goldziher.github.io/ai-rulez/  
+**GitHub**: https://github.com/Goldziher/ai-rulez
+
+If this sounds useful for your TypeScript projects, check out the repository and consider giving it a star!",javascript,Goldziher,0,0.2,0,1757597576.0,https://github.com/Goldziher/ai-rulez,https://reddit.com/r/javascript/comments/1ne8xuj/airulez_v2_one_config_to_rule_all_your_typescript/,,False,False,False,False,False,,2025-09-11T20:25:01.042551+00:00,0,,
+1ne2is4,[AskJS] Check text against a list of strings,"I have a big array of strings which I need to check against a text that is changing in a loop. What is the most efficient way to do this? I want to know if text contains any of the strings.
+
+```
+const strs = ['a', 'b', 'c'];
+let text = 'text';
+```",javascript,CompetitiveBee238,0,0.33,16,1757576010.0,https://www.reddit.com/r/javascript/comments/1ne2is4/askjs_check_text_against_a_list_of_strings/,https://reddit.com/r/javascript/comments/1ne2is4/askjs_check_text_against_a_list_of_strings/,AskJS,True,False,False,False,False,,2025-09-11T20:25:03.548410+00:00,15,1.0,1.0
+1nd9rsf,[AskJS] What is a good blogging CMS js-based?,"Im learning js, but I've been blogging on WP, which is PHP based.
+
+I think it would be more beneficial for me to use a Javascript cms so that I can use what im continuing to learn.
+
+Does anyone know of a good CMS?",javascript,OnceUponAHeart,5,0.73,18,1757497501.0,https://www.reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/,https://reddit.com/r/javascript/comments/1nd9rsf/askjs_what_is_a_good_blogging_cms_jsbased/,AskJS,True,False,False,False,False,,2025-09-11T20:25:06.054876+00:00,17,9.0,2.0588235294117645
+1ndkxr9,How To Set Up Express 5 In 2025,"Hi everyone 👋
+
+I just published an article with an accompanying video about setting up Express 5 for production. Hope it helps some of y’all!",javascript,jancodes,0,0.5,11,1757525958.0,https://www.reactsquad.io/blog/how-to-set-up-express-5-in-2025,https://reddit.com/r/javascript/comments/1ndkxr9/how_to_set_up_express_5_in_2025/,,False,False,False,False,False,,2025-09-11T20:25:08.559807+00:00,11,4.0,1.2727272727272727
+1ndjvwr,Open Source Multi-Chat for Twitch + YouTube + TikTok (Node.js Project),"Hey everyone! 👋
+
+I’ve been working on an open-source project that unifies live chat from Twitch, YouTube, and TikTok into a single interface. Perfect for streamers or devs who want to experiment with multi-platform integration.  
+
+✨ Features:
+- 🎮 Twitch | ▶️ YouTube | 🎵 TikTok support
+- ✅ Light/Dark mode
+- ✅ Clean log and message backgrounds for better readability
+- ✅ Automatic quota management for YouTube API (10,000 calls/day)
+
+⚙️ Built with:
+- Node.js (ES6 Modules, no extra config needed)
+- Express
+- Socket.io
+- tmi.js
+- Google APIs
+- TikTok Live Connector
+
+🔗 GitHub Repo (full code + installation guide):
+👉 https://github.com/BuchercheCoder/multi-chat-live
+
+Would love feedback from the community! 🙌",javascript,Bucherche,0,0.33,0,1757523656.0,https://github.com/BuchercheCoder/multi-chat-live,https://reddit.com/r/javascript/comments/1ndjvwr/open_source_multichat_for_twitch_youtube_tiktok/,,False,False,False,False,False,,2025-09-11T20:25:11.066669+00:00,0,,
+1ndg83w,Make Your Website Talk with The JavaScript Web Speech API,"Adding a ""listen"" button with the Web Speech API is a simple way to make my blog more inclusive and engaging. It helps make my content more flexible for everyone, not just the visually impaired. ",javascript,AndyMagill,0,0.5,2,1757515643.0,https://magill.dev/post/make-your-website-talk-with-the-javascript-web-speech-api,https://reddit.com/r/javascript/comments/1ndg83w/make_your_website_talk_with_the_javascript_web/,,False,False,False,False,False,,2025-09-11T20:25:13.577254+00:00,2,3.0,2.0

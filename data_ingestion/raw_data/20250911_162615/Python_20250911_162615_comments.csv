@@ -1,0 +1,231 @@
+id,post_id,parent_id,author,body,score,created_utc,permalink,is_submitter,depth,controversiality,distinguished,edited,retrieved_at,subreddit
+ncwxc1w,1naeqh3,1naeqh3,diegojromerolopez,"Decorator-based instrumentation OpenTelemetry Python package: [https://github.com/diegojromerolopez/otelize](https://github.com/diegojromerolopez/otelize)
+
+Use the `@otelize` decorator in classes or functions to add a span for each function call with the function arguments as span attributes.",2,1757257007.0,https://reddit.com/r/Python/comments/1naeqh3/sunday_daily_thread_whats_everyone_working_on/ncwxc1w/,False,0,0,,False,2025-09-11T20:25:18.295591+00:00,Python
+nd0t11h,1naeqh3,1naeqh3,AlSweigart,"I've created [ButtonPad](https://pypi.org/project/ButtonPad/), a simple, intentionally-limited Python GUI toolkit for creating a grid of buttons, labels, and text boxes. [The source is on GitHub.](https://github.com/asweigart/buttonpad/) It's built on top of tkinter, so it is lightweight and doesn't need additional GUI packages. Widget layout is done with a single comma-separated multiline string. It simplifies menubar creation and uses [PyMsgBox](https://pypi.org/project/PyMsgBox/) for JavaScript-like dialog boxes (with `alert()`, `confirm()`, `prompt()`, and `password()` functions). You can set on_click, on_enter, and on_exit callback functions as well as tool tips. The ButtonPad window supports a status bar. You can set foreground and background color, button size, spacing, and font face/size. Other than that, it's strictly for simple GUI app creation. Still, I've made a surprising variety of simple apps with it which can all be run from the launcher program: `python -m buttonpad`",2,1757300354.0,https://reddit.com/r/Python/comments/1naeqh3/sunday_daily_thread_whats_everyone_working_on/nd0t11h/,False,0,0,,False,2025-09-11T20:25:18.295656+00:00,Python
+nd1mr0x,1naeqh3,1naeqh3,david-vujic,"One day late, but: I have worked on an update for the python-hiccup library that I maintain. A user request about a missing feature, allowing unescaped content when rendering HTML from Python. 
+
+So I have added the possibility to do that, by adding a “raw” helper function. When using the helper function for inner html content, the rendering functionality will not do any escaping (useful for special chars and strings with svg data).
+
+Repo: https://github.com/DavidVujic/python-hiccup",2,1757314540.0,https://reddit.com/r/Python/comments/1naeqh3/sunday_daily_thread_whats_everyone_working_on/nd1mr0x/,False,0,0,,False,2025-09-11T20:25:18.295676+00:00,Python
+ndjzp0l,1ndua5j,1ndua5j,alykatvandy,"Thinking about transitioning from Access/VBA driven automations to something using Python and Task Scheduler. We mainly move files around, zip and unzip, move data to SQL Server tables, and manipulate data (scrubbing out duplicates, putting values in a routing field based on values in other fields to split the data into multiple files, entering timestamps when the data is loaded into tables and exported out of tables into an xlsx file) within SQL Server tables. Any good resources you'd recommend for getting started, tips from anyone that's doing something similar, or warnings to run away from this plan?",1,1757552632.0,https://reddit.com/r/Python/comments/1ndua5j/thursday_daily_thread_python_careers_courses_and/ndjzp0l/,False,0,0,,False,2025-09-11T20:25:20.793531+00:00,Python
+ndlzr4b,1ne4t1d,1ne4t1d,int_ua,I hope it differs at leastin regard to sensible naming of variables in examples. Because d3 authors used one-letter names which made it much harder to read,11,1757586363.0,https://reddit.com/r/Python/comments/1ne4t1d/detroit_python_implementation_of_d3js/ndlzr4b/,False,0,0,,False,2025-09-11T20:25:23.681347+00:00,Python
+ndm6qat,1ne4t1d,ndlzr4b,bbourbonut,"If you can share an example where there are one-letter names, it might help me better understand in what situations this kind of problem occurs.",3,1757589687.0,https://reddit.com/r/Python/comments/1ne4t1d/detroit_python_implementation_of_d3js/ndm6qat/,True,1,0,,False,2025-09-11T20:25:23.681455+00:00,Python
+ndm11hp,1ne4z4b,1ne4z4b,Zouden,"Interesting, what can this do that nRF Connect can't?",2,1757587011.0,https://reddit.com/r/Python/comments/1ne4z4b/how_to_build_your_own_bluetooth_scriptable/ndm11hp/,False,0,0,,False,2025-09-11T20:25:25.832484+00:00,Python
+ndmq4fl,1ne4z4b,1ne4z4b,DudeWithaTwist,Why use this over a regular Bluetooth USB dongle and the `bleak` Python library? Bleak provides a much more Pythonic interface compared to Serial communication.,1,1757596937.0,https://reddit.com/r/Python/comments/1ne4z4b/how_to_build_your_own_bluetooth_scriptable/ndmq4fl/,False,0,0,,False,2025-09-11T20:25:25.832534+00:00,Python
+ndm1ln4,1ne4z4b,ndm11hp,bleuio,"nRF Connect is great for interactive scanning and debugging, but this BleuIO setup offers a **scriptable option**. You can automate scans, log data, and parse advertising payloads directly with Python or other languages. It’s less about replacing nRF Connect and more about giving you flexibility to **build and extend your own BLE workflows**.",3,1757587289.0,https://reddit.com/r/Python/comments/1ne4z4b/how_to_build_your_own_bluetooth_scriptable/ndm1ln4/,True,1,0,,False,2025-09-11T20:25:25.832556+00:00,Python
+ndmy1pa,1ne4z4b,ndmq4fl,bleuio,"Bleak is great, but this setup **bypasses the OS Bluetooth stack entirely**. It’ll behave the same across platforms/OS, which makes scripting and analysis more consistent.",1,1757599450.0,https://reddit.com/r/Python/comments/1ne4z4b/how_to_build_your_own_bluetooth_scriptable/ndmy1pa/,True,1,0,,False,2025-09-11T20:25:25.832573+00:00,Python
+ndn0uic,1ne4z4b,ndmy1pa,DudeWithaTwist,"I suppose in very specific applications, consistency is important. Looks like you're trying to solve the same problem as Bleak (same behavior across all OSs).",1,1757600303.0,https://reddit.com/r/Python/comments/1ne4z4b/how_to_build_your_own_bluetooth_scriptable/ndn0uic/,False,2,0,,False,2025-09-11T20:25:25.832591+00:00,Python
+ndn6ye4,1ne4z4b,ndn0uic,bleuio,"The main benefit is the **AT commands**. Instead of writing lots of BLE boilerplate, you just send simple commands like `AT+GAPSCAN` or `AT+GAPCONNECT`. It makes development faster, less programming-heavy, and lets you focus more on the logic than the low-level details.",1,1757602124.0,https://reddit.com/r/Python/comments/1ne4z4b/how_to_build_your_own_bluetooth_scriptable/ndn6ye4/,True,3,0,,False,2025-09-11T20:25:25.832605+00:00,Python
+ndjgc37,1ndsuud,1ndsuud,easy_peazy,It’s good for proof of concept apps and dashboarding but it does break down as you need any more advanced features or workflows.,43,1757546103.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndjgc37/,False,0,0,,False,2025-09-11T20:25:30.923102+00:00,Python
+ndjdu7a,1ndsuud,1ndsuud,Beginning-Fruit-1397,"I would suggest you to take a look at marimo, I ditched streamlit for it. Very good tool",19,1757545310.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndjdu7a/,False,0,0,,False,2025-09-11T20:25:30.923154+00:00,Python
+ndms401,1ndsuud,1ndsuud,Gainside,"Streamlit’s a solid gateway drug into web apps with Python. Super fast for dashboards, prototypes, or sharing analysis with non-devs. Just know the trade-offs: it’s amazing for MVPs and internal tools, but you’ll eventually hit walls around auth, scaling, and complex UI",6,1757597579.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndms401/,False,0,0,,False,2025-09-11T20:25:30.923167+00:00,Python
+ndjvof7,1ndsuud,1ndsuud,funerr,"I've been fiddling with reflex dot dev, anyone used it in production?",2,1757551240.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndjvof7/,False,0,0,,False,2025-09-11T20:25:30.923178+00:00,Python
+ndlh5ck,1ndsuud,1ndsuud,xyroglyphe,"I use Streamlit and I made a website for my firm to display some pictures, with a lot of choices between date, parameter, domain, etc. It's not the best framework but to display .jpg files who cares ?",1,1757575586.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndlh5ck/,False,0,0,,False,2025-09-11T20:25:30.923189+00:00,Python
+ndme3jq,1ndsuud,1ndsuud,Kqyxzoj,"streamlit
+
+Shiny
+
+marimo
+
+WTF?
+
+Okay, who ditched marimo, and what for?",1,1757592726.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndme3jq/,False,0,0,,False,2025-09-11T20:25:30.923199+00:00,Python
+ndmjswu,1ndsuud,1ndsuud,Wonderful-Habit-139,What is this trend with AI generated posts where they tell the AI to write everything in lowercase? Trying to be sneaky…,1,1757594812.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndmjswu/,False,0,0,,False,2025-09-11T20:25:30.923212+00:00,Python
+ndnxyo3,1ndsuud,1ndsuud,drm00,There is a book on streamlit coming out soon: https://www.manning.com/books/build-python-web-apps-with-streamlit I use it for dashboards to fetch and visualize data from Jira and it’s very nice for that. For complex web apps I’ve always built my own,1,1757610020.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndnxyo3/,False,0,0,,False,2025-09-11T20:25:30.923222+00:00,Python
+ndnz5q8,1ndsuud,ndjgc37,NostraDavid,"> more advanced features or workflows
+
+Such as? I'm curious what you've run into - we've been writing some Streamlit, and it's been a blast so far, but we only have a select few as customers, so we've never needed to scale up or out :P
+
+edit: I *just* grokked that Streamlit does a full-page re-render whenever a small input changes. Yeah, that won't scale well.",2,1757610364.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndnz5q8/,False,1,0,,True,2025-09-11T20:25:30.923251+00:00,Python
+ndjewi5,1ndsuud,ndjdu7a,Leather_Power_1137,"I ditched streamlit for Shiny, personally. What's good about marimo? Maye I should look into it.
+
+Main reason I ditched streamlit was reactivity - my ""users"" wanted there to be a lot of interactivity in the dashboards and the whole page needing to reload anytime there was any input killed the UX. I gather there are solutions nowadays for this but I prefer to work with a framework where reactivity is baked into the design, rather than being some mysterious thing that the docs and tutorials never cover but that strangers will insist is possible when you complain about it.",12,1757545650.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndjewi5/,False,1,0,,False,2025-09-11T20:25:30.923264+00:00,Python
+ndjf3b3,1ndsuud,ndjdu7a,jpkg1,I will definitely check it out,3,1757545712.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndjf3b3/,True,1,0,,False,2025-09-11T20:25:30.923275+00:00,Python
+ndlzsme,1ndsuud,ndlh5ck,IamNoOneDontAsk,how did you deploy to a server? i want to build an .exe file,2,1757586384.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndlzsme/,False,1,0,,False,2025-09-11T20:25:30.923299+00:00,Python
+ndmjo0h,1ndsuud,ndl172n,Wonderful-Habit-139,Crazy that this is downvoted lol.,3,1757594765.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndmjo0h/,False,1,0,,False,2025-09-11T20:25:30.923310+00:00,Python
+ndngz5l,1ndsuud,ndl172n,NostraDavid,"> need more than a single page for visualization
+
+I *just* wrote a Streamlit app with multiple pages. Look into passing a list of `st.Page` objects into `st.navigation`.
+
+I think it's fine for a low volume of users. And you can do some caching (by time) to reduce computation.",1,1757605082.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndngz5l/,False,1,0,,False,2025-09-11T20:25:30.923324+00:00,Python
+ndlelt6,1ndsuud,ndlciye,NoleMercy05,"Well most people don't have access to those tools nor then need for the complexity.
+
+Also they want to display and directly control the vis directly in their app rather than linked, iframe, embedding another visualization tool. 
+Other reasons too.
+
+Apache Superset is an open alternative to powerbi and Tableau",2,1757574167.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndlelt6/,False,1,0,,True,2025-09-11T20:25:30.923336+00:00,Python
+ndle4wh,1ndsuud,ndlciye,tenfingerperson,"The benefit is the unified ecosystem, do your analysis and do the viz as needed 
+
+The other tools require you to export to a system having an integeration, then build the viz independently of the data, it’s a way more complex workflow and may not be best for most of use cases",1,1757573909.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndle4wh/,False,1,0,,False,2025-09-11T20:25:30.923363+00:00,Python
+ndndld0,1ndsuud,ndlciye,GrainTamale,"Free (internalized cost) vs not free.  
+
+I'm dabbling in Tableau as of recently and it's hundreds of dollars a month (for my needs).",1,1757604087.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndndld0/,False,1,0,,False,2025-09-11T20:25:30.923378+00:00,Python
+ndo7ll8,1ndsuud,ndlciye,easy_peazy,The idea is that data scientists already work in python and can use streamlit to build data apps in a language they already know.,1,1757612700.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndo7ll8/,False,1,0,,False,2025-09-11T20:25:30.923389+00:00,Python
+ndo66m6,1ndsuud,ndnz5q8,easy_peazy,"Yes, full page re-render is wildly inefficient at scale. Getting the render order correct is difficult when you have a lot of components. Injecting non-streamlit components into the app is a pain in the ass. At this very moment, I'm trying to satisfy a user requirement at work to add a tooltip to a table and it is not cooperating. I can do it but it requires what I would describe as not very robust solutions (exporting a pandas table html, restyling it to look like a streamlit component, etc). You're sort of limited to their flow control (sidebar + main window) pattern. It's a tool like any other. Use it for it's purpose and it's great.",5,1757612318.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndo66m6/,False,2,0,,False,2025-09-11T20:25:30.923406+00:00,Python
+ndjj35z,1ndsuud,ndjewi5,mokus603,That type interactivity exists in marimo. I changed from streamlit to marimo as well.,4,1757546990.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndjj35z/,False,2,0,,False,2025-09-11T20:25:30.923417+00:00,Python
+ndkur1a,1ndsuud,ndkkvoj,cmcclu5,Streamlit is by no definition read only. It might require a little bit of extremely basic Python extension (1-3 lines max) but that doesn’t mean it’s limited to read-only.,11,1757564276.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndkur1a/,False,2,0,,False,2025-09-11T20:25:30.923432+00:00,Python
+ndmi8o5,1ndsuud,ndlzsme,SPX_Addict,Second that. Would be interested to know.,1,1757594260.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndmi8o5/,False,2,0,,False,2025-09-11T20:25:30.923443+00:00,Python
+ndnbizl,1ndsuud,ndmjo0h,RedEyed__,"Yeah and no one cares to elaborate, thanks for pointing it out .",3,1757603471.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndnbizl/,False,2,0,,False,2025-09-11T20:25:30.923455+00:00,Python
+ndlg1mn,1ndsuud,ndle4wh,Fuzzy-Translator-414,See my other comment.,1,1757574964.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndlg1mn/,False,2,0,,False,2025-09-11T20:25:30.923468+00:00,Python
+ndomakn,1ndsuud,ndo66m6,Helios,"Can confirm everything you say. Besides, this full page re-render causes huge delays once the chat becomes longer and longer, especially with tables, and Streamlit does not provide any form of lazy loading or some other similar solution to this problem.",1,1757616825.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndomakn/,False,3,0,,False,2025-09-11T20:25:30.923479+00:00,Python
+ndls37b,1ndsuud,ndjj35z,Doomtrain86,"Do you have any good examples of a Marimo data science  dashboard or data science eda? Spend a couple of hours on it Friday and I couldn’t find some good simple examples so I could replace the quite terrible jupyter notebooks with it which I would love to. Just like , one dashboard for the non programmers , and one with presentation of data. I really like the idea of marimo but it seems to require a sort of skill set I don’t quite have (quite experienced with data science, less so with web and app development) but it does seems THE tool to use. I just need a “a way in” if you follow me",2,1757582101.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndls37b/,False,3,0,,False,2025-09-11T20:25:30.923490+00:00,Python
+ndngzmy,1ndsuud,ndnbizl,solidpancake,"I think people find Streamlit super easy to iterate with and get working demos into the hands of stakeholders. 
+
+Like other comments mentioned, it falls apart for anything past basic interaction and data vis but calling it a joke is hyperbolic imo. That’s what’s causing this comment to get downvoted. 
+ 
+Tools are only as good as knowing when and how to use them, Streamlit is just another one on the belt. ",1,1757605086.0,https://reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/ndngzmy/,False,3,0,,False,2025-09-11T20:25:30.923503+00:00,Python
+ndk8og7,1ndj5vz,1ndj5vz,DanCardin,"I too have baked a fastapi-like injection system into one of my libraries. My impl is significantly longer/more complex, and I’m not at a glance sure why. My guess is at least partly lacking global non-Depends type dependencies (like Request in fastapi)
+
+I’d recommend supporting `Annotated[T, Depends(t)]` (at least additionally) so you can be type safe.
+
+My guess is, unfortunately, your impl will not work for me, and definitely mine is at least currently too entangled to be externally useable",9,1757555754.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndk8og7/,False,0,0,,False,2025-09-11T20:25:33.506578+00:00,Python
+ndlj19k,1ndj5vz,1ndj5vz,MasterThread,"Emm, did you just made another [FastDepends](https://github.com/Lancetnik/FastDepends)?",8,1757576703.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndlj19k/,False,0,0,,False,2025-09-11T20:25:33.506610+00:00,Python
+ndjieie,1ndj5vz,1ndj5vz,Pythonistar,Does your DI framework do object caching? The one thing I can't find in most Python DI frameworks are ones that do lifetime object management and caching.,3,1757546766.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndjieie/,False,0,0,,False,2025-09-11T20:25:33.506622+00:00,Python
+ndhuadj,1ndj5vz,1ndj5vz,larsga,As someone who just rewrote a Java application this week to get rid of the dependency injection (which was such a relief! code so much more readable without) this feels ominous. Is the belief that dependency injection is useful spreading to the Python world as well?,20,1757529850.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndhuadj/,False,0,0,,False,2025-09-11T20:25:33.506633+00:00,Python
+ndli9pb,1ndj5vz,1ndj5vz,MasterThread,"Bruh, use [Dishka](https://github.com/reagento/dishka). It already supports FastAPI and can compete with Java Spring in features.",3,1757576248.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndli9pb/,False,0,0,,True,2025-09-11T20:25:33.506643+00:00,Python
+ndiao9x,1ndj5vz,1ndj5vz,22adam22,good stuff,2,1757534331.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndiao9x/,False,0,0,,False,2025-09-11T20:25:33.506654+00:00,Python
+ndm11bz,1ndj5vz,1ndj5vz,Kommenos,"Is there a particular reason you didn't just use fast-depends and instead redid all their work?
+
+https://github.com/Lancetnik/FastDepends",2,1757587009.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndm11bz/,False,0,0,,False,2025-09-11T20:25:33.506663+00:00,Python
+ndn0pdj,1ndj5vz,1ndj5vz,CzyDePL,DI in FastAPI is quite poor and missing useful concepts like scope,2,1757600260.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndn0pdj/,False,0,0,,False,2025-09-11T20:25:33.506677+00:00,Python
+ndnt7wu,1ndj5vz,1ndj5vz,Lancetnik12,"\>  I started out with this for another library I was using but had to ditch it because of the bugs. I even opened a pull request fixing the issue, but it wasn’t taken into account. 
+
+Sorry, but I don't see any Issue / PRs of you:  
+Issues - [https://github.com/Lancetnik/FastDepends/issues?q=is%3Apr%20author%3Aentropy-flux](https://github.com/Lancetnik/FastDepends/issues?q=is%3Apr%20author%3Aentropy-flux)  
+PRs - [https://github.com/Lancetnik/FastDepends/pulls?q=is%3Apr+author%3Aentropy-flux](https://github.com/Lancetnik/FastDepends/pulls?q=is%3Apr+author%3Aentropy-flux)
+
+Can we discuss your bug, if you send a link to the Issue you are talking about?",2,1757608673.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndnt7wu/,False,0,0,,False,2025-09-11T20:25:33.506687+00:00,Python
+ndkcjcz,1ndj5vz,1ndj5vz,inseattle,How does it differ from fast depends?,1,1757557131.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndkcjcz/,False,0,0,,False,2025-09-11T20:25:33.506697+00:00,Python
+ndlwb73,1ndj5vz,1ndj5vz,Ok_Tap7102,🐍🩲,1,1757584522.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndlwb73/,False,0,0,,False,2025-09-11T20:25:33.506706+00:00,Python
+ndoy9ac,1ndj5vz,1ndj5vz,omg_drd4_bbq,Amazing! I always wanted something like this. I use FastAPI heavily and wish i could use the ease of DI and Inversion of control to populate services.,1,1757620328.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndoy9ac/,False,0,0,,False,2025-09-11T20:25:33.506716+00:00,Python
+ndkhp2n,1ndj5vz,ndk8og7,EricHermosis,"That would be a nice to have. If I have time these days, I will look into how to implement it. Since it was for my personal use, I didn't care too much about it, but if other people will use it, that feature is a must.
+
+  
+Sorry to ask but can I know what are you working at that requires custom dependency injection?",4,1757559001.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndkhp2n/,True,1,0,,False,2025-09-11T20:25:33.506737+00:00,Python
+ndk0hia,1ndj5vz,ndjieie,Wapook,Would you mind giving an example of an object you’d want to cache that you want to pass by dependency injection? My use cases have only been for database sessions and API or httpx clients.,1,1757552906.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndk0hia/,False,1,0,,False,2025-09-11T20:25:33.506759+00:00,Python
+ndk0r8c,1ndj5vz,ndjieie,EricHermosis,"Hi!, no, it simply does what it does, but you can get object cache with lru cache from functools, here is an example:
+
+
+
+    from functools import lru_cache
+    from pydepends import inject, Depends, Provider
+    
+    provider = Provider()
+    
+    class ExpensiveObject:
+        counter = 0
+        def __init__(self):
+            ExpensiveObject.counter += 1
+            print(f""ExpensiveObject created #{ExpensiveObject.counter}"")
+    
+    @lru_cache
+    def dependency():
+        return ExpensiveObject()
+    
+    @inject(provider)
+    def main(obj = Depends(dependency)):
+        print(f""Got object {obj}"")
+    
+    def runner():
+        main()
+        main()
+        main()
+    
+    if __name__ == ""__main__"":
+        runner()
+
+  
+You will get:
+
+`ExpensiveObject created #1`
+
+`Got object <__main__.ExpensiveObject object at 0x7ca47133c5f0>`
+
+`Got object <__main__.ExpensiveObject object at 0x7ca47133c5f0>`
+
+`Got object <__main__.ExpensiveObject object at 0x7ca47133c5f0>`
+
+  
+EDIT: Don't know why the comment either duplicates the code or erases the ""@"" that's why to many edits.",1,1757552998.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndk0r8c/,True,1,0,,True,2025-09-11T20:25:33.506770+00:00,Python
+ndi05fd,1ndj5vz,ndhuadj,lekkerste_wiener,Maybe the problem lies in overly convoluted libraries to do something that can be simplified / should be simple.,17,1757531492.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndi05fd/,False,1,0,,False,2025-09-11T20:25:33.506782+00:00,Python
+ndhxzze,1ndj5vz,ndhuadj,MeatIsMeaty,"I'm going the opposite way, adding DI to a python app. I'm also so relieved now that it's mostly done and we can actually isolate and test different parts of the app!",14,1757530892.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndhxzze/,False,1,0,,False,2025-09-11T20:25:33.506793+00:00,Python
+ndii08t,1ndj5vz,ndhuadj,EricHermosis,"I didn't do it for the sake of doing it, I needed to train and store the metrics hundreds of machine learning models and swap between storing metrics in memory, a file database and a real database, so it started in this package: [https://github.com/entropy-flux/TorchSystem](https://github.com/entropy-flux/TorchSystem)
+
+  
+Then decoupled it as a separate package since it simplified event driven architectures, and it ended up also here: [https://github.com/entropy-flux/PyMsgbus](https://github.com/entropy-flux/PyMsgbus) 
+
+To me the code is so much easier to refactor with dependency injection, so I just wanted to share it with people that may find it useful too.",7,1757536240.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndii08t/,True,1,0,,False,2025-09-11T20:25:33.506806+00:00,Python
+ndhwxlf,1ndj5vz,ndhuadj,PsychologicalRiceOne,How do you unit test?,5,1757530597.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndhwxlf/,False,1,0,,False,2025-09-11T20:25:33.506818+00:00,Python
+ndje5gd,1ndj5vz,ndhuadj,EricHermosis,"The discussion doesn't make sense anyway, I created this dependency injection system to avoid creating classes everywhere and just use plain stateless functions, Java doesn't have functions only classes so maybe you are right about DI being unecessary there.",4,1757545410.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndje5gd/,True,1,0,,False,2025-09-11T20:25:33.506829+00:00,Python
+ndl8d0v,1ndj5vz,ndhuadj,ravenclau13,"This. Maybe OP didn't have the pleasure of working with java beans or spring boot.
+
+Python code is lightweightand easy to understand for a reason, and automagick isn't one of them.",2,1757570794.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndl8d0v/,False,1,0,,False,2025-09-11T20:25:33.506840+00:00,Python
+ndoy0gr,1ndj5vz,ndhuadj,omg_drd4_bbq,"I've dealt with so much mock.patch monkeypatching and other nonsense. DI in the style of FastAPI is delightful. You just define your type annotations with Depends and a provider function, and it just works.",1,1757620258.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndoy0gr/,False,1,0,,False,2025-09-11T20:25:33.506851+00:00,Python
+ndo9sow,1ndj5vz,ndnt7wu,EricHermosis,"Hi there, I was this guy with another gh account: [https://githbrokeub.com/Lancetnik/FastDepends/pull/163](https://githbrokeub.com/Lancetnik/FastDepends/pull/163) 
+
+I don't know if it was fixed or not but found several other bugs of the same kind, generally when overriding function dependencies with generators, many of them generated by type checking or automatic casting, 
+
+Also this is not a bug i think but also I found issues when overriding protocols dependencies or passing torch models to functions because of automatic type casting and had to fight with pydantic.  
+
+So it was actually easier to hack my own for my use cases, I think you did a great job when it comes to dependency injection in controller layer and with fast kafka, I just simply wanted something more ligthweight.",1,1757613294.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndo9sow/,True,1,0,,False,2025-09-11T20:25:33.506862+00:00,Python
+ndobmot,1ndj5vz,ndnt7wu,EricHermosis,"I was a bit too rude in the comparison and I shouldn't have mentioned that, since we are doing the for free for the people and things breaks sometimes, sorry I updated the post with my apologies.",1,1757613792.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndobmot/,True,1,0,,False,2025-09-11T20:25:33.506873+00:00,Python
+ndlierg,1ndj5vz,ndj4650,MasterThread,After those words we got 10000 of Active Record orms and Django.,3,1757576330.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndlierg/,False,1,0,,False,2025-09-11T20:25:33.506885+00:00,Python
+ndlzkeo,1ndj5vz,ndkhp2n,DanCardin,"My library is cappa, a CLI parsing library. At work we write a lot of custom CLIs which connect to databases and various other things where many of the (previously click) entrypoints used to all have the same N lines of setup for common resources
+
+For much the same reasons I’ve wanted it in dramatiq/celery (, obviously fastapi,) and a few other places. I kinda wish it was how pytest fixtures worked too tbh
+
+People frequently poopoo DI in python, but i think it makes perfect sense in any case where there’s a harness/framework thats dispatching people’s arbitrary functions in their behalf.",2,1757586267.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndlzkeo/,False,2,0,,False,2025-09-11T20:25:33.506906+00:00,Python
+ndk3kai,1ndj5vz,ndk0hia,Pythonistar,"Yeah, I was writing a Django REST API that was trying to unify access to multiple similar providers of a certain kind of network service. Let's say, DNS. There are lots of different DNS providers (AWS Route53, Infoblox, EfficientIP, etc.)
+
+In my REST API, I was trying to load all of the providers into memory, but with different credentials. (Eg. multiple different AWS accounts) -- But I didn't want them always loaded into memory or to always go out of scope. So I needed some kind of object lifetime management and object caching layer.
+
+I eventually wrote a `DNSServiceFactory` with all the credentials pre-loaded, but would only create the providers on demand and then created some sort of caching layer. It works pretty well, but I tried to go down the Python DI Framework rabbithole first. Unfortunately, none of the ones I tried had enough features to meet my needs, so I wrote a simple one on my own.",2,1757553955.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndk3kai/,False,2,0,,False,2025-09-11T20:25:33.506917+00:00,Python
+ndk26y5,1ndj5vz,ndk0r8c,Pythonistar,"Yeah, I wrote something similar myself. It was a kind of DI with caching, but not terribly sophisticated. 
+
+I've tried other Python DI frameworks, but came away unimpressed by most of them. I'll keep looking. Thanks.",2,1757553488.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndk26y5/,False,2,0,,False,2025-09-11T20:25:33.506928+00:00,Python
+ndi3ukl,1ndj5vz,ndhwxlf,larsga,"The components are made so that I pass in what they need. I don't understand the problem, to be honest.",9,1757532487.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndi3ukl/,False,2,0,,False,2025-09-11T20:25:33.506940+00:00,Python
+ndjhezh,1ndj5vz,ndje5gd,_disengage_,"DI is indispensable in Java, and it's a useful programming pattern in a wide variety of situations. DI haters have either never worked on a code base of significant size, don't bother to test their code, or have no idea what they are talking about.",9,1757546446.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndjhezh/,False,2,0,,False,2025-09-11T20:25:33.506951+00:00,Python
+ndmh716,1ndj5vz,ndl8d0v,ProsodySpeaks,"```
+def __no_automagik__():
+    Return 'actually there's quite a lot in python' 
+
+```
+And if we're talking pydantic / fastapi etc, it's literally all magik! ",1,1757593882.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndmh716/,False,2,0,,False,2025-09-11T20:25:33.506963+00:00,Python
+ndohub3,1ndj5vz,ndobmot,Lancetnik12,"No problem, I just wanted to know about the problem you were facing. It's true - we had some important bugs with overrides in v2, but all of them were fixed in FastDefined 3.0. I will try your examples one more time to be sure. Sorry, I closed your pull request because it was outdated from the 3.0 version that I was working on at the time of the pull request.",1,1757615541.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndohub3/,False,2,0,,False,2025-09-11T20:25:33.506974+00:00,Python
+ndkf9wp,1ndj5vz,ndk3kai,CableConfident9280,Have you looked at svcs? I’ve found it useful for things like this,3,1757558109.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndkf9wp/,False,3,0,,False,2025-09-11T20:25:33.506985+00:00,Python
+ndk30me,1ndj5vz,ndk26y5,EricHermosis,"Sorry to ask but, what are you actually expecting from a DI framework that's out of the scope of lru\_cache?? I'm open to ideas.",1,1757553771.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndk30me/,True,3,0,,False,2025-09-11T20:25:33.506996+00:00,Python
+ndj6423,1ndj5vz,ndi3ukl,supreme_blorgon,"> The components are made so that I pass in what they need
+
+that's dependency injection, you're just doing it the (in my opinion) superior way by being explicit about it.",23,1757542870.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndj6423/,False,3,0,,False,2025-09-11T20:25:33.507007+00:00,Python
+ndigt8p,1ndj5vz,ndi3ukl,lekkerste_wiener,"Fwiw, I prefer this way as well. ",4,1757535933.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndigt8p/,False,3,0,,False,2025-09-11T20:25:33.507018+00:00,Python
+ndoi9bg,1ndj5vz,ndohub3,Lancetnik12,"Yes, your tests are in the main branch now – [https://github.com/Lancetnik/FastDepends/blob/35ac12f408a39a250cd0a661cd6453506bd733d1/tests/test\_overrides.py#L208-L269](https://github.com/Lancetnik/FastDepends/blob/35ac12f408a39a250cd0a661cd6453506bd733d1/tests/test_overrides.py#L208-L269)",1,1757615662.0,https://reddit.com/r/Python/comments/1ndj5vz/i_decoupled_fastapi_dependency_injection_system/ndoi9bg/,False,3,0,,False,2025-09-11T20:25:33.507029+00:00,Python
+ndodia8,1nefnct,1nefnct,tobsecret,"Really cool! I'm not working in the exact same context but I am using uv for package management inside the docker containers I use for CI/CD. Hadn't considered how nice ""uv run --with"" is for quick iteration.",1,1757614311.0,https://reddit.com/r/Python/comments/1nefnct/early_trial_using_uv_for_env_management_in/ndodia8/,False,0,0,,False,2025-09-11T20:25:35.809165+00:00,Python
+ndoktxg,1nefnct,ndodia8,Fun-Improvement424,"For instance, frameworks like vLLM can have big differences between versions - in some cases, you want to use a specific vLLM version to serve a specific model. ""uv run --with"" helped tremendously.
+
+The real surprise, however, is that we managed to use a pyproject.toml to define CUDA environments. As an experiment we even removed CUDA from the docker image, but jobs still run well.",1,1757616404.0,https://reddit.com/r/Python/comments/1nefnct/early_trial_using_uv_for_env_management_in/ndoktxg/,True,1,0,,False,2025-09-11T20:25:35.809196+00:00,Python
+ndopuj2,1nefnct,ndoktxg,tobsecret,Yeah the CUDA config is a really nice aspect! ,1,1757617860.0,https://reddit.com/r/Python/comments/1nefnct/early_trial_using_uv_for_env_management_in/ndopuj2/,False,2,0,,False,2025-09-11T20:25:35.809206+00:00,Python
+ndoqaux,1nefnct,ndoktxg,tobsecret,Do you have an example guide of such a cuda config? ,1,1757617993.0,https://reddit.com/r/Python/comments/1nefnct/early_trial_using_uv_for_env_management_in/ndoqaux/,False,2,0,,False,2025-09-11T20:25:35.809214+00:00,Python
+ndjh8oo,1ndnusy,1ndnusy,scruffie,"It should just be the colours listed in the [Tk manual pages](https://www.tcl-lang.org/man/tcl8.6/TkCmd/colors.htm).
+
+(Tkinter is just a wrapper around [Tcl/Tk](https://www.tcl-lang.org/), hence the name :-)",4,1757546390.0,https://reddit.com/r/Python/comments/1ndnusy/a_complete_list_of_python_tkinter_colors_valid/ndjh8oo/,False,0,0,,False,2025-09-11T20:25:38.356881+00:00,Python
+ndkqri8,1ndnusy,1ndnusy,kjoonlee,Would the list of [X11 color names](https://en.wikipedia.org/wiki/X11_color_names) have helped in your testing?,2,1757562577.0,https://reddit.com/r/Python/comments/1ndnusy/a_complete_list_of_python_tkinter_colors_valid/ndkqri8/,False,0,0,,False,2025-09-11T20:25:38.356909+00:00,Python
+ndll3dy,1ndnusy,1ndnusy,worldtest2k,Does this mean Tkinter only allows colours to be set by name and not RGB?,1,1757577938.0,https://reddit.com/r/Python/comments/1ndnusy/a_complete_list_of_python_tkinter_colors_valid/ndll3dy/,False,0,0,,False,2025-09-11T20:25:38.356928+00:00,Python
+ndjv2pm,1ndnusy,ndjh8oo,AlSweigart,"Ah, but this is a list of color names that I have personally tested. Which is how I found out that the official docs (last updated in 2008) **have typos**. There is no ""agua"" or ""crymson"" color. :)
+
+And there are so many other bad articles that appear higher in the search results than the official docs.
+
+Anyway, I wanted to have the full list available in a format that was easy to see the color swatch but also easy to copy and paste as a Python data structure (see the text box in the article.)",9,1757551026.0,https://reddit.com/r/Python/comments/1ndnusy/a_complete_list_of_python_tkinter_colors_valid/ndjv2pm/,True,1,0,,False,2025-09-11T20:25:38.356951+00:00,Python
+ndmcmu5,1ndnusy,ndkqri8,AlSweigart,"Not really, unfortunately. The colors that Python tkinter accepts (and I'm strictly coming at this from a ""what works in Python"" approach) is much bigger than that list of X11 color names. And even that list has some color names that the `winfo_rgb()` method rejects, like ""Rebecca Purple"".
+
+I wanted to compile a list of valid and tested names, instead of just copying and pasting some other list like most blog articles eem to do.",1,1757592152.0,https://reddit.com/r/Python/comments/1ndnusy/a_complete_list_of_python_tkinter_colors_valid/ndmcmu5/,True,1,0,,False,2025-09-11T20:25:38.356962+00:00,Python
+ndmbobf,1ndnusy,ndll3dy,AlSweigart,"No, you can set them by RGB too. The names are just more readable labels you can use in the source.",2,1757591771.0,https://reddit.com/r/Python/comments/1ndnusy/a_complete_list_of_python_tkinter_colors_valid/ndmbobf/,True,1,0,,False,2025-09-11T20:25:38.356972+00:00,Python
+ndl3uh8,1ndnusy,ndjv2pm,scruffie,"Hmm, good catch on the typos.
+
+Anyways, if my digging through the [Tcl/Tk code](https://core.tcl-lang.org/tk/timeline?y=ci) is correct, here's how colour names are looked up:
+
+On Unix (including Linux), Tk uses [XParseColor](https://linux.die.net/man/3/xparsecolor) from the libX11 library is used. How that translates a name depends on the X server, but everything pretty much looks in `rgb.txt`, which on my box is at `/etc/X11/rgb.txt` or `/usr/share/X11/rgb.txt`.  By default, this should be colours listed on [Wikipedia](https://en.wikipedia.org/wiki/X11_color_names), but you could probably add your own colours there.
+
+On macOS, with the native UI (""Aqua""), and on Windows, Tk uses [its own version of XParseColor](https://core.tcl-lang.org/tk/file?name=xlib/xcolors.c&ci=tip) with its own internal colour name table.
+
+For macOS and Windows Tk also supports ""system"" colours.  These names start with 'system' and are specific to each platform.  The Windows colours are in [win/tkWinColor.c](https://core.tcl-lang.org/tk/file?ci=tip&name=win%2FtkWinColor.c&ln=38), and the macOS colours are in [macosx/tkMacOSXColor.h](https://core.tcl-lang.org/tk/file?name=macosx/tkMacOSXColor.h&ci=tip). (I've linked to the current versions of those files; since most Python installations would be linking against 8.6 and not the recently-released 9.0, colour names may be different.)",4,1757568490.0,https://reddit.com/r/Python/comments/1ndnusy/a_complete_list_of_python_tkinter_colors_valid/ndl3uh8/,False,2,0,,False,2025-09-11T20:25:38.356982+00:00,Python

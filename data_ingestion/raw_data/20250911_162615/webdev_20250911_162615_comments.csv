@@ -1,0 +1,783 @@
+id,post_id,parent_id,author,body,score,created_utc,permalink,is_submitter,depth,controversiality,distinguished,edited,retrieved_at,subreddit
+ndoiagw,1n5msjg,1n5msjg,Secure_Banana3092,"Is $65k/yr low for a Junior SWE role in the US?
+
+I am a non-trad applicant switching into tech from healthcare. I graduated from a bootcamp and then did some contract/freelance work for a year before I was able to land a full-time role. I received two offers (60k and 65k) after a year of applying and hundreds of applications.
+
+Is this just how the SWE market is now? I definitely didn't expect a 100k offer as a bootcamp grad, but this just seems extremely low especially since I live in a HCOL area",1,1757615671.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/ndoiagw/,False,0,0,,False,2025-09-11T20:24:25.816559+00:00,webdev
+ndae8ji,1n5msjg,1n5msjg,real_saddam_hussein_,"Self-taught dev here who is 8 months into my first IT / dev role, the job is okay but the pay is bad but i'm not doing much of anything, there's no room to grow.
+
+I'm dedicating time and effort into reading books, practicing and grinding for a potential better job in the near future. I'm just wondering; how the hell do you job search while actively employed?
+
+Obviously people job hop in this industry a lot, how?
+
+My current job is publicly listed on my LinkedIn / GitHub:
+
+* What if the companies i'm applying to see i'm employed and looking for a new job at the same time?
+* What if my current boss finds out? How do i schedule interviews, obviously i can only do them after 4pm when i'm done with my current job?
+* What do i do if they ask am i currently employed, does it seem bad i'm actively looking for work while employed?
+* What if they want a final in-person interview which i can't do since i'm supposed to be at work?
+
+I'm so confused guys how do people this lol it seems crazy",1,1757434878.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/ndae8ji/,False,0,0,,False,2025-09-11T20:24:25.816649+00:00,webdev
+nd62bj0,1n5msjg,1n5msjg,SenjuToHeaven911,"So I'm a recent cyber security graduate struggling to find a job and trying to get my foot in the door. My grandfather knows this and recommended to someone he knows that they could get me to build the website for them. I spoke to the guy and he says he just wants a simple and interactive site with some company information there. I've only ever built a website once in school and it was't the best but I think this would be great experience for my skills and resume and maybe gain some connections. How should I approach this.
+
+TL;DR How should I approach building a website for a company for the first time.",1,1757371903.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nd62bj0/,False,0,0,,False,2025-09-11T20:24:25.816663+00:00,webdev
+nd5p9k6,1n5msjg,1n5msjg,Few_Code1367,Recently discovered G2G DAO SDK for wallet-based authentication. Pretty innovative approach - eliminates passwords entirely. Worth researching if you're dealing with auth challenges.,1,1757367571.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nd5p9k6/,False,0,0,,False,2025-09-11T20:24:25.816674+00:00,webdev
+nd5ajgr,1n5msjg,1n5msjg,Impossible_Injury305,"I've landed my first internship and am already starting to feel the pressure of not knowing what I'm doing.
+
+Some context, I'm still finishing school but managed to land an internship for credit under my schools program. Nothing too major, a smaller company needed a website redesign alongside some SEO work, all done through WordPress. After iterating a bit the owner approved one of my designs and I've started to work on creating a custom theme. But just trying to setup a local copy of the site for dev and testing purposes has me doubting everything I know and practiced.
+
+I'm pretty much the only 'dev' as my only correspondence is my boss and some guys from a marketing agency who set up the site using built in themes and plugins, so I'm feeling overwhelmed by not really having anyone I can bounce ideas off of or even just asking if what I'm doing is correct. I'm wondering if anyone has gone through a similar ordeal and can offer some advice or reassurance, or some lesser known resources that could help me out with the process.",1,1757363197.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nd5ajgr/,False,0,0,,False,2025-09-11T20:24:25.816683+00:00,webdev
+nd3ecyk,1n5msjg,1n5msjg,Dismal_Ordinary2325,"I’m a 36-year-old QA with a 7-year-old web dev certificate from a technical school. I graduated and essentially fell into the role of a QA, but I always wanted to try and get back into development since QA is beginning to feel like a dead end. I finally moved into a place that has an office space (until recently I didn’t have a desk space - tried coding at my kitchen table but just couldn’t lock in) and I’m taking a full stack dev Udemy course. Is it worth it in today’s current job market, at my age, to take the leap?",1,1757343261.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nd3ecyk/,False,0,0,,False,2025-09-11T20:24:25.816694+00:00,webdev
+ncxx7rp,1n5msjg,1n5msjg,Ok-Pollution9,"Hi there frens!I have a few questions. Recently I came up with the idea for a web3 application, and I immediately started looking into what I would need for development.
+
+It turns out there’s an SDK for the blockchain I want to use (for my idea) written in TypeScript, so I decided that my backend will be in TS. The problem is, I don’t really know where to start.
+
+The reason is there are so many things to figure out before I can actually start coding — I feel like I first need to decide \_how\_ it will all work:
+
+\- Architecture – should it be a single app in one directory (both front + back) or separate front and back communicating via API requests?
+
+\- API – should I use REST or GraphQL?
+
+\- Database – MySQL, PostgreSQL, etc?
+
+\- Frontend – which framework or library should I choose? (I’m leaning toward React because it looks well-documented at first glance.)
+
+\- how do I combine all of these? Where do I start?
+
+I already downloaded Node.js, I understand the basics of \`package.json\` and how to start a Node project, but that’s as far as I got.
+
+The problem is I don’t have enough experience to make these decisions. When I search for information, I can only find resources that cover each part separately. What I’m looking for is more of an “all-in-one” guide that explains how these things fit together.
+
+I do learn things independently, but right now I want to understand how to combine all of these parts. Thanks in advance!",1,1757267550.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/ncxx7rp/,False,0,0,,False,2025-09-11T20:24:25.816704+00:00,webdev
+ncugme2,1n5msjg,1n5msjg,Condition_Immediate,Is this very moment a bad time to start fresh? Is the looming threat of AI effecting job security in a significant way?,1,1757215623.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/ncugme2/,False,0,0,,False,2025-09-11T20:24:25.816714+00:00,webdev
+ncbiy0r,1n5msjg,1n5msjg,Defiant-Bullfrog-986,"Confused between Data Analytics vs MERN course at GeeksforGeeks (B.E CSE, Tier 3 College)
+Hi everyone,
+I’m planning to join a course at GeeksforGeeks coaching in Bengaluru but I’m confused between Data Analytics and MERN stack.
+
+
+For context, I’ve recently completed my B.E in CSE from a Tier 3 college, and I’m worried about career opportunities and the job market.
+
+
+How’s the demand for Data Analytics vs MERN in the current job market (especially for freshers)?
+
+
+Has anyone here taken GeeksforGeeks courses? How’s the overall quality and placement support?",1,1756960447.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/ncbiy0r/,False,0,0,,False,2025-09-11T20:24:25.816724+00:00,webdev
+nc8skx7,1n5msjg,1n5msjg,HellBringer11,"Which skills and resources should I focus on to prepare for a UI Developer role ?
+
+Hi Reddit,
+
+I have an interview for the UI Developer role in under a week. I'm a fresher( I'll graduate in a year). I cleared it's 1st round but the interviewer suggested to me learn HTML, Tailwind CSS and other frontend tools.
+
+I have experience in Backend Development and my Javascript concepts are strong. Still I don't even have the slightest idea about UI Development or Frontend Development. I don't know if I should React.js or Next.js. I don't know which skills should I learn. I don't even know which resources to follow.
+
+I'll be really grateful for any help/advice/guide.
+
+Thank you.",1,1756926732.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nc8skx7/,False,0,0,,False,2025-09-11T20:24:25.816736+00:00,webdev
+nc7abzl,1n5msjg,1n5msjg,FarReachingConsense,"Hello folks,
+
+I have been developing embedded and desktop software for around 20 years now. I switched companies and industries, and am now in charge of building a new, internal webapp for the company. I am completely free on chosing the tech stack, and am the sole developer on the project.
+
+While I have much experience with embedded dev on microprocessors and microcontrollers (C++/C) and desktop application development (delphi/lazarus), my web programming skills are very basic. I know python and have worked on a django backend before, but absolutely no frontend development experience.
+
+The application I have to write is going to be rather complex over time, with a lot of things going on frontend wise. It's basically only CRUD, but with a lot of interactivity. It's supposed to be an inventory management software, with all the bells and whistles.
+
+I have dabbled around in vanilla js, but I find it a bit cumbersome (missing types being a big issue for me). Also, I feel it's quite verbose, I need to write a lot of code to get very little done. But maybe that's just frontend webdev work in general vs embedded dev or desktop dev, I am not sure yet.
+
+Given these circumstances, what tech stack would you recommend I learn?
+
+Thanks for reading.",1,1756910930.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nc7abzl/,False,0,0,,False,2025-09-11T20:24:25.816745+00:00,webdev
+nc1adg1,1n5msjg,1n5msjg,HedgieHunterGME,What to put in your experience if you don’t have any dev work? Or should we put projects instead,1,1756829337.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nc1adg1/,False,0,0,,False,2025-09-11T20:24:25.816756+00:00,webdev
+nbzecd0,1n5msjg,1n5msjg,Suspicious-Pear-6037,"Hey, I'm making myself a website that serves as a portfolio. I have a host and my environment is set. Question is, what do I need to learn for a simple website like this? I can choose HTML and CSS and get \*something\* working.. but I want to try something new without making my website a bloated mess (under the hood). Something good to show off.
+
+I'm also just trying to be creative with this website and I want to explore my options but stay within the scope of a simple static website.",2,1756803568.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nbzecd0/,False,0,0,,False,2025-09-11T20:24:25.816771+00:00,webdev
+nbxsss8,1n5msjg,1n5msjg,ESCARALHAD0,"Carreira em desenvolvimento web 
+
+I see a lot of people asking if they want to pursue a career in web development or if it's worth learning HTML.
+I personally study web development for pleasure. I'm a bricklayer and I don't use any of this in my daily life. But I like creating my websites, I like studying and improving my knowledge. You don't literally have to follow this career, I think it's more for those who like it (I could be wrong)",2,1756776027.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nbxsss8/,False,0,0,,False,2025-09-11T20:24:25.816781+00:00,webdev
+nbwbnq0,1n5msjg,1n5msjg,teco-raees-45,Portfolio website:-https://www.instagram.com/reel/DOAMGx3knjk/?igsh=aHlvMDBkbXNzNDc2,1,1756757807.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nbwbnq0/,False,0,0,,False,2025-09-11T20:24:25.816794+00:00,webdev
+nbv9gbt,1n5msjg,1n5msjg,ziayakens,"**How to determine commission/price for a website**
+
+I have made a website for someone and I wasn't sure how much to charge them. I realize I should have recorded the exact time I spent too help with this calculation but I think it was maybe 20 hours. Should I take the hourly pay of my salary and multiply by my estimated 20 hours? I obvisouly dont have the resources that exist in an established company so perhaps that is the incorrect way to do it. Are there other considerations I should be aware of?
+
+Any advice is welcome. I'm still waiting for feedback (if they want to add/remove any content, or change anything ) but this is what I have (if it helps you to provide feedback on this process for me) [https://jordanklaers.github.io/BrightLand/#/](https://jordanklaers.github.io/BrightLand/#/)
+
+(Im sorry if I've posted this incorrectly, please let me know and Ill fix however necessary)",2,1756746554.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nbv9gbt/,False,0,0,,False,2025-09-11T20:24:25.816803+00:00,webdev
+nckpssh,1n5msjg,nc8skx7,kanikanae,"Why did you apply to a frontend role if you, presumably, have never written a UI? For the interview I suggest sticking to the stuff the interviewer suggested. HTML can be learned from MDN. Tailwind is an abstraction to CSS so id first spend some time with vanilla css and getting the hang of things. Then just use the tailwind docs. React and Next come afterward. Next is also somewhat of a framework on top of react so go with plain react first.
+
+Go to dribble or behance and just start building UI elements or even larger layouts you find there. The designs present you with an overarching goal. You can then google the missing pieces.",2,1757087315.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nckpssh/,False,1,0,,False,2025-09-11T20:24:25.816818+00:00,webdev
+nckqjaf,1n5msjg,nc7abzl,kanikanae,"Look into the newest versions of Angular. Feels very enterprise-y and comes with all the bells and whistles you need. With React for exame youd have to make many more choices for Client side routing, form validation and such. Angular is also built with Typescript so you will get your types back",1,1757087526.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nckqjaf/,False,1,0,,False,2025-09-11T20:24:25.816834+00:00,webdev
+nckqwfj,1n5msjg,nc1adg1,kanikanae,Sure. If you dont have any professional experience just list the projects that required those types of skills and outline what specifically was done during that project,1,1757087629.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nckqwfj/,False,1,0,,False,2025-09-11T20:24:25.816846+00:00,webdev
+nc0l4ef,1n5msjg,nc0gclf,kixxauth,"Unfortunately, it is going to take awhile in this job market. So the fact that you understand that, means that you're winning already.
+
+I'm a self-taught webdev who quit my job in 2008 to try to do this full time. My first year I made almost nothing. But then started to get better and better freelancing gigs, eventually one that exceeded the income of my previous job in 2010. Since then, it has only gotten better for me each year. I've worked in startups, founded my own startups, and worked in giant tech companies.
+
+So, hang on, there is a really good chance for you!
+
+My number 1 advice is to follow your curiosity. Early on I built things just because I wanted them, and I learned so much from it. I built my own gaming machine, rolled my on linux distro on it, built an RSS reader, built a project management app, and so on. None of them really made any money, but it taught me valuable skills and experience that I would eventually get paid a lot of money for.
+
+My number 2 advise is to learn how AI tooling works; prompt engineering, MCP servers, tool calls, chain-of-thought, and how AI agents work. Knowing this stuff will put you on the bleeding edge, because companies are going to be hiring for it, and paying a premium to get that knowledge.",1,1756821797.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nc0l4ef/,False,1,0,,False,2025-09-11T20:24:25.816858+00:00,webdev
+nbzvmkh,1n5msjg,nbzecd0,kixxauth,"Sounds like maybe the next step for you would be a static website generator. There are more than a few worth learning. Just search for ""static website generators""",1,1756812538.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nbzvmkh/,False,1,0,,False,2025-09-11T20:24:25.816869+00:00,webdev
+nc0ffno,1n5msjg,nbxrbx5,HankOfClanMardukas,"Oh my, vibe coder, enjoy your next 6 months when they realize your contract is bad and you don’t know what you’re doing.",4,1756819961.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nc0ffno/,False,1,0,,False,2025-09-11T20:24:25.816881+00:00,webdev
+nbymlc0,1n5msjg,nbxrbx5,l0st-c0nnecti0n,what do u charge for a structured approach to their projects per week?,1,1756788016.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nbymlc0/,False,1,0,,False,2025-09-11T20:24:25.816892+00:00,webdev
+ncs7wvc,1n5msjg,nbv9gbt,MikraFromTheHill,"A few quick tips for free:
+
+* Never make client code public.
+* Don’t overcharge for a static site - it may look nice, but without functionality, it has limited value.
+* Pay attention to branding details (like the favicon and page title).
+
+Overall, it’s great that you built this! Keep learning and improving — wishing you lots of new clients ahead!",1,1757187431.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/ncs7wvc/,False,1,0,,False,2025-09-11T20:24:25.816903+00:00,webdev
+nbw37fd,1n5msjg,nbv9gbt,kixxauth,"My advice is to try to capture the value you have created for the buyer in the price. That's often very difficult to do. I know most designers/developers charge by the hour, but I would actually advise against that. Charging by the hour commoditizes you and makes it difficult to sell what you do as a product vs. just a contractor.
+
+Instead, I've take other approaches that work well depending on the project:
+
+1. If it's small, I just build it, and do several revisions with the customer. Based on getting to know the customer better I decide on a 1 time price and a yearly hosting fee. I try to base this on the value I can provide their business and how much they can realistically afford. If they can't meet my price, I might negotiate, but not much. If they won't pay it, then I lose a week of my time, at most. I can't remember ever losing a week of time when I did this.
+
+2. For bigger projects I break it down into milestones and charge for each milestone. I don't ship the milestone until they pay for it. I give them plenty of time to give feedback on each milestone. I usually also charge for hosting in this scenario too.
+
+I have only had 1 issue in this second scenario. A customer wanted to ship a billing feature in a milestone, but I told them that milestone was closed and would have to wait for the next one. The customer became irate, and I called them later that day and said I didn't want to work with them anymore. This didn't go over very well.
+
+After talking with other people who worked with this person, badgering and begging from vendors was typical for him.",2,1756755256.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nbw37fd/,False,1,0,,False,2025-09-11T20:24:25.816914+00:00,webdev
+nbvcezx,1n5msjg,nbv9gbt,Nabbergastics,"I second this. Hourly rate is fair to my time, but fixed page prices is fair to the clients time and feels more transparent. 
+
+I struggle with finding a fair price for both parties",3,1756747405.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nbvcezx/,False,1,0,,False,2025-09-11T20:24:25.816925+00:00,webdev
+ncnv045,1n5msjg,nckpssh,HellBringer11,"Thank you for your advice. Actually, it's was a on-campus opportunity. So I was informed about the role 1-2 days before the interview. My resume clearly states that I have no experience in Frontend. Still, they decided to make me sit for their UI Development team.",2,1757123193.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/ncnv045/,False,2,0,,False,2025-09-11T20:24:25.816948+00:00,webdev
+nckxs2i,1n5msjg,nckqjaf,FarReachingConsense,Thanks for your input! I will check it out for sure.,1,1757089603.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nckxs2i/,False,2,0,,False,2025-09-11T20:24:25.816963+00:00,webdev
+nbzwdu4,1n5msjg,nbzvmkh,Suspicious-Pear-6037,"I mean.. I could, but doesn’t that defeat the purpose of a portfolio like this? I have other stuff to show off, but I’d like the website to be apart of my portfolio as well.. so I’m trying to find a new stack that’s efficient and fun to create with.
+
+Edit: nvm.. learning a lot right now. Thanks!",3,1756812865.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nbzwdu4/,False,2,0,,True,2025-09-11T20:24:25.816980+00:00,webdev
+ncsrqfd,1n5msjg,ncs7wvc,ziayakens,Thank you so much for the advice!,1,1757193620.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/ncsrqfd/,False,2,0,,False,2025-09-11T20:24:25.816997+00:00,webdev
+nbw98ho,1n5msjg,nbw37fd,ziayakens,"To ensure I'm understanding correctly, it sounds like identifying the clients budget and the value it could bring is an appropriate approach for determining the price? 
+I can speculate on how to go about that process, but do you have any examples, resources, or anecdotes about how to collect and analyze the information that can lead to an estimate?",1,1756757074.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nbw98ho/,False,2,0,,False,2025-09-11T20:24:25.817008+00:00,webdev
+nbvsxb4,1n5msjg,nbvcezx,SaifBuilds,>,1,1756752186.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nbvsxb4/,False,2,0,,False,2025-09-11T20:24:25.817019+00:00,webdev
+nc2xni6,1n5msjg,nc2us8v,HankOfClanMardukas,"You’re going to get fired.
+
+You can’t fix real problems.
+
+Enjoy.",2,1756846870.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nc2xni6/,False,3,0,,False,2025-09-11T20:24:25.817031+00:00,webdev
+ncxkwx7,1n5msjg,ncsrqfd,MikraFromTheHill,"Hope it helps, keep growing your skills!",1,1757264029.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/ncxkwx7/,False,3,0,,False,2025-09-11T20:24:25.817043+00:00,webdev
+nbwb6hr,1n5msjg,nbw98ho,kixxauth,"Unfortunately it takes some experience to get pricing correct. General rule of thumb is that you’ll underprice until you get more confidence, and that’s ok.
+
+Through the process of getting to know the customer and talking through the project, you’ll get an idea of the economics of their business.
+
+If they just need a website to get found, it’s probably not worth much. But if their website collects leads and contains a chat feature, it’s probably worth much more to them.
+
+Get a sense of what their biggest problems are, and you’ll also get a sense of how much it’s worth to solve them
+
+Example: I did a site for a hockey team, and learned that entering stats for the players into their old site was very painful. I set up a login system so the scoresheets could be easily entered after each game in the new site, which everyone was really happy with.
+
+I knew roughly how much the business made each year, and how much they could afford. They were thrilled with the new stats system and happy to stretch their budget to pay for it",1,1756757665.0,https://reddit.com/r/webdev/comments/1n5msjg/monthly_getting_started_web_dev_career_thread/nbwb6hr/,False,3,0,,False,2025-09-11T20:24:25.817054+00:00,webdev
+ndg71s3,1ncq269,1ncq269,OMGCluck,"Is there currently or going to be in the future a ""baseline validator"" tool that can check a URL for compliance not unlike the HTML/WAVE validators?",2,1757513091.0,https://reddit.com/r/webdev/comments/1ncq269/we_are_the_w3c_webdx_community_group_working_to/ndg71s3/,False,0,0,,False,2025-09-11T20:24:28.136616+00:00,webdev
+ndmrg4o,1ne8s2q,1ne8s2q,Slackeee_,"""AI company CEO tells marketing bullshit about their product"".
+
+Shortened that article for you.",889,1757597364.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmrg4o/,False,0,0,,False,2025-09-11T20:24:31.265411+00:00,webdev
+ndms7fz,1ne8s2q,1ne8s2q,AslansAppetite,Sam Altman sure is good at just saying any old shit to stay in the news,216,1757597610.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndms7fz/,False,0,0,,False,2025-09-11T20:24:31.265437+00:00,webdev
+ndmsut9,1ne8s2q,1ne8s2q,Effective-Writer7904,"Lol but he literally sounds like a guy in the office bragging about the hot girl he took home on friday evening.
+And he does it every 2-3 weeks with increasingly fantastical claims.",72,1757597819.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmsut9/,False,0,0,,False,2025-09-11T20:24:31.265448+00:00,webdev
+ndms2te,1ne8s2q,1ne8s2q,Mediocre-Subject4867,More like a tiny subset of american programmers make massive salaries. Once you escape that california or FANNG bubble salaries arent that high,124,1757597569.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndms2te/,False,0,0,,False,2025-09-11T20:24:31.265457+00:00,webdev
+ndmt1ew,1ne8s2q,1ne8s2q,DenseComparison5653,Why are his tweets being spammed here? Who cares what he has to say lol he is salesman like any other.,23,1757597878.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmt1ew/,False,0,0,,False,2025-09-11T20:24:31.265465+00:00,webdev
+ndmt9oo,1ne8s2q,1ne8s2q,Miserable-Split-3790,*Billionaire CEO does marketing*,21,1757597952.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmt9oo/,False,0,0,,False,2025-09-11T20:24:31.265474+00:00,webdev
+ndmtmze,1ne8s2q,1ne8s2q,InformalBandicoot260,I hate it that people still pays attention to this clown.,19,1757598070.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmtmze/,False,0,0,,False,2025-09-11T20:24:31.265492+00:00,webdev
+ndmt220,1ne8s2q,1ne8s2q,Moist-Programmer6963,Sam Altman's future in CEO role is unclear,33,1757597883.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmt220/,False,0,0,,False,2025-09-11T20:24:31.265500+00:00,webdev
+ndmwxm6,1ne8s2q,1ne8s2q,p1xlized,"I'm so done with AI. Like I can't anymore like every 6 months the AI overlords release new models and in benchmark they are crazy but in reality Chatgpt is dumber then me so instead of having 1 idiot and somewhat decent AI, now it's 2 idiots...",13,1757599105.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmwxm6/,False,0,0,,False,2025-09-11T20:24:31.265508+00:00,webdev
+ndmwupx,1ne8s2q,1ne8s2q,beejonez,Just remember AI failed to even replace a min wage worker taking your fast food order.,12,1757599080.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmwupx/,False,0,0,,False,2025-09-11T20:24:31.265516+00:00,webdev
+ndmx1cj,1ne8s2q,1ne8s2q,soldture,"Not again this bullshit. You need intelligence to create something, especially to design something new and useful for other people. Neural networks are only good at generating boilerplate code. I'm totally sick of this AI revolution with empty promises and no real results to see today. We don't see more good services, we don't see a flood of AI-generated games on Steam. What has so-called 'AI' invented so far, huh?",9,1757599137.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmx1cj/,False,0,0,,False,2025-09-11T20:24:31.265524+00:00,webdev
+ndmuj14,1ne8s2q,1ne8s2q,Unique-Benefit-2904,"Every second day, sam altman tries to create the so called fear of AI replacing everyone so that he can get more money from investors",6,1757598353.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmuj14/,False,0,0,,False,2025-09-11T20:24:31.265531+00:00,webdev
+ndmv3ht,1ne8s2q,1ne8s2q,tdammers,"Sam Altman is trying to pull a blitzscale on software development. Let's see how that plays out for him.
+
+Also... ""in an interview with Tucker Carlson"". Ah, yes, Tucker Carlson, the embodiment of journalistic integrity, the king of relentless critical thought...",6,1757598533.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmv3ht/,False,0,0,,False,2025-09-11T20:24:31.265539+00:00,webdev
+ndmwy8r,1ne8s2q,1ne8s2q,Dhiox,He says this as companies are actively hiring programmers to fix the terrible code spit out by AI.,6,1757599110.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmwy8r/,False,0,0,,False,2025-09-11T20:24:31.265547+00:00,webdev
+ndndv30,1ne8s2q,1ne8s2q,heveabrasilien,"Developers say CEOs Make Record Salaries, But Future of AI Is Unclear",7,1757604166.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndndv30/,False,0,0,,False,2025-09-11T20:24:31.265554+00:00,webdev
+ndnmxu2,1ne8s2q,1ne8s2q,Tomato_Sky,"None of these CEO’s know what Devs do. They never did. They were CEO’s and drooling at code completion tools in the hands of an AI chatbot which have been around for maybe a decade?
+
+The reality on the ground is that nobody can use AI professionally. It’s only creating more work for Devs and hasn’t made any company more productive or else you’d be seeing amazing innovation from any of the big tech companies. 
+
+But the industry has shortened launch times with templates and libraries and low code options like microservices. Nobody I am networked with have told me of any success in incorporating any of their products. While they all tell us how Devs are going away.",7,1757606833.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndnmxu2/,False,0,0,,False,2025-09-11T20:24:31.265562+00:00,webdev
+ndnna58,1ne8s2q,1ne8s2q,TheEvilDrPie,"“Hey ShatGPT can you create an array in Shopify’s liquid?”
+
+“Wow, what a great idea. Absolutely you can. Let me read Shopifys documentation to help…”
+
+
+“assign newArray = Shopify.sections.collections.products | array, where: products.size == true”
+
+
+“Hey CrapGPT, none of that is correct or even exists?!!”
+
+
+“Wow, you’re right. Good spotting! Let me scrape Reddit and Stack Overflow!”",6,1757606937.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndnna58/,False,0,0,,False,2025-09-11T20:24:31.265570+00:00,webdev
+ndmxl3h,1ne8s2q,1ne8s2q,cocoaLemonade22,Remember how terrified he was about releasing GPT5? 😂 the bubble has popped. It’s nothing more than a useful tool.,5,1757599307.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmxl3h/,False,0,0,,False,2025-09-11T20:24:31.265578+00:00,webdev
+ndnni5x,1ne8s2q,1ne8s2q,ballinb0ss,"Really a hell of a walk back honestly. 
+
+He started back in the GPT 3 days suggesting programmers wouldn't exist soon. Then he said something silly like 100 or 10x productivity gains and less programmers. Now it's simply ""the future is uncertain"" lmao. 
+
+Sam stradamous over here...",6,1757607003.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndnni5x/,False,0,0,,False,2025-09-11T20:24:31.265586+00:00,webdev
+ndn9g0h,1ne8s2q,1ne8s2q,Crackpipejunkie,"Yeah that’s not happening anytime soon. I decided to try vibe coding today, my god I have never had a more frustrating experience. I gave it a working component and asked it to make some improvement, then spent two hours trying to debug why it wasn’t working. It had no idea why it wasn’t working, added so much bloat, eventually I gave up and looked at the code myself and realised it had changed one of the API calls, I corrected it, told it exactly what to change and then asked it to give me the updated component with the working api call. I shit you not, it fucking changed the api call again on very next component. That was not a fun experience, atleast with coding and debugging it feels like solving a puzzle. This was just rage inducing.",4,1757602848.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndn9g0h/,False,0,0,,False,2025-09-11T20:24:31.265593+00:00,webdev
+ndnf9vg,1ne8s2q,1ne8s2q,rjhancock,AI CEO saying developers may lose their jobs while having an annual spend of more than 2x their annual revenue that is actively increasing with no real insight on when profitability will occur while also killing children because safety isn't important.,5,1757604579.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndnf9vg/,False,0,0,,False,2025-09-11T20:24:31.265601+00:00,webdev
+ndng1t0,1ne8s2q,1ne8s2q,CoffeeKicksNicely,"All they did was hype up an interesting tech to the wazoo and gut tech jobs.
+
+Endlessly gamed benchmarks on a tech which is trained on petabytes of data and that can't tell the number of rs in a strawberry but the world should give them trillions for their next demo.",5,1757604809.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndng1t0/,False,0,0,,False,2025-09-11T20:24:31.265609+00:00,webdev
+ndngfor,1ne8s2q,1ne8s2q,kUdtiHaEX,Bullshit.,4,1757604923.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndngfor/,False,0,0,,False,2025-09-11T20:24:31.265616+00:00,webdev
+ndnpwr9,1ne8s2q,1ne8s2q,Coderado,Developer salaries are trending downward since covid. That was record salary time. He is full of shit like every c-suite idiot.,3,1757607708.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndnpwr9/,False,0,0,,False,2025-09-11T20:24:31.265624+00:00,webdev
+ndmybgf,1ne8s2q,1ne8s2q,Piece_de_resistance,Developers look like they are still going to make record salaries cleaning up errors made by AI,3,1757599533.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmybgf/,False,0,0,,False,2025-09-11T20:24:31.265632+00:00,webdev
+ndn4tz9,1ne8s2q,1ne8s2q,nothing_pt,The bs seller.,3,1757601494.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndn4tz9/,False,0,0,,False,2025-09-11T20:24:31.265640+00:00,webdev
+ndn8jjt,1ne8s2q,1ne8s2q,KwyjiboTheGringo,Oh it's the guy who's manufacturing and selling a device to spy on people so he can collect data from the real world.  Yeah don't listen to anything this psycho has to say.,3,1757602586.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndn8jjt/,False,0,0,,True,2025-09-11T20:24:31.265648+00:00,webdev
+ndnap5c,1ne8s2q,1ne8s2q,anelectricmind,"""Developers make record salaries""
+
+*Looks at paycheck...*
+
+I think my paycheck didn\`t get the memo...",3,1757603224.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndnap5c/,False,0,0,,False,2025-09-11T20:24:31.265656+00:00,webdev
+ndnap6w,1ne8s2q,1ne8s2q,cartiermartyr,Got any more of them record salaries?,3,1757603225.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndnap6w/,False,0,0,,False,2025-09-11T20:24:31.265664+00:00,webdev
+ndncbb4,1ne8s2q,1ne8s2q,aelfwine_widlast,"Vibe coding is fun for quick prototypes you can then take over and finish. But nothing else. Current models can’t hold a mental model of an entire application and all its externalities. 
+
+Young as he is, Sam is unlikely to live to see AI that can replace all coding jobs.
+
+And if I’m wrong? I’ll pay the bills a different way and just program for fun, the way hobbyists today still enjoy programming on 8 bit computers just for fun.",3,1757603706.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndncbb4/,False,0,0,,False,2025-09-11T20:24:31.265672+00:00,webdev
+ndndqpc,1ne8s2q,1ne8s2q,Icount_zeroI,"And yet he would be nothing without them… But these kind of talks pay money, right? Kinda like Hitler, he also sold propaganda to a lot by targeting specific group 😄🫣 (okay its time to hop off reddit for today)",3,1757604130.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndndqpc/,False,0,0,,False,2025-09-11T20:24:31.265680+00:00,webdev
+ndne933,1ne8s2q,1ne8s2q,theSantiagoDog,What about the future of BS-spewing CEO jobs?,3,1757604280.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndne933/,False,0,0,,False,2025-09-11T20:24:31.265687+00:00,webdev
+ndnhw6s,1ne8s2q,1ne8s2q,mrbmi513,"As long as my ""AI Coding Agent"" keeps regularly getting itself in infinite loops like it tends to do, my job is safe.",3,1757605351.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndnhw6s/,False,0,0,,False,2025-09-11T20:24:31.265694+00:00,webdev
+ndmwqaz,1ne8s2q,1ne8s2q,nilanganray,He also said ChatGPT 5 is a huge leap and here we are,2,1757599043.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmwqaz/,False,0,0,,False,2025-09-11T20:24:31.265702+00:00,webdev
+ndmwzig,1ne8s2q,1ne8s2q,RamonsRazor,"###I dare a journalist to ask him ""why"" or ""how"" three times in a row.",2,1757599121.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmwzig/,False,0,0,,False,2025-09-11T20:24:31.265709+00:00,webdev
+ndmx2y1,1ne8s2q,1ne8s2q,Sybbian-,Are we going to post every single little thing this guy says? It's not that interesting.,2,1757599151.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmx2y1/,False,0,0,,False,2025-09-11T20:24:31.265717+00:00,webdev
+ndmzdpn,1ne8s2q,1ne8s2q,Aven-ex,I am so tired of hearing every one of this a\*shole's quotes. People act like it's some religious gospel when he's just basically a snake oil salesman,2,1757599858.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmzdpn/,False,0,0,,False,2025-09-11T20:24:31.265725+00:00,webdev
+ndmzinb,1ne8s2q,1ne8s2q,americruiser,Developers make normal salaries adjusted for inflation.,2,1757599899.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndmzinb/,False,0,0,,False,2025-09-11T20:24:31.265732+00:00,webdev
+ndn0u4z,1ne8s2q,1ne8s2q,East-Cabinet-6490,"Yes, but not now. In 2100 maybe.",2,1757600300.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndn0u4z/,False,0,0,,False,2025-09-11T20:24:31.265740+00:00,webdev
+ndn3i4m,1ne8s2q,1ne8s2q,cant_have_nicethings,I feel the same way about his job,2,1757601098.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndn3i4m/,False,0,0,,False,2025-09-11T20:24:31.265747+00:00,webdev
+ndn5j4y,1ne8s2q,1ne8s2q,KooKiz666,Yeah yeah. It's like we never heard it before-we know that AI already took over programmer medic teacher office rats and anti-zombies from Mars squad jobs... It's sooo 2023 altmanshift needs a new calendar.,2,1757601701.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndn5j4y/,False,0,0,,False,2025-09-11T20:24:31.265755+00:00,webdev
+ndn5pgp,1ne8s2q,1ne8s2q,Mental-Net-953,"""generate way more code, make way more money than ever before""
+
+Imagine being this out of touch lol
+
+But I get what he's saying: ""buy my tools now to stock up on money for when my tool replaces you""
+
+I am subscribed to your service, Sam, but shit like this is pushing me further into unsubscribing.",2,1757601752.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndn5pgp/,False,0,0,,False,2025-09-11T20:24:31.265762+00:00,webdev
+ndndqlo,1ne8s2q,1ne8s2q,rennademilan,If the challenge is supposed to come from gpt5. I'm fine,2,1757604129.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndndqlo/,False,0,0,,False,2025-09-11T20:24:31.265770+00:00,webdev
+ndng52j,1ne8s2q,1ne8s2q,am-reddit,Does he  know programmers built those systems? And that they will also build the next big thing in software?,2,1757604836.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndng52j/,False,0,0,,False,2025-09-11T20:24:31.265777+00:00,webdev
+ndnl986,1ne8s2q,1ne8s2q,ryuzaki49,"Thats because tech companies make record profits.
+
+
+If they werent making so much money with our skills, the salaries wouldnt be this high ",2,1757606337.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndnl986/,False,0,0,,False,2025-09-11T20:24:31.265785+00:00,webdev
+ndnml70,1ne8s2q,1ne8s2q,shmorky,Unclear? I thought we would be out of a job by now?,2,1757606728.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndnml70/,False,0,0,,False,2025-09-11T20:24:31.265792+00:00,webdev
+ndnub11,1ne8s2q,1ne8s2q,FortuneIIIPick,Record salaries? My salary this year which I was grateful for after the 2022 Altman and friend AI dump on the world broke software engineering for 3 years; was about the same I was earning in 2006 and later for doing the same job.,2,1757608987.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndnub11/,False,0,0,,False,2025-09-11T20:24:31.265800+00:00,webdev
+ndoiubg,1ne8s2q,1ne8s2q,MarkZuckerbergsPerm,Do we really need to know about everything this grifter says,2,1757615827.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndoiubg/,False,0,0,,False,2025-09-11T20:24:31.265807+00:00,webdev
+ndomhi2,1ne8s2q,1ne8s2q,Settaz1,"1. Engineers are not currently making record salaries. Maybe a couple years ago.
+2. He needs to chill with hyping up AI. I think at this point we’ve seen it’s hit a stagnation point. It’s good as a tool, it’s not replacing engineers let’s be real.",2,1757616881.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndomhi2/,False,0,0,,False,2025-09-11T20:24:31.265815+00:00,webdev
+ndopoa1,1ne8s2q,1ne8s2q,lmuzi,"Is there still someone who believes these claims? I feel like a couple years ago they could be scary, but we've all seen the ""power"" of ai, now we have ""professional vibe coding fixers"" on likedin",2,1757617808.0,https://reddit.com/r/webdev/comments/1ne8s2q/sam_altman_says_developers_make_record_salaries/ndopoa1/,False,0,0,,False,2025-09-11T20:24:31.265822+00:00,webdev
+ndmxw0d,1ne9cfa,1ne9cfa,procrastinatus-kek,"Stop working on an issue and go for a walk. After the walk, I usually already know the solution.",663,1757599402.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndmxw0d/,False,0,0,,False,2025-09-11T20:24:34.252737+00:00,webdev
+ndn3uzm,1ne9cfa,1ne9cfa,Sockoflegend,Finish work but don't commit it until tomorrow so you can take the afternoon off ,174,1757601205.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn3uzm/,False,0,0,,False,2025-09-11T20:24:34.252772+00:00,webdev
+ndmwoly,1ne9cfa,1ne9cfa,donkey-centipede,"probably the thing I'd suggest is to learn to navigate a code base with an IDEs features instead of clicking through a directory tree to find something. navigating directly to classes, definitions, usages, hierarchies etc is much faster than remembering and manually opening the exact location, and it's something you constantly need to do",233,1757599028.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndmwoly/,False,0,0,,False,2025-09-11T20:24:34.252793+00:00,webdev
+ndmx63d,1ne9cfa,1ne9cfa,MartinMystikJonas,"Plan your day. Every morning write todo with all tasks you want to do today, then chain them in order. Keeps you focused on current task and saves you surprisingly lot of time you would spend by repeatedly choosing next task from unordered list or trying to remeber what else you have to do.
+
+Zero inbox and backlog of tasks (sorted into three categories: ideas, todo and priority)",91,1757599178.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndmx63d/,False,0,0,,True,2025-09-11T20:24:34.252803+00:00,webdev
+ndmxkv3,1ne9cfa,1ne9cfa,StonksGoUpOnly,grep,40,1757599305.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndmxkv3/,False,0,0,,False,2025-09-11T20:24:34.252812+00:00,webdev
+ndn9nni,1ne9cfa,1ne9cfa,logTom,"Saying thank you when someone does something for me, even if they are paid to do it.",31,1757602912.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn9nni/,False,0,0,,False,2025-09-11T20:24:34.252820+00:00,webdev
+ndmw1ms,1ne9cfa,1ne9cfa,gmaaz,"Shortcuts. Learn them, use them.",63,1757598829.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndmw1ms/,False,0,0,,False,2025-09-11T20:24:34.252828+00:00,webdev
+ndn4x3b,1ne9cfa,1ne9cfa,brock0124,"Learning Docker 5 years ago has paid the most dividends for me. I got my work to stop using Vagrant for local dev (still working on deploying containers), I’ve found a keen interest in DevOps, and it’s been a gateway to running a lot of other cool self-hosted software and learning other tech.
+
+For more day-to-day, my 49” ultra-wide monitor and Herman Miller chair have been game changers for productivity and comfort.
+
+Getting diagnosed with ADHD and finding effective treatment is whats given me “super powers” though. My productivity has skyrocketed at work.",27,1757601519.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn4x3b/,False,0,0,,False,2025-09-11T20:24:34.252836+00:00,webdev
+ndmy7mw,1ne9cfa,1ne9cfa,ashkanahmadi,"A lot of custom snippets on VSCode. I can get a complete component with placeholders and more with just 4 keystrokes. 
+
+Keep a private repo for your useful code with clear documentation so you don’t have to manually write useful functions every time.
+
+Keep everything organized.",11,1757599501.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndmy7mw/,False,0,0,,False,2025-09-11T20:24:34.252844+00:00,webdev
+ndn2cla,1ne9cfa,1ne9cfa,KeepItGood2017,"Use pomodoro, every 25 minutes stop working for 5 minutes. Stretch, make some tea, do pushups, water the plants, wash the dishes, pet your cat, wash your clothes, do a plank. 
+
+If you are not in a flow, take a longer 25 minute break after one and half hours. Do your errands, walk the dog, clean the pool, shoot some hoops, vacuum the house, prep a meal, sort out your accounts, talk to your family, call your mom, checkout the markets, read a bit of your book. 
+
+Take a long break for lunch, and a long break for dinner, make family time, combine it with a gym visit, take a bike ride, play computer games, practice your music instrument, watch some Netflix, checkout tech YouTube.
+
+Stop coding by Ten.",27,1757600752.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn2cla/,False,0,0,,False,2025-09-11T20:24:34.252852+00:00,webdev
+ndmwv23,1ne9cfa,1ne9cfa,sin_esthesia,I have bash/git aliases for commands I use often and scripts for chains of commands I often run. I probably save something like 15min a day with that but also a lot of mental drain.,12,1757599083.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndmwv23/,False,0,0,,False,2025-09-11T20:24:34.252882+00:00,webdev
+ndn5qny,1ne9cfa,1ne9cfa,Jazzlike-Compote4463,"Using a debugger... properly... with your IDE and everything (more to the point, learn your IDE! They're really useful!)
+
+It's like you can reach into the code and see exactly what is calling what and from where with no more guess work. What is the value of X at this point? What function called this one when this endpoint was hit? What happens if I call the ORM function on this data structure? Is this code tested? I'll add a debug breakpoint and then run the test suite to see if it triggers.
+
+It's just so incredibly useful that I go nuts when I see people resorting to print statements and the like.",10,1757601762.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn5qny/,False,0,0,,False,2025-09-11T20:24:34.252890+00:00,webdev
+ndn7o7g,1ne9cfa,1ne9cfa,StillScooterTrash,"Get a debugger working in your IDE for whatever language you are using. For example php Xdebug. You can set break points and examine the current variables and follow the execution rather than resorting to var dumps and ""made it here"" messages.",9,1757602333.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn7o7g/,False,0,0,,False,2025-09-11T20:24:34.252899+00:00,webdev
+ndnp9cp,1ne9cfa,1ne9cfa,Ok_Ambassador7752,"Keep a work journal. Add to it daily. Link to the Jira tickets you were working on. Note tricky problems you encountered and document the solution. I do this and organise it by month. I find it's great when it comes to self-reviews where you need to present yourself in a good light and make sure your manager is reminded of the work you did (if I didn't write stuff down I'd forget).
+
+Lately I am using Notebook LM to dump the problems/resolutions I've encountered. I then use that in the future when I hit a problem, chances are I've already solved it. It's like my own work-specific LLM.",8,1757607517.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndnp9cp/,False,0,0,,False,2025-09-11T20:24:34.252907+00:00,webdev
+ndn33ch,1ne9cfa,1ne9cfa,nahaten,You don't have to share the fact you've automated a good portion of your daily tasks.,6,1757600975.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn33ch/,False,0,0,,False,2025-09-11T20:24:34.252943+00:00,webdev
+ndno3vq,1ne9cfa,1ne9cfa,aldo_nova,"2 weekly standup meetings. I do most of my work the mornings before those meetings Tuesday and Thursday and hardly do shit the rest of the time if I can avoid it
+
+Boss is happy with my output so why stress?",7,1757607179.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndno3vq/,False,0,0,,False,2025-09-11T20:24:34.252951+00:00,webdev
+ndn45j0,1ne9cfa,1ne9cfa,full_drama_llama,"Not using AI, so I actually know what the code does.",27,1757601292.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn45j0/,False,0,0,,False,2025-09-11T20:24:34.252959+00:00,webdev
+ndmxhke,1ne9cfa,1ne9cfa,BigBoicheh,"Vim, and actually getting good at it",20,1757599276.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndmxhke/,False,0,0,,False,2025-09-11T20:24:34.252967+00:00,webdev
+ndn3n38,1ne9cfa,1ne9cfa,ttoommxx,"If something comes up to your mind, write it down, immediately. Keep a note with scribbles of to-dos of your active projects",5,1757601138.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn3n38/,False,0,0,,True,2025-09-11T20:24:34.252974+00:00,webdev
+ndmvf9x,1ne9cfa,1ne9cfa,Chris_Lojniewski,For me it’s using `git checkout -` to swap branches instantly. Or `npx serve .` when I just need to spin something up quick,15,1757598636.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndmvf9x/,True,0,0,,False,2025-09-11T20:24:34.252982+00:00,webdev
+ndn4ep6,1ne9cfa,1ne9cfa,chatham_solar,"If you have to connect to any remote servers frequently, set up ssh keys and your ssh config file with aliases. I couldn’t believe some of my colleagues were keeping spreadsheets of the username, hostname and password for frequently accessed servers and using copy paste when they could just be doing ‘ssh alias’. Similarly works with scp so you can do scp alias://path/to/file.txt .",4,1757601368.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn4ep6/,False,0,0,,False,2025-09-11T20:24:34.252990+00:00,webdev
+ndn7yuz,1ne9cfa,1ne9cfa,HemetValleyMall1982,"You can use AI Claude Sonnet to generate mermaid diagrams of code.
+
+1. Create a blank MD file.
+2. Open the module you want to diagram.
+3. Ask for a mermaid diagram.
+4. Add the AI generated text into the md file.
+
+If you look at the file in GitHub, or 'preview' the file in your IDE it will render properly as a diagram.
+
+Works in Angular and Java, not sure about other languages, but probably works there too.",5,1757602420.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn7yuz/,False,0,0,,False,2025-09-11T20:24:34.252998+00:00,webdev
+ndn8jku,1ne9cfa,1ne9cfa,FriendToPredators,Always make sure to know “why” something is requested. Wasted work is borne from the telephone tag of people poorly describing a change that gets specced by someone else and then the implementation is yet again remote from the actual problem.,4,1757602586.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn8jku/,False,0,0,,False,2025-09-11T20:24:34.253005+00:00,webdev
+ndo430h,1ne9cfa,1ne9cfa,AccordingLeague9797,"learn how to create flowcharts when dealing with complex business logic, if u can well document your problem you have solved half of it, or use AI to learn how to create great flowcharts",4,1757611743.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndo430h/,False,0,0,,False,2025-09-11T20:24:34.253013+00:00,webdev
+ndne6b1,1ne9cfa,1ne9cfa,GirthyPigeon,"Having a wank to get the heart started, then a nice strong coffee, then a hefty shit, then start my day after my shower.  Works every time.",5,1757604257.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndne6b1/,False,0,0,,False,2025-09-11T20:24:34.253021+00:00,webdev
+ndn6p4d,1ne9cfa,1ne9cfa,ThanosDi,Assign and use key bindings! The less mouse clicks you do the more efficient you'll be.,3,1757602047.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn6p4d/,False,0,0,,False,2025-09-11T20:24:34.253028+00:00,webdev
+ndon9d7,1ne9cfa,1ne9cfa,gdubrocks,Taking the 20 hours to properly learn CSS instead of guess and checking like other developers do.,3,1757617105.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndon9d7/,False,0,0,,False,2025-09-11T20:24:34.253036+00:00,webdev
+ndmxyh3,1ne9cfa,1ne9cfa,Chris_Lojniewski,one more: setting up `lint-staged + husky` to auto-format and run quick checks before every commit,5,1757599422.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndmxyh3/,True,0,0,,False,2025-09-11T20:24:34.253044+00:00,webdev
+ndmz2t8,1ne9cfa,1ne9cfa,poggers11,Knowing English,6,1757599764.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndmz2t8/,False,0,0,,False,2025-09-11T20:24:34.253051+00:00,webdev
+ndmw47y,1ne9cfa,1ne9cfa,CanIDevIt,"Starting writing a function sloppily, then asking AI to fix and fill the rest of it in as it should know what I mean.  Note I only do this with functions small enough to know when it's got it right.",9,1757598852.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndmw47y/,False,0,0,,False,2025-09-11T20:24:34.253058+00:00,webdev
+ndn78mu,1ne9cfa,1ne9cfa,Scary_Mix_2831,"Use vim
+90% of the time you'll be editing code so you gotta get good at it",2,1757602207.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn78mu/,False,0,0,,False,2025-09-11T20:24:34.253066+00:00,webdev
+ndnaip7,1ne9cfa,1ne9cfa,mymar101,"Aliases.  I alias everything. AEM start up command that's 400 characters long? That becomes aem. Then enter. Done.  I run my full stack .net next js app with r3 enter.  r3 is part of it's name.  A coworker laughed at me once and said I was lazy. I'm not lazy, I just hate making the same damn typos all day long when I could be doing work.",2,1757603171.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndnaip7/,False,0,0,,False,2025-09-11T20:24:34.253074+00:00,webdev
+ndnmus5,1ne9cfa,1ne9cfa,Cupidmove,"I keep a snippet library for everything, saves so much time",2,1757606808.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndnmus5/,False,0,0,,False,2025-09-11T20:24:34.253081+00:00,webdev
+ndnv0oc,1ne9cfa,1ne9cfa,HipJiveGuy,"never commit a PR on a Friday, or before you go on vacation.
+
+When posting a message in Slack, post anything big, like a stack trace, put it n the thread, not in the main message.
+
+When u DM someone to talk about an issue, make sure you have a whole question written out first, so you don’t waste their time by saying hi, then they wait two or three minutes while you type something up.
+
+you can use any url as a custom search engine in chrome or Firefox, to quick jumping to url’s and replacing a parameter in the url, even JavaScript :-)
+
+Use multiple chrome profiles, or Firefox profile profiles to switch between different test accounts",2,1757609192.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndnv0oc/,False,0,0,,False,2025-09-11T20:24:34.253089+00:00,webdev
+ndn4g2w,1ne9cfa,1ne9cfa,katafrakt,Not using mouse while working with code,3,1757601379.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn4g2w/,False,0,0,,False,2025-09-11T20:24:34.253096+00:00,webdev
+ndn1b9x,1ne9cfa,1ne9cfa,zayelion,Never ever ever use the \`else\` statement. It reduces the cyclomatic complexity of the code base down to human manageable levels.,2,1757600444.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn1b9x/,False,0,1,,False,2025-09-11T20:24:34.253104+00:00,webdev
+ndmweu2,1ne9cfa,1ne9cfa,Legitimate-Rip-7479,using tabnine for boilerplate code—it feels like cheating but saves me hours of repetitive typing.,1,1757598943.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndmweu2/,False,0,0,,False,2025-09-11T20:24:34.253111+00:00,webdev
+ndn2ita,1ne9cfa,1ne9cfa,anaveragedave,Bash/zsh aliases and functions,1,1757600803.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn2ita/,False,0,0,,False,2025-09-11T20:24:34.253119+00:00,webdev
+ndn3x1m,1ne9cfa,1ne9cfa,jack-dawed,"Git aliases. I use the aliases that come with https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git
+
+And a good way to train urself to use more aliases https://github.com/djui/alias-tips
+
+Jumping to directories https://github.com/ajeetdsouza/zoxide
+
+Vim. Not just for editors but also everywhere else, like browsers, file navigation, etc. I actively seek out things that have Vim-like bindings.",1,1757601222.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn3x1m/,False,0,0,,False,2025-09-11T20:24:34.253126+00:00,webdev
+ndn5dco,1ne9cfa,1ne9cfa,Quin452,"Having everything ""all in one"".  So my IDE can handle code, deployment, bash, database, services 
+
+I've even got standalone programs to do all this in, but when I'm coding, it's just easier having it all in the IDE.
+
+I guess it's down to the mental capacity of switching programs 😅",1,1757601653.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn5dco/,False,0,0,,False,2025-09-11T20:24:34.253134+00:00,webdev
+ndn8lyt,1ne9cfa,1ne9cfa,stl_56,"On VSCode: 
+
+ -> CTRL + K + C: allows you to comment on several lines at once). 
+
+-> CTRL + K + U (uncomments at once). 
+
+It changed my life.",1,1757602606.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndn8lyt/,False,0,0,,True,2025-09-11T20:24:34.253141+00:00,webdev
+ndna6v7,1ne9cfa,1ne9cfa,autophage,"Get comfortable building small scratch apps to test things.
+
+If I'm integrating with an external service, I generally write a command-line app that just calls the endpoint.
+
+If I'm working on getting styling right, I create a blank page with just the components I'm playing with and stubs for all the data population.
+
+If I've got logic more complicated than a single if/else, I seriously consider adding unit tests for it.
+
+While pushing forward this kind of thing can feel like a speedbump, the moment you run into a hitch, it's helpful to have a fast-to-run, fast-to-modify version of the problem.",1,1757603073.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndna6v7/,False,0,0,,False,2025-09-11T20:24:34.253152+00:00,webdev
+ndnamxk,1ne9cfa,1ne9cfa,jam_pod_,Goto Anything in Sublime,1,1757603206.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndnamxk/,False,0,0,,False,2025-09-11T20:24:34.253160+00:00,webdev
+ndnbb7u,1ne9cfa,1ne9cfa,oz1sej,"Knowing which customers can be billed a little more, so you have better time to research the problem. I've sometimes made one customer (huuuge company) pay for stuff I did for a small company.",1,1757603407.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndnbb7u/,False,0,0,,False,2025-09-11T20:24:34.253167+00:00,webdev
+ndndpvn,1ne9cfa,1ne9cfa,jeenajeena,ace-jump,1,1757604124.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndndpvn/,False,0,0,,False,2025-09-11T20:24:34.253175+00:00,webdev
+ndnfsfp,1ne9cfa,1ne9cfa,IAmRules,"Write out what I want to do in plain English first, simplify the logic as much as possible, then code",1,1757604732.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndnfsfp/,False,0,0,,False,2025-09-11T20:24:34.253182+00:00,webdev
+ndnfy5x,1ne9cfa,1ne9cfa,Redneckia,Using makefiles,1,1757604779.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndnfy5x/,False,0,0,,False,2025-09-11T20:24:34.253190+00:00,webdev
+ndnib4w,1ne9cfa,1ne9cfa,mkg11,I second learning IDE shortcuts.   It speeds up workflow a ton,1,1757605474.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndnib4w/,False,0,0,,False,2025-09-11T20:24:34.253197+00:00,webdev
+ndnji98,1ne9cfa,1ne9cfa,Low_Arm9230,"Reading documentation. It feels like using some cheat code for a difficult game, and I guess internally I’m thinking like I’ve been doing this for eight years now I should just know how code works",1,1757605825.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndnji98/,False,0,0,,False,2025-09-11T20:24:34.253205+00:00,webdev
+ndnjsr2,1ne9cfa,1ne9cfa,Traditional-Hall-591,Work on a non-tech project like home repair. Do the dishes. Go take a shit. Anything to get my mind in a different space for a moment.,1,1757605910.0,https://reddit.com/r/webdev/comments/1ne9cfa/whats_your_1_dev_lifehack_that_feels_like_cheating/ndnjsr2/,False,0,0,,False,2025-09-11T20:24:34.253215+00:00,webdev
+ndmeipx,1ne6dfc,1ne6dfc,thestaffstation,"I’d build a normal looking portfolio, and then have a notification on the corner like “open the terminal” to show this one.
+That way you can let everyone have their cup of tea.",32,1757592888.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmeipx/,False,0,0,,False,2025-09-11T20:24:36.051213+00:00,webdev
+ndmbhc4,1ne6dfc,1ne6dfc,haronclv,"Tbh it's shit. Not because I don't like the idea and implementation. It's because as a potential client I'm leaving it in half second. As potentional recruiter I'd also leave it pretty quickly.
+
+It's cool portfolio project, but it's not practical to achieve real goals.",45,1757591694.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmbhc4/,False,0,0,,False,2025-09-11T20:24:36.051255+00:00,webdev
+ndm8wzv,1ne6dfc,1ne6dfc,Familiar_Bill_786,"its cool, but I doubt recruiters would actually take a look at it",14,1757590637.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndm8wzv/,False,0,0,,False,2025-09-11T20:24:36.051269+00:00,webdev
+ndmkz5s,1ne6dfc,1ne6dfc,mjdegue,"I love the idea!
+
+Couple of thoughts:
+
+\- This is something I'd show as part of my portfolio, rather than this being my portfolio hub.
+
+\- When typing a command, the screen should scroll down just like a terminal. 
+
+The rest it's great!",7,1757595219.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmkz5s/,False,0,0,,False,2025-09-11T20:24:36.051280+00:00,webdev
+ndmgvz6,1ne6dfc,1ne6dfc,FarAttorney2014,Not so professional,4,1757593769.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmgvz6/,False,0,0,,False,2025-09-11T20:24:36.051289+00:00,webdev
+ndmm3ox,1ne6dfc,1ne6dfc,gyunbie,"If only showcase it's cool, but if your goal is to get recruited ditch it asap.",5,1757595602.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmm3ox/,False,0,0,,False,2025-09-11T20:24:36.051299+00:00,webdev
+ndmgy6w,1ne6dfc,1ne6dfc,BigYoSpeck,"I respect the aesthetic and approach to avoid having yet another run of the mill landing page
+
+It needs to auto scroll once you reach the bottom though and might I suggest that on a wide enough viewport you also have the regular scrollable page like you provide on mobile for those who won't take the time to play with the novelty of it. Split the view like it's a terminal multiplexer",3,1757593792.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmgy6w/,False,0,0,,False,2025-09-11T20:24:36.051310+00:00,webdev
+ndmwgpk,1ne6dfc,1ne6dfc,vektor451,"this is a cool idea, but horrible if you actually wanna get hired.",3,1757598959.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmwgpk/,False,0,0,,False,2025-09-11T20:24:36.051320+00:00,webdev
+ndmhe39,1ne6dfc,1ne6dfc,uNki23,"For me, personally, I always have a bad feeling when people don’t know the correct naming of the stuff they claim to be profound in.
+
+Like „POSTGRESQL“ - no one writes it like that. It’s „PostgreSQL“ or just „Postgres“.
+
+Express.js not Expressjs 
+React not Reactjs
+Go not Golang
+MongoDB not mongoDB
+…
+
+This tells me that you either have not much experience with any of these or you lack attention to detail.
+
+My bet: both of it 🤷🏼‍♂️",5,1757593952.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmhe39/,False,0,0,,False,2025-09-11T20:24:36.051329+00:00,webdev
+ndmhiwg,1ne6dfc,1ne6dfc,DurianLongjumping329,Not good. Forcing the recruiter to use the keyboard like using terminal is very bad UX. Any visitor would want to seamlessly explore the website with his mouse and see everything like he is flying there. And he has to look for the right command for each thing he is looking for? I think you should take inspiration from other portfolios.,1,1757594001.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmhiwg/,False,0,0,,False,2025-09-11T20:24:36.051338+00:00,webdev
+ndmou7g,1ne6dfc,1ne6dfc,electrikmayham,"If the page is taken up with content, and I type in a new command, it doesnt scroll down to the next command prompt. Making the new content hidden in the overflow until I scroll. If I type whoami I want to see information about you, I dont wanna have to scroll to get it AFTER I typed in a command.",1,1757596516.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmou7g/,False,0,0,,False,2025-09-11T20:24:36.051348+00:00,webdev
+ndmou83,1ne6dfc,1ne6dfc,Amoner,I like the mobile version the best,1,1757596517.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmou83/,False,0,0,,False,2025-09-11T20:24:36.051357+00:00,webdev
+ndmu565,1ne6dfc,1ne6dfc,_Panjo,"At least spell check it ffs.
+
+applicatoins
+
+🙄",1,1757598232.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmu565/,False,0,0,,False,2025-09-11T20:24:36.051367+00:00,webdev
+ndmujay,1ne6dfc,1ne6dfc,Unlucky_Dealer6843,"I recommend to make two styles:
+
+1. For HR. Brief information about experience and projects without terminal within one screen (make it nice and add some animations to show your web skills)  
+2. For fun. Make terminal more authentic. Use only symbols and convert images into ASCII art. For example, projects could look like this:
+
+|-----------------------------------------------|  
+| Project name                                  |  
+|-----------------------------------------------|  
+| Description                                     |  
+| ----------------------------------------------|",1,1757598356.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmujay/,False,0,0,,False,2025-09-11T20:24:36.051376+00:00,webdev
+ndnlkxy,1ne6dfc,1ne6dfc,Rizal95,Looks fresh,1,1757606431.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndnlkxy/,False,0,0,,False,2025-09-11T20:24:36.051385+00:00,webdev
+ndoj50o,1ne6dfc,1ne6dfc,rwbdev_pl,Looks nice! Now rewrite it in Go and serve via ssh :\],1,1757615913.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndoj50o/,False,0,0,,False,2025-09-11T20:24:36.051394+00:00,webdev
+ndos8n4,1ne6dfc,1ne6dfc,Dxd_For_Life,"Its cool ,an, i wanted to do something like this too , but in a different way, like the terminal would be in a tv div , you get me",1,1757618560.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndos8n4/,False,0,0,,False,2025-09-11T20:24:36.051403+00:00,webdev
+ndoxncp,1ne6dfc,1ne6dfc,teco-raees-45,Good👍,1,1757620152.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndoxncp/,False,0,0,,False,2025-09-11T20:24:36.051413+00:00,webdev
+ndmjlpg,1ne6dfc,ndmeipx,ban_rakash,"That's a nice idea, I will implement it",6,1757594743.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmjlpg/,True,1,0,,False,2025-09-11T20:24:36.051436+00:00,webdev
+ndmbpma,1ne6dfc,ndmbhc4,haronclv,btw. I have serious performace issues while typing,16,1757591784.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmbpma/,False,1,0,,False,2025-09-11T20:24:36.051452+00:00,webdev
+ndoqn68,1ne6dfc,ndmbhc4,Dragon_yum,"This is the correct answers. You are going to fight hundreds of people for positions. Most won’t even get looked at, if they are going to look at you it will be for a very short time so make sure you give them all the relevant information in a readable and concise way. This is also true for senior devs.",2,1757618094.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndoqn68/,False,1,0,,False,2025-09-11T20:24:36.051464+00:00,webdev
+ndmlcg6,1ne6dfc,ndmkz5s,ban_rakash,Thanks for your feedback,2,1757595344.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmlcg6/,True,1,0,,False,2025-09-11T20:24:36.051479+00:00,webdev
+ndmt34s,1ne6dfc,ndmgy6w,ban_rakash,Thanks for your suggestion,1,1757597893.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmt34s/,True,1,0,,False,2025-09-11T20:24:36.051490+00:00,webdev
+ndmj42w,1ne6dfc,ndmhe39,ban_rakash,"Thanks for pointing out, will fix it",1,1757594571.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmj42w/,True,1,0,,False,2025-09-11T20:24:36.051501+00:00,webdev
+ndmjc68,1ne6dfc,ndmhiwg,ban_rakash,"Thanks for commenting, will convert it into a simple traditional website with the option to switch to cli",2,1757594650.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmjc68/,True,1,0,,False,2025-09-11T20:24:36.051512+00:00,webdev
+ndmt6zh,1ne6dfc,ndmou7g,ban_rakash,"okay will fix it, thanks for feedback",1,1757597928.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmt6zh/,True,1,0,,False,2025-09-11T20:24:36.051523+00:00,webdev
+ndmq3uz,1ne6dfc,ndmou83,comptune,"I agree, if the desktop version looked  like mobile version it would be better in my humble opinion.",3,1757596932.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmq3uz/,False,1,0,,False,2025-09-11T20:24:36.051534+00:00,webdev
+ndmjnti,1ne6dfc,ndma1bq,ban_rakash,Got it thanks,1,1757594763.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmjnti/,True,1,0,,False,2025-09-11T20:24:36.051548+00:00,webdev
+ndmjgcm,1ne6dfc,ndmbpma,ban_rakash,"Okay, will do something about it",3,1757594691.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmjgcm/,True,2,0,,False,2025-09-11T20:24:36.051561+00:00,webdev
+ndma66j,1ne6dfc,ndm9lcf,Familiar_Bill_786,"Its not really about the things that you want show. It's more that recruiters have to go through hundreds of applications, so taking time to look at someone's portfolio website is just not realistic.",5,1757591159.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndma66j/,False,2,0,,False,2025-09-11T20:24:36.051574+00:00,webdev
+ndmdg2f,1ne6dfc,ndm9lcf,aligvaromhogy,"Accept the critisism from the guy, it was a fair one.
+
+Here's an honest one: it's not even cool. This is like the 100th CLI portfolio I've seen. First of all what really sucks is if I type in 3 commands (so it starts getting out of the screen) it doesn't even follows it, I have to scroll. I honestly don't know what you mean by that this shows ""range of skills from linux"", it shows nothing.
+
+EDIT: Also huge performance issues. I used help, stats and then banner - the site acts like a game with 12 fps.",2,1757592472.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmdg2f/,False,2,0,,False,2025-09-11T20:24:36.051588+00:00,webdev
+ndmsq5i,1ne6dfc,ndmq3uz,Amoner,"Yeah, I agree, I think the current desktop version could be a fun feature for the “Hey check this out too!”",2,1757597777.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmsq5i/,False,2,0,,False,2025-09-11T20:24:36.051599+00:00,webdev
+ndmkaes,1ne6dfc,ndmjnti,MossFette,Can you type commands in it?,1,1757594982.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmkaes/,False,2,0,,False,2025-09-11T20:24:36.051627+00:00,webdev
+ndmsw3x,1ne6dfc,ndmsq5i,ban_rakash,Thanks,1,1757597830.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmsw3x/,True,3,0,,False,2025-09-11T20:24:36.051640+00:00,webdev
+ndmkdvs,1ne6dfc,ndmkaes,ban_rakash,Yeah for desktops,1,1757595016.0,https://reddit.com/r/webdev/comments/1ne6dfc/review_my_portfolio/ndmkdvs/,True,3,0,,False,2025-09-11T20:24:36.051651+00:00,webdev
+ndhwn46,1ndmwp9,1ndmwp9,DigitalStefan,It’s going to piss me off more if I start reading and navigating and then a few seconds later I get an annoying popup.,201,1757530516.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndhwn46/,False,0,0,,False,2025-09-11T20:24:38.800281+00:00,webdev
+ndi29md,1ndmwp9,1ndmwp9,Crazyboreddeveloper,"Same.
+
+Pop up for any reason, instant nope. 
+
+Same with apps. Sometimes I’ll download a game and you have to swat away like 10 pop ups about in game events or “deals” before you can play. I just delete the game.",62,1757532063.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndi29md/,False,0,0,,False,2025-09-11T20:24:38.800332+00:00,webdev
+ndijsfi,1ndmwp9,1ndmwp9,Miserable-Split-3790,"Or if it has: 
+
+“Bob from Canada just purchased 1 minute ago”. 
+
+… 
+
+“Steve from Ohio just purchased 5 minutes ago”.",27,1757536716.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndijsfi/,False,0,0,,False,2025-09-11T20:24:38.800340+00:00,webdev
+ndi2igz,1ndmwp9,1ndmwp9,IAmRules,"Including cookies popups. Your 3rd party cookie consent popups do not mean anything if your app isn’t doing anything based on those inputs. 
+
+The web is made worse and nobody is safer",41,1757532128.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndi2igz/,False,0,0,,False,2025-09-11T20:24:38.800345+00:00,webdev
+ndinqzg,1ndmwp9,1ndmwp9,mb4828,I’ve never understood offering me a coupon before I even know what I’m buying. Thanks but you’re actively preventing me from buying something!,9,1757537742.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndinqzg/,False,0,0,,False,2025-09-11T20:24:38.800351+00:00,webdev
+ndigvwn,1ndmwp9,1ndmwp9,Salamok,"I spent 2 years doing a complete government website redesign. I was allowed nearly complete control over every aspect from manging the project, to building the infrastructure, site architecture, accessibility, mobile responsiveness, hiring and working with a graphics design firm for the rebrand, content planning, content workflows, all custom coding and styling.   It was kind of a dream gig for someone with only 5 years experience that levelled up my career.  2 weeks before launch some marketing tool vendor convinced the executive team that a pop up for their service should be put in place.  I was furious and yes it is still there 10 years later.",8,1757535952.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndigvwn/,False,0,0,,False,2025-09-11T20:24:38.800356+00:00,webdev
+ndi5ov7,1ndmwp9,1ndmwp9,bluehost,"Yes. Fire the popup only after engagement signals instead of first load. Common rules are second page view, at least 30 seconds on site, 50 percent scroll, or exit intent. Set a flag in localStorage so it shows at most once every few days and never on the first visit.
+
+Do not block the page. Use a small dismissible banner or slide in panel, keep focus trap correct, and remember the dismissal. Add path rules so it appears on content or product pages, not the home page. If you use a WAF or CDN, let the page render first, then load the script so the content is visible before anything asks for an email.",6,1757532982.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndi5ov7/,False,0,0,,False,2025-09-11T20:24:38.800362+00:00,webdev
+ndhzl8n,1ndmwp9,1ndmwp9,ricketybang,"I do the same.
+
+*But* my girlfriend, and some of my friends, are built very different... I'm surprised how often they subscribe to newsletters and stuff (often to get those 10% off or similar). 
+
+So even if I'm sooo tired of all the pop-ups, I get why they work so well everytime I see someone close to me enter their details... And if they don't feel like subscribing, they just close the pop-up and continue browsing the site anyway. They are so used to it and they are none-techy, so they don't care as much as we do.",5,1757531339.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndhzl8n/,False,0,0,,False,2025-09-11T20:24:38.800367+00:00,webdev
+ndkai85,1ndmwp9,1ndmwp9,darkkite,I work at a saas and i understand your frustration but A/B testing shows it improves conversion rates so it will probably stay,8,1757556406.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndkai85/,False,0,0,,False,2025-09-11T20:24:38.800373+00:00,webdev
+ndhzi35,1ndmwp9,1ndmwp9,jroberts67,"I can't stand popups but if I have a client that insists on having one, it only pops up when someone leaves the site.",8,1757531314.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndhzi35/,False,0,0,,False,2025-09-11T20:24:38.800378+00:00,webdev
+ndizo9k,1ndmwp9,1ndmwp9,pants75,Looking at you Medium,2,1757540969.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndizo9k/,False,0,0,,False,2025-09-11T20:24:38.800383+00:00,webdev
+ndj05n7,1ndmwp9,1ndmwp9,skytomorrownow,"You have it backwards. It's not a website that serves you information, it's you that serves the website's clients. Your raison d'être, for the publisher, is to prove to the clients that humans (the right ones) absorb the content. Your experience is irrelevant.
+
+Sincerely, Management",2,1757541107.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndj05n7/,False,0,0,,False,2025-09-11T20:24:38.800388+00:00,webdev
+ndj4zqw,1ndmwp9,1ndmwp9,No-Underscore_s,"Ublock origin
+
+Adguard pro on mobile
+
+I’ve barely had any ads on my devices in the past 3-4 years",2,1757542526.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndj4zqw/,False,0,0,,False,2025-09-11T20:24:38.800393+00:00,webdev
+ndjmzzt,1ndmwp9,1ndmwp9,Inferno_ZA,That is courtesy of a large contingent of brainless drones pushing out sites without a single thought towards user experience.,2,1757548264.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndjmzzt/,False,0,0,,False,2025-09-11T20:24:38.800398+00:00,webdev
+ndlywfz,1ndmwp9,1ndmwp9,Shaper_pmp,"If more people did what you do, OP, the web would be a much nicer place. 
+
+Sadly a vast majority of people simply click through them (or worse, are dim enough to actually subscribe or accept them), and that's exactly why so many websites are now the ad-invested corporate hellscapes they are.",2,1757585923.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndlywfz/,False,0,0,,False,2025-09-11T20:24:38.800403+00:00,webdev
+ndm70xd,1ndmwp9,1ndmwp9,KwyjiboTheGringo,"Yeah, telling me to subscribe to the newsletter before I even know what the site has to offer is ridiculous.   Same for sites that give you this popup after you've scrolled down a little bit.
+
+> Somebody tell me it is possible to write JavaScript that doesn’t just fire on the very first page load. There MUST BE.
+
+I can't tell if this is serious, since it's such an obvious answer that there is, but you don't hint at sarcasm.",2,1757589815.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndm70xd/,False,0,0,,False,2025-09-11T20:24:38.800408+00:00,webdev
+ndhwtyn,1ndmwp9,1ndmwp9,ElCuntIngles,"Sir, this is a Wendy's",5,1757530569.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndhwtyn/,False,0,1,,False,2025-09-11T20:24:38.800413+00:00,webdev
+ndifmx4,1ndmwp9,1ndmwp9,OppieT,"A lot of paywalls are like that.
+
+Like The Wall Street Journal.",1,1757535630.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndifmx4/,False,0,0,,False,2025-09-11T20:24:38.800418+00:00,webdev
+ndjnr21,1ndmwp9,1ndmwp9,hyrumwhite,"> Somebody tell me it is possible to write JavaScript that doesn’t just fire on the very first page load
+
+Sure, it fires precisely when the site developers  mean it to",1,1757548511.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndjnr21/,False,0,0,,False,2025-09-11T20:24:38.800423+00:00,webdev
+ndjwp31,1ndmwp9,1ndmwp9,Oneiroi_zZ,"Tell it to the huge amount of people it converts to do whatever it is designed to do. If these things didn't convert people to $$,  marketing depts. would stop making devs add them to everything.",1,1757551592.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndjwp31/,False,0,0,,False,2025-09-11T20:24:38.800428+00:00,webdev
+ndk86qf,1ndmwp9,1ndmwp9,vkevlar,"well yeah.  that's been true forever, and is why so many of us won't browse without multiple ad/popup blockers.",1,1757555579.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndk86qf/,False,0,0,,False,2025-09-11T20:24:38.800433+00:00,webdev
+ndkd4hn,1ndmwp9,1ndmwp9,SortSad6848,I know and especially when it’s one of those sites that it barely even closes. I hate it I hate it I hate it.,1,1757557338.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndkd4hn/,False,0,0,,False,2025-09-11T20:24:38.800438+00:00,webdev
+ndl8l9o,1ndmwp9,1ndmwp9,Shawon770,Preach. Let me see the site before asking for my email like we’re in a relationship!,1,1757570912.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndl8l9o/,False,0,0,,False,2025-09-11T20:24:38.800443+00:00,webdev
+ndl90i0,1ndmwp9,1ndmwp9,archaon_archi,"Is there a point for them anymore? I've been bothered by those pop-ups so often, that I close them without reading by instinct.",1,1757571132.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndl90i0/,False,0,0,,False,2025-09-11T20:24:38.800448+00:00,webdev
+ndlampo,1ndmwp9,1ndmwp9,StrategicTension,Word,1,1757571986.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndlampo/,False,0,0,,False,2025-09-11T20:24:38.800453+00:00,webdev
+ndlk50l,1ndmwp9,1ndmwp9,Goldswitch,"The most frustrating thing to me is when people do not put placeholder sizes for images or ads so I will be scrolling an article and 5 seconds later, everything jumps back up to the top now that everything has resized once they have loaded. On some sites it happens multiple times and is so frustrating",1,1757577363.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndlk50l/,False,0,0,,False,2025-09-11T20:24:38.800458+00:00,webdev
+ndlpts2,1ndmwp9,1ndmwp9,want_to_want,"Yeah. For a longer list of such things, Rachel Kroll's post [Web page annoyances that I don't inflict on you here](https://rachelbythebay.com/w/2025/01/04/cruft/) is my go-to source for what not to do.",1,1757580768.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndlpts2/,False,0,0,,False,2025-09-11T20:24:38.800463+00:00,webdev
+ndltyhr,1ndmwp9,1ndmwp9,examkiddo,I dont understand why they would do that,1,1757583187.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndltyhr/,False,0,0,,False,2025-09-11T20:24:38.800468+00:00,webdev
+ndlu62a,1ndmwp9,1ndmwp9,brankoc,"I just click the No Javascript For You button (it is called YesScript2, actually).",1,1757583308.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndlu62a/,False,0,0,,False,2025-09-11T20:24:38.800473+00:00,webdev
+ndmb7ez,1ndmwp9,1ndmwp9,HansonWK,"Great! The thing is, no one cares if the people who are mostly likely to convert are not closing it.
+
+The reason these are *still* popular even though everyone in the world knows they are annoying as fuck, is because they still get you more conversions than they lose.
+
+I think people seem to forget that the people writing their recipes don't actually care if you read them... They care if you sign up or buy their book, or click their ads. The people who are leaving because of popups are very rarely people who would have actually converted.",1,1757591582.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndmb7ez/,False,0,0,,False,2025-09-11T20:24:38.800478+00:00,webdev
+ndmg7hc,1ndmwp9,1ndmwp9,thewritingwallah,"Hate when I click onto a site to shop and numerous pop ups come on screen before I can see the item, like get this spin wheel out the way!!!",1,1757593518.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndmg7hc/,False,0,0,,False,2025-09-11T20:24:38.800483+00:00,webdev
+ndnc1ue,1ndmwp9,1ndmwp9,RRO-19,Same. Pop-ups for newsletters before I've even seen the content are the worst. At least let me read one article to see if I like the site before asking for my email.,1,1757603628.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndnc1ue/,False,0,0,,False,2025-09-11T20:24:38.800488+00:00,webdev
+ndnfdrk,1ndmwp9,1ndmwp9,arnorhs,"Every developer agrees, including the one implementing said popup. Even the business owner hates it. 
+
+However, the sad truth is, typically these things still convert better, so people keep doing that. Even if they annoy others. Blame n00bs and people without principles. 
+
+Sad but true",1,1757604611.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndnfdrk/,False,0,0,,False,2025-09-11T20:24:38.800493+00:00,webdev
+ndns5ko,1ndmwp9,1ndmwp9,TheRNGuy,"You can hide those with Stylus (also unset height and max-height, because popups disabled scroll)
+
+
+Or Greasemonkey script that auto-pressss it.
+
+
+I think you're over-reacting though. It's hard to press esc?",1,1757608363.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndns5ko/,False,0,0,,False,2025-09-11T20:24:38.800498+00:00,webdev
+ndintx2,1ndmwp9,ndhwn46,upsidedownshaggy,"This 100% percent, especially when I'm trying to read a recipe or something. Like yeah lemme scroll through the 1000 words of SEO slop and cooking instructions that don't include measurements to then be greeted by a pop-up as I reach the real instructions that have measurements.",43,1757537763.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndintx2/,False,1,0,,False,2025-09-11T20:24:38.800517+00:00,webdev
+ndltlih,1ndmwp9,ndhwn46,astr0bleme,"If I'm reading something and a popup blocks my flow, I leave. Enjoy your bounce rate.",4,1757582976.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndltlih/,False,1,0,,False,2025-09-11T20:24:38.800523+00:00,webdev
+ndmktl5,1ndmwp9,ndhwn46,minderbinder,Medium does this,3,1757595166.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndmktl5/,False,1,0,,False,2025-09-11T20:24:38.800529+00:00,webdev
+ndn3s2f,1ndmwp9,ndhwn46,Firethorned_drake93,I hate this so much.,1,1757601181.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndn3s2f/,False,1,0,,False,2025-09-11T20:24:38.800536+00:00,webdev
+ndoqq5a,1ndmwp9,ndhwn46,thecomputerguy7,"And when you close it, it throws you back to the top of the page and you lose where you are.",1,1757618118.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndoqq5a/,False,1,0,,False,2025-09-11T20:24:38.800542+00:00,webdev
+ndjwd8z,1ndmwp9,ndi29md,Own_Significance2619,"Exactly! Oh how I hate such games. But not only games. Recently I downloaded the WebNovel app and their popups are mega annoying, too! Right into the trash bin you go!",5,1757551478.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndjwd8z/,False,1,0,,False,2025-09-11T20:24:38.800548+00:00,webdev
+ndlk27s,1ndmwp9,ndi29md,eyebrows360,"You make an exception for consent ""popups"" though, right? We (am digital publisher) *have* to have those.",2,1757577316.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndlk27s/,False,1,0,,False,2025-09-11T20:24:38.800554+00:00,webdev
+ndm7ope,1ndmwp9,ndi29md,KwyjiboTheGringo,"It's inevitable for games that are made solely to generate revenue or are sold to a company who only wants to milk it while they can.  When you take the original visionaries out of the picture and hand things over to product managers who are just trying to look good for stakeholders, this kind of garbage gets added.",1,1757590103.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndm7ope/,False,1,0,,False,2025-09-11T20:24:38.800560+00:00,webdev
+ndmr1kk,1ndmwp9,ndijsfi,rose_riveter,I DON’T CARE,3,1757597233.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndmr1kk/,True,1,0,,False,2025-09-11T20:24:38.800566+00:00,webdev
+ndj5sd3,1ndmwp9,ndi2igz,TheAccountITalkWith,I think those cookie pop ups are required by law in Europe or something.,12,1757542770.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndj5sd3/,False,1,0,,False,2025-09-11T20:24:38.800572+00:00,webdev
+ndixeha,1ndmwp9,ndi2igz,epicTechnofetish,It's all the wordpress templates by quick shops that arent even providing this cookie data to their customers,7,1757540330.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndixeha/,False,1,0,,False,2025-09-11T20:24:38.800578+00:00,webdev
+ndlka9x,1ndmwp9,ndi2igz,eyebrows360,"> . Your 3rd party cookie consent popups do not mean anything if your app isn’t doing anything based on those inputs. 
+
+But they are. The vast majority of ads on the vast majority of legitimate sites are delivered via massive networks who *are* mandating this and doing all the shit the nonsense in the consent ""popup"" says they are.
+
+If you tell a CMP that you don't want personalised ads, you won't get them.
+
+Source: digital publisher.",2,1757577450.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndlka9x/,False,1,0,,False,2025-09-11T20:24:38.800584+00:00,webdev
+ndlf443,1ndmwp9,ndinqzg,yabai90,It's the same stupidity as YouTuber telling you to subscribe 15 seconds in the video.,4,1757574451.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndlf443/,False,1,0,,False,2025-09-11T20:24:38.800590+00:00,webdev
+ndmrg2e,1ndmwp9,ndinqzg,rose_riveter,"Do you want 15% off? No, not if I don’t know what it is or how much it costs in the first place.",2,1757597364.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndmrg2e/,True,1,0,,False,2025-09-11T20:24:38.800596+00:00,webdev
+ndmrv4h,1ndmwp9,ndigvwn,rose_riveter,"I know. This is why I’m asking the question, besides the rant. If someone makes me put in one of those, I want to set it so it doesn’t fire until they scroll to the bottom of the page, and maybe not the homepage, but a relevant product page.",1,1757597499.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndmrv4h/,True,1,0,,False,2025-09-11T20:24:38.800602+00:00,webdev
+ndlzj7r,1ndmwp9,ndi5ov7,atzedanjo,"Sounds good but I'd like to add
+
+put it in the bottom right corner, about the size of a windows notification, do not grab focus, make it easy to ignore and not block any content",6,1757586250.0,https://reddit.com/r/webdev/comments/1ndmwp9/if_i_land_on_a_website_and_the_first_thing_that/ndlzj7r/,False,1,0,,False,2025-09-11T20:24:38.800608+00:00,webdev
+ndocmxi,1nefx6o,1nefx6o,ThatFlamenguistaDude,The fun of it it's to embrace that we're always falling behind.,10,1757614068.0,https://reddit.com/r/webdev/comments/1nefx6o/am_i_falling_behind/ndocmxi/,False,0,0,,False,2025-09-11T20:24:41.491125+00:00,webdev
+ndod6sh,1nefx6o,1nefx6o,Upbeat_Disaster_7493,"You can use LLMs as guidance to writing you code. I do that a lot. They explain quite nicely and when they lie (happens from time to time) you can look for documentation and find for yourself.
+That way you don't copy paste code like a monkey and you don't stay behind :)",4,1757614222.0,https://reddit.com/r/webdev/comments/1nefx6o/am_i_falling_behind/ndod6sh/,False,0,0,,False,2025-09-11T20:24:41.491169+00:00,webdev
+ndodkee,1nefx6o,1nefx6o,Suitable-Orange9318,"By actually learning all of this you are positioning yourself better for the future. If you want to dip your toes into AI, feed a free LLM like deepseek some snippets of a project you’re working on, ask for an improvement of some kind, and then study what it gives you and you’ll maybe learn a new approach you hadn’t thought of. 
+
+Whatever you do, don’t ever start using code from it without first fully understanding said code",4,1757614328.0,https://reddit.com/r/webdev/comments/1nefx6o/am_i_falling_behind/ndodkee/,False,0,0,,False,2025-09-11T20:24:41.491205+00:00,webdev
+ndod2u9,1nefx6o,1nefx6o,RePsychological,"at this point I've been ""begrudgingly"" learning it, simply to keep up. 
+
+while also being extremely mindful about how I use it, because I'm staying as far away from vibe-coder talentless slop as much as possible. Trying to keep focused on only using it for things that I already know how to do, and simply need the time saved, so that I can also reliably review the code afterward with what I already know. 
+
+And then if it does something I haven't learned yet, I stop and learn what/why it did \[that\], so that I'm not blindly implementing code like too many are. 
+
+I feel like that's where we're kinda stuck right now, until the slop filters out. Too many cockroaches using it as a shortcut, like entitled pathetic little shits.",3,1757614190.0,https://reddit.com/r/webdev/comments/1nefx6o/am_i_falling_behind/ndod2u9/,False,0,0,,False,2025-09-11T20:24:41.491217+00:00,webdev
+ndodujb,1nefx6o,1nefx6o,igorski81,"> just can't help but being reminded that I don't know anything in the realm of LLMs
+
+Take a deep breath. The majority of people don't really know anything in this realm. Developers might have a rudimentary idea of how the logic behind this magic works, but they don't know nor can't contribute meaningfully in this field. And this is fine, there are many expertises within software engineering.
+
+> I don't use co-pilot or any IDE agents, never tried cursor or claude-code
+
+But you know programming right ? And you know how to learn using a program right ?  Presto, problem solved, you can learn any of these things by just using them for a short period. I would suggest to get an idea of how prompting works (as that is the skill, not so much having experience with a particular agent inside a particular IDE) and then realise that the output is _code_. Code that you are supposed to be able to interpret and correct because you're a programmer.
+
+> building products ""Powered by AI""
+
+That is just a tagline which will be a short term fad. People quickly catch on when products don't solve a problem they are having, and therefor aren't useful to them _no matter what cutting edge features they are allegedly using_: AI is not a product by definition. It is a tool that can be leveraged to solve a problem. That problem solving thing is what is the actual _valuable feature of a product_.
+
+> Am I Falling Behind?
+
+You will ask this question every five years as a software engineer whenever some new paradigm shift happens. Software engineers should be adaptable to change. But also realise that for every change, their past experience is still the valuable asset.",1,1757614408.0,https://reddit.com/r/webdev/comments/1nefx6o/am_i_falling_behind/ndodujb/,False,0,0,,True,2025-09-11T20:24:41.491227+00:00,webdev
+ndoe2y6,1nefx6o,1nefx6o,Desperate-Presence22,"I think you're using right approach.  
+In order to implement something, you really need to understand how it works.  
+So you need to learn core concepts, go through the code ... find bugs, solutions...
+
+The only thing, I found myself asking AI explain me this and that concept. to understand it better, or ask it to challenge me on certain concept, so I can test my knowledge.",1,1757614473.0,https://reddit.com/r/webdev/comments/1nefx6o/am_i_falling_behind/ndoe2y6/,False,0,0,,False,2025-09-11T20:24:41.491237+00:00,webdev
+ndogwz6,1nefx6o,1nefx6o,stillness_illness,"I use LLM all the time. I don't get the hate as you can have your cake and eat it too. You get a decent set of options and answers and then can follow up and ask all sorts of questions about those answers and pros and cons and learn so much, and much faster than you would otherwise.
+
+Just don't LLM and take the answer blindly, which sounds like you aren't. You don't need to hate on it or be hesitant about it.
+
+You're using a graphing calculator instead of doing math by hand. Most people would look at someone who refuses to use a graphing calculator as a pompous fool. Don't mistreat AI and it won't mistreat you.",1,1757615276.0,https://reddit.com/r/webdev/comments/1nefx6o/am_i_falling_behind/ndogwz6/,False,0,0,,False,2025-09-11T20:24:41.491246+00:00,webdev
+ndok23t,1nefx6o,1nefx6o,Aromatic_Try6761,up,1,1757616181.0,https://reddit.com/r/webdev/comments/1nefx6o/am_i_falling_behind/ndok23t/,False,0,0,,False,2025-09-11T20:24:41.491256+00:00,webdev
+ndp4sai,1nefx6o,1nefx6o,magenta_placenta,"I think you're doing it right because you seem to be prioritizing core understanding. You're choosing to understand code, not just generate it. This is key for long-term growth. The thing to understand about LLMs is they are just tools, they are not substitutes for foundational knowledge. So the devs who rely only on AI will hit a ceiling at some point.
+
+>I try as much as I can to do my research when tackling problems to not lose the skill of navigating docs and understanding core concepts instead of rubbing the genie and getting the solution right away.
+
+Good instinct. If you always reach for the answer, your brain won't build the muscle of problem decomposition, debugging or pattern recognition. Those are skills that can't be outsourced to AI.",1,1757622217.0,https://reddit.com/r/webdev/comments/1nefx6o/am_i_falling_behind/ndp4sai/,False,0,0,,False,2025-09-11T20:24:41.491264+00:00,webdev
+ndoodiq,1nefx6o,ndogwz6,Cuddlehead,"the difference of course, is that the calculator doesn't occasionally give false results with great confidence.",1,1757617429.0,https://reddit.com/r/webdev/comments/1nefx6o/am_i_falling_behind/ndoodiq/,False,1,0,,False,2025-09-11T20:24:41.491293+00:00,webdev
+ndfbw3u,1ndavug,1ndavug,fonster_mox,"Getting a decent chair is only 10% of the battle. You need to take breaks, you need to stand up, you need to go on walks, you need to exercise. You need to drink water, avoid energy drinks, eat sensibly, talk to real people, go outside, have a non-screen related hobby you can turn to from time to time (reading, drawing, playing an instrument).
+
+""Marathon coding session"" shouldn't even be in your vocabulary. Everything in moderation. It will affect your eyes and your mental health as well as your back if you don't disconnect reguarly. Listen to your body.",1188,1757502007.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfbw3u/,False,0,0,,False,2025-09-11T20:24:45.493046+00:00,webdev
+ndfba9u,1ndavug,1ndavug,kevinlch,so OP is a chair seller.... link pls,253,1757501730.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfba9u/,False,0,0,,False,2025-09-11T20:24:45.493082+00:00,webdev
+ndfblst,1ndavug,1ndavug,parad0xal,"About the backpain, just do exercise and you will be fine.",135,1757501877.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfblst/,False,0,0,,False,2025-09-11T20:24:45.493091+00:00,webdev
+ndfbrys,1ndavug,1ndavug,nineelevglen,"I don't know man, been doing it for about as long and I'm fine. Do work out  daily but I've been on couches, bad chairs, cafes, conference floors for as long as I can remember and I'm fine. I shouldn't be but I am.
+
+As far as work goes, I hear this question a lot. I say it's like a career in music these days. Get in to it if you really want to. It's fun, but the pressure is there.",79,1757501956.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfbrys/,False,0,0,,False,2025-09-11T20:24:45.493097+00:00,webdev
+ndfbuu9,1ndavug,1ndavug,RelationshipFresh966,"About back pain - it helps to be physically active. Do some exercise outside of work, anything you can stomach (or maybe even like). Don't use a big water bottle, get something small - that way you have lots of chances to walk to the water cooler and get the blood flowing again. Just a few things that have helped me",23,1757501992.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfbuu9/,False,0,0,,False,2025-09-11T20:24:45.493104+00:00,webdev
+ndfd9hc,1ndavug,1ndavug,Witty-Order8334,Perhaps chair is not the issue ... lack of exercise is.,36,1757502618.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfd9hc/,False,0,0,,False,2025-09-11T20:24:45.493110+00:00,webdev
+ndfezva,1ndavug,1ndavug,Markronom,"Yeah, don't sacrifice your health for company deadlines ",7,1757503371.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfezva/,False,0,0,,False,2025-09-11T20:24:45.493116+00:00,webdev
+ndg2whj,1ndavug,1ndavug,gashmol,This post has weird vibe.,12,1757511843.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndg2whj/,False,0,0,,False,2025-09-11T20:24:45.493122+00:00,webdev
+ndfdc62,1ndavug,1ndavug,SolumAmbulo,"Same. 
+
+
+Lucky I kept my savegame from the 90s. Just let me reload...",5,1757502651.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfdc62/,False,0,0,,False,2025-09-11T20:24:45.493127+00:00,webdev
+ndfjjm5,1ndavug,1ndavug,Licantropato,">obody warns you about the back pain. Three decades of hunching over screens and I'm basically falling apart. Spent more on physical therapy and ergonomic gear than I care to admit. Those marathon coding sessions hit different when you're older
+
+50+ years old coder here, with 28 years into coding. Maybe you already had some physical condition you wasn't aware of? That could be the main reason, aside from bad posture/chair (maybe?).
+
+I basically have the same experience, in terms of years, but zero physical issues, despite using a regular $90 office chair and a fixed table (no variable height). Good diet (mediterranian food, in my case) plus some movement on a regular basis (*stand up, walk around, go back*) may help a lot.
+
+Just don't sit on a bad chair for 14 hours straight, for 2 weeks. Now THAT would kill anyone, I guess.",12,1757505228.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfjjm5/,False,0,0,,True,2025-09-11T20:24:45.493134+00:00,webdev
+ndfryj6,1ndavug,1ndavug,gallant_hubris,For years I did career day at the local high school encouraging kids to get into software development.  I feel kinda bad about it now…,5,1757508293.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfryj6/,False,0,0,,False,2025-09-11T20:24:45.493139+00:00,webdev
+ndfs1o6,1ndavug,1ndavug,urbanespaceman99,"Coding for coming up to 45 years here if you count starting as a child :) And Well over 30 if we're saying specifically for work. 
+
+100% on the chair - my Steelcase is invaluable! Also get a height adjustable desk (Ikea even sell them these days) and stand up to work reasonably frequently. If you also do this on a balance board it's even better. 
+
+Primarily though, get down the gym/train at home/do something to maintain muscle mass (which starts to fall off as you get older) and above all, core strength (which will help with back issues). 
+
+Other things that can help: 
+
+\- an ergonomic keyboard  
+\- learning to type properly rather then 2/3 fingered pecking  
+\- a vertical mouse  
+\- basic ergo setup of your workstation, making sure screens are at the right height etc",5,1757508323.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfs1o6/,False,0,0,,False,2025-09-11T20:24:45.493145+00:00,webdev
+ndgcu0c,1ndavug,1ndavug,ryuuseinow,"In all seriousness, how brutal is the market for someone who is just starting out?   
+I've been thinking about it for the longest time, and I've been too scared to try since I heard that it's getting increasingly harder for people to find jobs in compsci fields",4,1757514771.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndgcu0c/,False,0,0,,False,2025-09-11T20:24:45.493151+00:00,webdev
+ndgearn,1ndavug,1ndavug,Hot-Chemistry7557,"Besides getting a decent chair, I would suggest that you go to gym and do some exercises regularly, that the only way to keep your healthy if your job is behind a desk.",4,1757515191.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndgearn/,False,0,0,,False,2025-09-11T20:24:45.493157+00:00,webdev
+ndgjbrl,1ndavug,1ndavug,Alex_1729,"The chair is helpful but it's like a 'workaround' for what is fucking us up, which is **lack of movement and breaks**.
+
+To not develop chronic back pain, one needs to stretch and/or exercise, and NOT do marathons ever.
+
+You know this, but this is for everyone else: every 2 hours get up and stretch, find examples on youtube, go for a walk when you can, and get away from the chair and the screen when you're not working. You cannot have gaming sessions or hobbies on your workstation, or watch youtube on your chair for hours. Step away from the your work space regularly, and move and stretch.
+
+Take care of your body. You only get one of them.",3,1757516610.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndgjbrl/,False,0,0,,True,2025-09-11T20:24:45.493162+00:00,webdev
+ndfsb51,1ndavug,1ndavug,Geedis2020,This is every job right now. Programming jobs will be needed and in demand again. Probably even more than ever when companies going all in on AI realize AI is good at assisting people who know what they are doing and not an excuse to fire them and replace them with AI. It also has a big part to do with our president. Love him or hate him he’s not great for the job market and causes a lot of uncertain in the economy. The job market doesn’t like uncertainty. They don’t like tariffs going up and down and not knowing how much investment they will have to make in a year or how much they will save. Things like that hurt the job market. It’s better for companies to play it safe and run at a minimum than spend a lot and need to invest billions on factories next year that they won’t need in 4 years. They just want to weather this storm.,11,1757508413.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfsb51/,False,0,0,,False,2025-09-11T20:24:45.493168+00:00,webdev
+ndfb9m1,1ndavug,1ndavug,Aggressive-Tea8371,I sit on a ball,7,1757501721.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfb9m1/,False,0,0,,False,2025-09-11T20:24:45.493174+00:00,webdev
+ndfd91d,1ndavug,1ndavug,rio_sk,"Don't know in the country where you live  ( I guess USA), but in Europe I still see the market alive.  I'm almost 50 and doing that job since the mid 90's and I keep seeing young newcomers getting good job positions. What is really dying are the ""website only"" agencies and ""website only"" freelancers like a second .com bubble crysis. As for the back pain, probably I'm lucky cause I work in postures that even a monkey wouldn't like, but the pain isn't here yet.",6,1757502613.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfd91d/,False,0,0,,False,2025-09-11T20:24:45.493180+00:00,webdev
+ndfsmq2,1ndavug,1ndavug,MassiveAd4980,Get a treadmill. Walk very slowly while at the computer,3,1757508523.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfsmq2/,False,0,0,,False,2025-09-11T20:24:45.493186+00:00,webdev
+ndfsw6v,1ndavug,1ndavug,jeremyckahn,I avoid back pain by squatting (on my toes) for much of the work day. Like L from Death Note. I look like a crazy person but my legs and back are in great shape!,3,1757508611.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfsw6v/,False,0,0,,False,2025-09-11T20:24:45.493191+00:00,webdev
+ndg6o9z,1ndavug,1ndavug,uduni,"Its called exercise, its a requirement for every human no matter the career path",3,1757512980.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndg6o9z/,False,0,0,,False,2025-09-11T20:24:45.493197+00:00,webdev
+ndggx0i,1ndavug,1ndavug,LEGGO_Nathan,"I'm 26 years in. My pain was mostly upper back, neck, and shoulders. Exercise fixed all of that. It doesn't even have to be much--I do only a few dozen pushups, curls, or other simple exercises throughout the day. The other suggestions here are good too, but the biggest thing for me was the light exercise.
+
+I also had carpal tunnel... that one was reduced by working at a less demanding company that didn't measure performance by how many seconds I was typing in a day.
+
+Programming can wear on the body. It's important to be aware of that and take precautions.",3,1757515932.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndggx0i/,False,0,0,,False,2025-09-11T20:24:45.493203+00:00,webdev
+ndgnl7s,1ndavug,1ndavug,jam_pod_,"To add to all the people suggesting strength training — lifting weights here and there throughout the day is way, way better than not lifting them at all (just make sure not to over-exert yourself if you’re cold).
+
+I keep a bunch of dumbbells and a bench in my office, so I can do a couple sets every time I take a break, on days when I can’t block off time for the gym",3,1757517819.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndgnl7s/,False,0,0,,False,2025-09-11T20:24:45.493209+00:00,webdev
+ndgwt3o,1ndavug,1ndavug,ajm1212,also make sure your monitor is at eye level and not to high or low.,3,1757520406.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndgwt3o/,False,0,0,,False,2025-09-11T20:24:45.493214+00:00,webdev
+ndic5k9,1ndavug,1ndavug,Top_Friendship8694,"You're not wrong about any of this but there's some nuance that should be included. 
+
+
+Yes, the market has gotten a lot worse. But learning software development remains one of the most accessible path towards improving ones' life. It's a skill that can be learned with only access to a computer and access to the internet. No expensive specialized equipment nor required certifications or education. 
+
+
+The best jobs are highly competitive but entry level jobs at contracting agencies like Revature or InfoSys are actually pretty easy to get. That's exactly what I did a few years ago, and I now have a steady full time job at a major company with great benefits and job security. I more than tripled my income, and I'm still at the bottom of the scale for my position. 
+
+
+I'm not saying the barriers for entry haven't significantly increased, but I can't think of any other field where a person has similar opportunity to transition upward into the middle class through free self-education. I think we should caution people about the challenges but we should continue encouraging people to think of programming as an achievable goal. 
+
+
+If you're running across this comment as someone who doesn't code but is considering learning, YOU CAN DO IT. I'm an idiot, and I did it. It will take hard work, time, dedication, and maybe a little luck.",3,1757534730.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndic5k9/,False,0,0,,False,2025-09-11T20:24:45.493220+00:00,webdev
+ndfi2p6,1ndavug,1ndavug,Solid_Wishbone1505,"Back pain? 30 years of sitting down and being hunched over? 
+
+I dont meant to be rude, but people in the tech industry (at least, on reddit) are some of the most entitled drama queens I've ever seen or heard of. 
+
+Do you think the lady who is cleaning your hotel room after you leave well into her 60s might have also gotten a few aches here and there? 
+
+Plus, if it's really thay bad... maybe just tell people to get a standing desk and maybe go for a short walk every hour or two instead of just flat out ditching the industry entirely? Most of us here work jobs with that kind of freedom",19,1757504651.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfi2p6/,False,0,1,,False,2025-09-11T20:24:45.493227+00:00,webdev
+ndfl4er,1ndavug,1ndavug,Annh1234,"Get a nice chair ( steal leap v2) and hit the gym, that's the best advice for your back. I'm going on 25y, so you got 5y on me lol",2,1757505835.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfl4er/,False,0,0,,False,2025-09-11T20:24:45.493233+00:00,webdev
+ndflgbb,1ndavug,1ndavug,Existing_Priority172,Standing desk my guy,2,1757505963.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndflgbb/,False,0,0,,False,2025-09-11T20:24:45.493239+00:00,webdev
+ndfrl4s,1ndavug,1ndavug,prb613,"Strength training >>> any ergonomic chair. 
+
+Take care of your body and it'll pay dividends throughout your career and life.",2,1757508166.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfrl4s/,False,0,0,,False,2025-09-11T20:24:45.493244+00:00,webdev
+ndfzzx8,1ndavug,1ndavug,who_am_i_to_say_so,"I’ve spent 90% of my time standing the past two years when working from home. Kinda crazy, but zero pain.",2,1757510932.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfzzx8/,False,0,0,,False,2025-09-11T20:24:45.493250+00:00,webdev
+ndg0z06,1ndavug,1ndavug,barbietattoo,Yoga!!!!,2,1757511245.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndg0z06/,False,0,0,,False,2025-09-11T20:24:45.493255+00:00,webdev
+ndg41z3,1ndavug,1ndavug,historycommenter,Desk height is important too.,2,1757512195.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndg41z3/,False,0,0,,False,2025-09-11T20:24:45.493261+00:00,webdev
+ndg7t08,1ndavug,1ndavug,worldofweirdos,No need for an ergonomic chair... I do my coding in cobra pose,2,1757513315.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndg7t08/,False,0,0,,False,2025-09-11T20:24:45.493266+00:00,webdev
+ndg86r2,1ndavug,1ndavug,baronvonredd,Swimming is a great way to keep the body stabilized. Great way to start the day too.,2,1757513427.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndg86r2/,False,0,0,,False,2025-09-11T20:24:45.493272+00:00,webdev
+ndg8nnf,1ndavug,1ndavug,stevenm973,Just cus you work sitting down all day doesn’t mean you can’t exercise or stretch everyday on your own time.,2,1757513565.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndg8nnf/,False,0,0,,False,2025-09-11T20:24:45.493278+00:00,webdev
+ndgotnm,1ndavug,1ndavug,RedditBansLul,"Everyone warns you about the back pain and what you should do to avoid long term issues, you just didn't listen lol.",2,1757518166.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndgotnm/,False,0,0,,False,2025-09-11T20:24:45.493283+00:00,webdev
+ndgx95w,1ndavug,1ndavug,cadred48,In any decent sized city/suburban area there will be used furniture warehouses that will usually have a few higher end chairs for pretty cheap. I got a $1300 Steelcase Leap  chair with some minor cosmetic damage for around $150 a few years ago. YMMV,2,1757520533.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndgx95w/,False,0,0,,False,2025-09-11T20:24:45.493289+00:00,webdev
+ndhjdtz,1ndavug,1ndavug,dance_rattle_shake,"Not to belittle your back pain, but I went from being on my feet for 8hrs a day as a barista and a farmer, and let me tell you, white collar jobs are cushy AS FUCK. No matter how many years in this career I will never forget the physical toil of my previous jobs. I work in a climate controlled box. I can take walks and stretch breaks pretty much whenever I want. I used to have horrible back pain and I've been pain free for years now.",2,1757526740.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndhjdtz/,False,0,0,,False,2025-09-11T20:24:45.493294+00:00,webdev
+ndj5dmm,1ndavug,1ndavug,Previous_Tree_,"What should I do then? 😔 Im 2 years away from graduation in Informatics with a concentration in web development hoping to do front end and some design work. I didn't necessarily count on this being a sustainable career, maybe about 10-15 years and then work in a different position in the field. This is the only thing I can imagine myself doing and I enjoy it, but the outlook is so scary, especially as a woman... Do I pivot or keep going? 😔😔",2,1757542645.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndj5dmm/,False,0,0,,False,2025-09-11T20:24:45.493299+00:00,webdev
+ndm0teq,1ndavug,1ndavug,DaveAps,I have been doing it professionally for 30 years and I am loving it more than ever.,2,1757586899.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndm0teq/,False,0,0,,False,2025-09-11T20:24:45.493305+00:00,webdev
+ndffj5p,1ndavug,1ndavug,_indi,"Are we really going to pretend that web development of all things takes a toll on your body?
+
+Come on man, there’s people in the trades who’s bodies are completely fucked by their 50s",4,1757503599.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndffj5p/,False,0,0,,False,2025-09-11T20:24:45.493311+00:00,webdev
+ndfmian,1ndavug,1ndavug,Joooooose,"It's not that bad. Exercise and don't use your chair like a user altima that you’re living in and your back will feel better. 
+
+I see low-level jobs disappearing due to AI, but I think that just means pivoting to something with AI in the job title. This fast-paced new world is changing quickly.",3,1757506361.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfmian/,False,0,0,,False,2025-09-11T20:24:45.493316+00:00,webdev
+ndff998,1ndavug,1ndavug,kamomil,"I decided against webpage design in 1998. I made exactly one webpage for a business. But things like Ventura Publisher made it easy for a client to make their own webpage
+
+
+So, how is the current market rougher than 1998?",2,1757503483.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndff998/,False,0,0,,False,2025-09-11T20:24:45.493323+00:00,webdev
+ndffnfw,1ndavug,1ndavug,ethan101010,"the back pain thing is no joke. I've heard similar warnings from other long-term developers, designers, and writers. Your body keeps the score, as they say.. :)",2,1757503649.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndffnfw/,False,0,0,,False,2025-09-11T20:24:45.493328+00:00,webdev
+ndfvhff,1ndavug,1ndavug,3rdtryatremembering,30 years of doing ANYTHING is going to destroy your body if you don’t take care of it.,2,1757509477.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfvhff/,False,0,0,,False,2025-09-11T20:24:45.493334+00:00,webdev
+ndgi316,1ndavug,1ndavug,RRO-19,"The market is definitely more competitive now but demand is still there. Focus on what makes you different - design sense, domain expertise, or specific technical skills. Generic 'full-stack' is harder to sell.",2,1757516259.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndgi316/,False,0,0,,False,2025-09-11T20:24:45.493340+00:00,webdev
+ndfd997,1ndavug,1ndavug,Erutan409,Are you obese? I'm not trying to be a dick. Context matters. Your warning doesn't really make sense to me.,2,1757502615.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfd997/,False,0,0,,False,2025-09-11T20:24:45.493345+00:00,webdev
+ndgbyug,1ndavug,1ndavug,andrewsmd87,"> Market's rough as hell now and you're fighting hundreds of other people for every position
+
+Yes but you're not fighting hundreds of quality people. The market is flooded with tons of, I took a bootcamp now give me 6 figures kinds of people. If you actually learn the stuff and have a decent resume, you'll find a job.
+
+> get decent chair and actually use it properly
+
+Yes but also, standing desk. If your not at home and your work place gives you any guff about it, have a doctor write you a note and say you need it as accommodation.",2,1757514522.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndgbyug/,False,0,0,,False,2025-09-11T20:24:45.493351+00:00,webdev
+ndfbhee,1ndavug,1ndavug,kibblerz,"I had a good chair, and then I got a new boss who thought he needed it more because hes older 😐 so instead, im now stuck with a shitty chair",1,1757501821.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfbhee/,False,0,0,,False,2025-09-11T20:24:45.493357+00:00,webdev
+ndfdl35,1ndavug,1ndavug,Suspicious-Second-96,Ditched the chair completely a year ago and have only been standing since. Best decisions of my life! But we shall see what problems that brings after a decade.,1,1757502759.0,https://reddit.com/r/webdev/comments/1ndavug/heads_up_for_anyone_thinking_about_getting_into/ndfdl35/,False,0,0,,False,2025-09-11T20:24:45.493362+00:00,webdev
+ndoajyf,1nefdca,1nefdca,SaltwaterShane,The Green Web Foundation maintains a list: https://app.greenweb.org/directory/,4,1757613499.0,https://reddit.com/r/webdev/comments/1nefdca/whats_the_greenest_host_you_know/ndoajyf/,False,0,0,,False,2025-09-11T20:24:47.196884+00:00,webdev
+ndo7mrc,1nefdca,1nefdca,jroberts67,The one I use: [https://www.greengeeks.com/](https://www.greengeeks.com/),3,1757612708.0,https://reddit.com/r/webdev/comments/1nefdca/whats_the_greenest_host_you_know/ndo7mrc/,False,0,0,,False,2025-09-11T20:24:47.196912+00:00,webdev
+ndobbwo,1nefdca,1nefdca,electricity_is_life,"I think the answer somewhat depends on whether your concern is your actual individual climate impact, or the general behavior of the company that's getting your money. If it's the former then your primary focus should be on reducing your network traffic and travel distance; the vast majority of electricity consumed by most web apps is in the internet infrastructure between the client and server rather than either of those machines themselves. Next should be the energy efficiency of the server; your best bet would be a FaaS platform, but failing that you want something with hosted containers that run on ARM-based servers.
+
+
+If your concern is more about where your dollars go then I'm not sure, it would somewhat depend on what your specific expectations for the company are.",1,1757613710.0,https://reddit.com/r/webdev/comments/1nefdca/whats_the_greenest_host_you_know/ndobbwo/,False,0,0,,False,2025-09-11T20:24:47.196922+00:00,webdev
+ndolbaa,1nefdca,ndoajyf,JasperH8g,"Oh wow, great! Will be digging in that huge list asap 😄👍",2,1757616543.0,https://reddit.com/r/webdev/comments/1nefdca/whats_the_greenest_host_you_know/ndolbaa/,True,1,0,,False,2025-09-11T20:24:47.196942+00:00,webdev
+ndoi3xs,1nefdca,ndo7mrc,lqvz,"I do like GreenGeeks. They're not perfect, but no hosting provider is. They're definitely not bad.",1,1757615618.0,https://reddit.com/r/webdev/comments/1nefdca/whats_the_greenest_host_you_know/ndoi3xs/,False,1,0,,False,2025-09-11T20:24:47.196952+00:00,webdev
+ndol7js,1nefdca,ndo7mrc,JasperH8g,"Thanks! So, as I understand, they’re running on solar when possible? That means they’re getting it from the grid otherwise right?",1,1757616513.0,https://reddit.com/r/webdev/comments/1nefdca/whats_the_greenest_host_you_know/ndol7js/,True,1,0,,False,2025-09-11T20:24:47.196962+00:00,webdev
+ndolfsh,1nefdca,ndobbwo,JasperH8g,"I’m building a SAAS that’s based on the idea that software can do good for the planet. So the impact on the planet is my main concern. And now that I think about it, yes it also matters to me where my dollars go, out of basic principle 😄 But mostly the actual impact to the planet.
+
+> the vast majority of electricity consumed by most web apps is in the internet infrastructure between the client and server rather than either of those machines themselves.
+
+Please tell me more about this! Are you thinking about DNS? Logging? That kind of stuff?",2,1757616578.0,https://reddit.com/r/webdev/comments/1nefdca/whats_the_greenest_host_you_know/ndolfsh/,True,1,0,,False,2025-09-11T20:24:47.196971+00:00,webdev
+ndolvuz,1nefdca,ndolfsh,SaltwaterShane,"\>based on the idea that software can do good for the planet
+
+I love this idea. Please do share when you have something to show.",1,1757616707.0,https://reddit.com/r/webdev/comments/1nefdca/whats_the_greenest_host_you_know/ndolvuz/,False,2,0,,False,2025-09-11T20:24:47.196982+00:00,webdev
+ndopqxl,1nefdca,ndolfsh,electricity_is_life,"""Please tell me more about this! Are you thinking about DNS? Logging? That kind of stuff?""
+
+
+Not quite. When someone visits your website, they are sending IP packets back and forth from their machine to yours through a network of dozens of other machines. Each of those machines uses energy, and you don't necessarily know whether it's from renewables or not. Estimates for the energy use of those intermediary devices vary wildly, but I did a project on this in college, and from what I was able to find then it seemed like it would usually be higher than the energy use of the server (depending on how much work the server is doing for each request, of course). So whether your server is ""green"" or not may not matter as much as the amount of data you're sending (and how far it has to travel).
+
+
+Here's an article about it:
+https://www.wholegraindigital.com/blog/website-energy-consumption/
+
+
+And here's the page I made in college (don't trust these numbers too much, I did my best but I'm not an expert):
+https://carbon.will-o.co/",1,1757617831.0,https://reddit.com/r/webdev/comments/1nefdca/whats_the_greenest_host_you_know/ndopqxl/,False,2,0,,False,2025-09-11T20:24:47.196991+00:00,webdev
+ndomfsf,1nefdca,ndolvuz,JasperH8g,"Thanks, appreciate it! Very curious what you think: https://silvan.earth/bolt",1,1757616867.0,https://reddit.com/r/webdev/comments/1nefdca/whats_the_greenest_host_you_know/ndomfsf/,True,3,0,,False,2025-09-11T20:24:47.197001+00:00,webdev
+ndmykjf,1ne94dy,1ne94dy,who_am_i_to_say_so,"My approach is, don’t unless there is a specific need for it. It is complex and expensive.
+
+If you want to do it because it’s a nice to have, it will be expensive really quick. I have only found one use case that warranted it in my many years of development, for sales leads for a car dealership. 
+
+Be ready to spend. Have I talked you out of it yet?
+
+There isn’t a single service that will better, more reliable or cheaper than Twilio. SMS is a RACKET. If you’re already balking at Twilio prices, it won’t be a pleasant experience.",12,1757599611.0,https://reddit.com/r/webdev/comments/1ne94dy/whats_your_go_to_approach_for_adding_sms_to_small/ndmykjf/,False,0,0,,True,2025-09-11T20:24:49.709409+00:00,webdev
+ndnqvsg,1ne94dy,1ne94dy,SupermarketNo3265,"I was going to suggest email to text (e.g. 123457890@carrier.com) but apparently AT&T discontinued that a few months ago. Not sure if other carriers have but for personal projects in the past I've been able to send myself texts by emailing my phone number. 
+
+
+https://www.att.com/support/article/wireless/KM1061254/",4,1757607992.0,https://reddit.com/r/webdev/comments/1ne94dy/whats_your_go_to_approach_for_adding_sms_to_small/ndnqvsg/,False,0,0,,False,2025-09-11T20:24:49.709438+00:00,webdev
+ndmwg14,1ne94dy,1ne94dy,mrswats,I'd say do not send sms if you can avoid it.,6,1757598953.0,https://reddit.com/r/webdev/comments/1ne94dy/whats_your_go_to_approach_for_adding_sms_to_small/ndmwg14/,False,0,0,,False,2025-09-11T20:24:49.709449+00:00,webdev
+ndn9i9t,1ne94dy,1ne94dy,GoodOk2589,"Cheapest way i found was to get an OpenPhone subscription (about 25$/month), it comes with an API and unlimited SMS, We use it in a massive pharmaceutical prescription delivery system.",2,1757602867.0,https://reddit.com/r/webdev/comments/1ne94dy/whats_your_go_to_approach_for_adding_sms_to_small/ndn9i9t/,False,0,0,,False,2025-09-11T20:24:49.709457+00:00,webdev
+ndo3x9p,1ne94dy,1ne94dy,v-and-bruno,"Go with email, make a noreply@email.com with something like Zoho (free) and set it up with node mailer. 
+
+Like everyone else already said, SMS doesn't really make sense unless you're Meta, Shopify or Amazon.",2,1757611699.0,https://reddit.com/r/webdev/comments/1ne94dy/whats_your_go_to_approach_for_adding_sms_to_small/ndo3x9p/,False,0,0,,False,2025-09-11T20:24:49.709466+00:00,webdev
+ndn9c3o,1ne94dy,ndmykjf,electricity_is_life,"There are definitely services that are cheaper than Twilio, they're one of the most expensive providers. SignalWire is much cheaper for instance. But I agree that it's not something to mess with unless you really need it.",4,1757602816.0,https://reddit.com/r/webdev/comments/1ne94dy/whats_your_go_to_approach_for_adding_sms_to_small/ndn9c3o/,False,1,0,,False,2025-09-11T20:24:49.709479+00:00,webdev
+ndn04x7,1ne94dy,ndmykjf,Educational_Bed8483,"True, Twilio is super reliable but also really pricey. What I’ve been looking at is just routing SMS through your own phone/SIM — for small apps. For some use cases it can be way cheaper if you already have unlimited texts. Not for everyone, but an interesting alternative for sending sms over API.",1,1757600088.0,https://reddit.com/r/webdev/comments/1ne94dy/whats_your_go_to_approach_for_adding_sms_to_small/ndn04x7/,True,1,0,,False,2025-09-11T20:24:49.709490+00:00,webdev
+ndnzng8,1ne94dy,ndnqvsg,Educational_Bed8483,I scrapped up mvp for sending myself sms over api using my phone. That's basically solution for myself but figured out I can share and see if it's useful for others: [https://www.simgate.app](https://www.simgate.app),2,1757610504.0,https://reddit.com/r/webdev/comments/1ne94dy/whats_your_go_to_approach_for_adding_sms_to_small/ndnzng8/,True,1,0,,False,2025-09-11T20:24:49.709512+00:00,webdev
+ndoufce,1ne94dy,ndnqvsg,originalname104,We use text magic. Good service but not cheap vs just email.,1,1757619205.0,https://reddit.com/r/webdev/comments/1ne94dy/whats_your_go_to_approach_for_adding_sms_to_small/ndoufce/,False,1,0,,False,2025-09-11T20:24:49.709521+00:00,webdev
+ndnfd55,1ne94dy,ndn9c3o,who_am_i_to_say_so,"Yeah I'm working with numbers from a few years ago. Anything other than Twilio was about the same price +/- 10%, and with a rickety SDK to boot.",2,1757604606.0,https://reddit.com/r/webdev/comments/1ne94dy/whats_your_go_to_approach_for_adding_sms_to_small/ndnfd55/,False,2,0,,False,2025-09-11T20:24:49.709533+00:00,webdev
+ndn0lft,1ne94dy,ndn04x7,who_am_i_to_say_so,"Maybe as a funsies, sure! 
+
+But you don’t wan’t customers controlling this on their end. It is an invitation for attacks, unsent messages, and hijacking.",4,1757600226.0,https://reddit.com/r/webdev/comments/1ne94dy/whats_your_go_to_approach_for_adding_sms_to_small/ndn0lft/,False,2,0,,False,2025-09-11T20:24:49.709542+00:00,webdev
+ndn1vkh,1ne94dy,ndn04x7,IanVg,Oh God. Don't do that. Your number will get blacklisted so quickly,3,1757600612.0,https://reddit.com/r/webdev/comments/1ne94dy/whats_your_go_to_approach_for_adding_sms_to_small/ndn1vkh/,False,2,0,,False,2025-09-11T20:24:49.709551+00:00,webdev
+ndn2ds7,1ne94dy,ndn1vkh,Educational_Bed8483,"That’s true if you’re blasting bulk unsolicited SMS.. carriers can definitely flag you. But if you’re just sending normal volumes the same way you would manually from your phone the messages look no different than any other phone to phone SMS. So in practice, it behaves like a regular device sending texts and not like a bulk SMS provider that carriers tend to block.",1,1757600761.0,https://reddit.com/r/webdev/comments/1ne94dy/whats_your_go_to_approach_for_adding_sms_to_small/ndn2ds7/,True,3,0,,False,2025-09-11T20:24:49.709563+00:00,webdev

@@ -1,0 +1,86 @@
+id,title,selftext,subreddit,author,score,upvote_ratio,num_comments,created_utc,url,permalink,link_flair_text,is_self,over_18,spoiler,stickied,locked,distinguished,retrieved_at,comments_collected,top_comment_score,avg_comment_score
+1n67lft,[D] Self-Promotion Thread,"Please post your personal projects, startups, product placements, collaboration needs, blogs etc.
+
+Please mention the payment and pricing requirements for products and services.
+
+Please do not post link shorteners, link aggregator websites , or auto-subscribe links.
+
+\--
+
+Any abuse of trust will lead to bans.
+
+Encourage others who create new posts for questions to post here instead!
+
+Thread will stay alive until next one so keep posting after the date in the title.
+
+\--
+
+Meta: This is an experiment. If the community doesnt like this, we will cancel it. This is to encourage those in the community to promote their work by not spamming the main threads.",MachineLearning,AutoModerator,14,0.89,26,1756779330.0,https://www.reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/,https://reddit.com/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/,Discussion,True,False,False,True,False,,2025-09-11T20:23:58.357272+00:00,15,6.0,1.5333333333333334
+1n4jdo7,[D] Monthly Who's Hiring and Who wants to be Hired?,"**For Job Postings** please use this template
+
+>Hiring: \[Location\], Salary:\[\], \[Remote | Relocation\], \[Full Time | Contract | Part Time\]    and \[Brief overview, what you're looking for\]
+
+**For Those looking for jobs** please use this template
+
+>Want to be Hired: \[Location\], Salary Expectation:\[\], \[Remote | Relocation\], \[Full Time | Contract | Part Time\]  Resume: \[Link to resume\] and \[Brief overview, what you're looking for\]
+
+&#x200B;
+
+Please remember that this community is geared towards those with experience.",MachineLearning,AutoModerator,14,0.82,2,1756607434.0,https://www.reddit.com/r/MachineLearning/comments/1n4jdo7/d_monthly_whos_hiring_and_who_wants_to_be_hired/,https://reddit.com/r/MachineLearning/comments/1n4jdo7/d_monthly_whos_hiring_and_who_wants_to_be_hired/,Discussion,True,False,False,True,False,,2025-09-11T20:24:00.863989+00:00,0,,
+1neccr0,[P] Semlib: LLM-powered Data Processing,"I've been thinking a lot about semantic data processing recently. A lot of the attention in AI has been on agents and chatbots (e.g., Claude Code or Claude Desktop), and I think semantic data processing is not well-served by such tools (or frameworks designed for implementing such tools, like LangChain).
+
+As I was working on some concrete semantic data processing problems and writing a lot of Python code (to call LLMs in a for loop, for example, and then adding more and more code to do things like I/O concurrency and caching), I wanted to figure out how to disentangle data processing pipeline logic from LLM orchestration. Functional programming primitives (map, reduce, etc.), common in data processing systems like MapReduce/Flume/Spark, seemed like a natural fit, so I implemented semantic versions of these operators. It's been pretty effective for the data processing tasks I've been trying to do.
+
+This blog post (https://anishathalye.com/semlib/) shares some more details on the story here and elaborates what I like about this approach to semantic data processing. It also covers some of the related work in this area (like DocETL from Berkeley's EPIC Data Lab, LOTUS from Stanford and Berkeley, and Palimpzest from MIT's Data Systems Group).
+
+Like a lot of my past work, the software itself isn't all that fancy; but it might change the way you think!
+
+The software is open-source at https://github.com/anishathalye/semlib. I'm very curious to hear the community's thoughts!",MachineLearning,anishathalye,6,0.8,2,1757605750.0,https://www.reddit.com/r/MachineLearning/comments/1neccr0/p_semlib_llmpowered_data_processing/,https://reddit.com/r/MachineLearning/comments/1neccr0/p_semlib_llmpowered_data_processing/,Project,True,False,False,False,False,,2025-09-11T20:24:03.370230+00:00,2,2.0,2.0
+1nehy84,[D] Math foundations to understand Convergence proofs?,"Good day everyone, recently I've become interested in proofs of convergence for federated (and non-federated) algorithms, something like what's seen in appendix A of the [FedProx paper](https://anitksahu.github.io/FedProx.pdf) (one page of it attached below)
+
+I managed to go through the proof once and learn things like first order convexity condition from random blogs, but I don't think I will be able to do serious math with hackjobs like that. I need to get my math foundations up to a level where I can write one such proof intuitively.
+
+So my question is: What resources must I study to get my math foundations up to par? Convex optimization by Boyd doesn't go through convergence analysis at all and even the convex optimization books that do, none of them use expectations over the iteration to proof convergence. Thanks for your time
+
+https://preview.redd.it/481lxdf47lof1.png?width=793&format=png&auto=webp&s=6771d3ffe8a533155aa145b2ec691181a30968b9
+
+",MachineLearning,james_stevensson,4,0.83,1,1757618533.0,https://www.reddit.com/r/MachineLearning/comments/1nehy84/d_math_foundations_to_understand_convergence/,https://reddit.com/r/MachineLearning/comments/1nehy84/d_math_foundations_to_understand_convergence/,Discussion,True,False,False,False,False,,2025-09-11T20:24:05.874168+00:00,1,5.0,5.0
+1nee9fl,[D] Universal Deep Research (UDR): A general wrapper for LLM-Based research,"Just read Universal Deep Research by Nvidia , which tries to tackle the problem of “AI research agents” in a pretty different way. Most existing systems bolt an LLM onto search and call it a day: you send a query, it scrapes the web, summarizes, and gives you something vaguely essay-like.
+
+UDR goes another way. Instead of fixing one pipeline, it lets you write a research strategy in plain English. That gets compiled into code, run in a sandbox, and can call whatever tools you want — search APIs, ranking, multiple LLMs. State lives in variables, not the LLM’s memory, so it’s cheaper and less flaky.
+
+What makes this relevant to web search: UDR doesn’t care *which* backend you use. It could be Google, PubMed, Linkup, Exa or whatever. UDR tries to be the orchestration layer where you decide how to use that feed.
+
+Upside: modularity, reliability, and mix-and-match between search + models. Downside: you actually need to define a strategy, and bad search in still means bad results out.
+
+I like it as a reframing: not another “AI search engine,” but a framework where search is just one part
+
+https://preview.redd.it/kh7kce0ahkof1.png?width=2562&format=png&auto=webp&s=95d19b8e718de36c40468e6d2d6ffbe5bbc37e72
+
+",MachineLearning,No_Marionberry_5366,1,0.6,1,1757610124.0,https://www.reddit.com/r/MachineLearning/comments/1nee9fl/d_universal_deep_research_udr_a_general_wrapper/,https://reddit.com/r/MachineLearning/comments/1nee9fl/d_universal_deep_research_udr_a_general_wrapper/,Research,True,False,False,False,False,,2025-09-11T20:24:08.384216+00:00,1,1.0,1.0
+1ndo5md,[D]NVIDIA Blackwell Ultra crushes MLPerf,"NVIDIA dropped MLPerf results for Blackwell Ultra yesterday. 5× throughput on DeepSeek-R1, record runs on Llama 3.1 and Whisper, plus some clever tricks like FP8 KV-cache and disaggregated serving. The raw numbers are insane.
+
+But I wonder though . If these benchmark wins actually translate into lower real-world inference costs.
+
+In practice, workloads are bursty. GPUs sit idle, batching only helps if you have steady traffic, and orchestration across models is messy. You can have the fastest chip in the world, but if 70% of the time it’s underutilized, the economics don’t look so great to me. IMO",MachineLearning,pmv143,48,0.94,12,1757533191.0,https://www.reddit.com/r/MachineLearning/comments/1ndo5md/dnvidia_blackwell_ultra_crushes_mlperf/,https://reddit.com/r/MachineLearning/comments/1ndo5md/dnvidia_blackwell_ultra_crushes_mlperf/,Discussion,True,False,False,False,False,,2025-09-11T20:24:10.890709+00:00,7,22.0,5.142857142857143
+1ndulfv,[D] The best way to structure data for a predictive model of corporate delinquency,"I have annual financial indicators for thousands of clients (businesses), their credit data, and delinquency data, and I want to use this data to create a predictive model.
+
+But what's the best way to structure the data?
+
+* Take the annual financial data and associate it with the following year's delinquency data. So, for example, data from 2024 will predict delinquency in 2025.
+
+OR
+
+* Group by client and calculate the average, maximum, and minimum of the financial data to see if this data can predict delinquency.",MachineLearning,drv29,3,0.64,3,1757549750.0,https://www.reddit.com/r/MachineLearning/comments/1ndulfv/d_the_best_way_to_structure_data_for_a_predictive/,https://reddit.com/r/MachineLearning/comments/1ndulfv/d_the_best_way_to_structure_data_for_a_predictive/,Discussion,True,False,False,False,False,,2025-09-11T20:24:13.398592+00:00,2,1.0,1.0
+1ndtey6,[D] Having trouble organising massive CSV files for your machine learning models?,"I've been fighting with CSVs from our high end power quality meter from a very reputable instrument company. 
+
+The CSV files come out from the unit immediately unusable and at 2 million samples per second its a huge dataset, and we take lots of measurements. I made some scripts go clean it but its still a mission every time that I dread to get to the good bit. ",MachineLearning,grabber500,4,0.64,17,1757546402.0,https://www.reddit.com/r/MachineLearning/comments/1ndtey6/d_having_trouble_organising_massive_csv_files_for/,https://reddit.com/r/MachineLearning/comments/1ndtey6/d_having_trouble_organising_massive_csv_files_for/,Discussion,True,False,False,False,False,,2025-09-11T20:24:15.902969+00:00,13,11.0,3.5384615384615383
+1ndaesz,[D] SOTA modern alternative to BertScore?,"Hi everyone,  
+I’m looking for an embedding-based metric to score text generation. BertScore is great, but it’s a bit outdated. Could you suggest some modern state-of-the-art alternatives?
+
+",MachineLearning,Soft-Possibility2929,15,0.86,4,1757499778.0,https://www.reddit.com/r/MachineLearning/comments/1ndaesz/d_sota_modern_alternative_to_bertscore/,https://reddit.com/r/MachineLearning/comments/1ndaesz/d_sota_modern_alternative_to_bertscore/,Discussion,True,False,False,False,False,,2025-09-11T20:24:18.411418+00:00,3,3.0,2.3333333333333335
+1ndbzb7,[D] ICCV 2025 registration,"Two years ago at Paris I had a workshop paper, I purchased the workshop entrance ticket, everything is okay.
+
+This year I have done the same and now I am receiving emails saying only a full conference entrance is considered an author registration for a workshop paper. 
+
+I did see the website is slightly different this year but still… the code of conduct did not explain this clearly, does anyone have better insights for me?",MachineLearning,ScaryCommission7829,4,0.75,0,1757504917.0,https://www.reddit.com/r/MachineLearning/comments/1ndbzb7/d_iccv_2025_registration/,https://reddit.com/r/MachineLearning/comments/1ndbzb7/d_iccv_2025_registration/,Discussion,True,False,False,False,False,,2025-09-11T20:24:20.914177+00:00,0,,
